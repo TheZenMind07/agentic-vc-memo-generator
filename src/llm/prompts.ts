@@ -77,8 +77,10 @@ export function analyzeCandidate(
   return [
     system(
       "You are an investment analyst. Analyze a startup against a stated thesis and rubric. " +
-        "Return ONLY JSON. Cite source URLs for factual claims; prefix a claim with \"[inferred]\" " +
-        "when reasoning without a source; use null when a field is unknown. Never invent data.",
+        "Return ONLY JSON. Every factual claim MUST be followed by an inline citation link like " +
+        "[source](URL). When you reason without a source, prefix the claim with \"[inferred]\". " +
+        "Use null when a field is unknown. Never invent data. A claim with no link and no " +
+        "\"[inferred]\" tag will be flagged as uncited.",
     ),
     user(
       `Thesis:\n${thesis}\n\n` +
@@ -98,7 +100,11 @@ export function analyzeCandidate(
         `Rules: subScores must use the exact criterion keys/labels/weights from the rubric. ` +
         `Rating scale: 0 = no evidence / weakest, ${rubric.criteria[0]?.scale ?? 5} = exceptional / strongest; ` +
         `use the full range (a neutral rating is the midpoint). ` +
-        `The final 0-100 score is computed from subScores — do not freehand it; leave it out (omit "score").`,
+        `The final 0-100 score is computed from subScores — do not freehand it; leave it out (omit "score").\n` +
+        `Citation rule: in "summary", "plainLanguage", "sizeHint", "competitiveLandscape", "whyNow", ` +
+        `"rationale" and founder "background" strings, append an inline markdown link [source](URL) after ` +
+        `every factual claim, or prefix the claim with "[inferred]" if it is your reasoning. ` +
+        `Also keep the per-section "sourceUrls" arrays populated with the URLs you cited.`,
     ),
   ];
 }

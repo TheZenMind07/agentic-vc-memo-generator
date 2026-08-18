@@ -4,6 +4,7 @@ import { founderSchema, riskSchema } from "../types";
 import type { LlmClient } from "../llm/client";
 import { analyzeCandidate as analyzeMessages, thesisText } from "../llm/prompts";
 import { computeScore } from "../scoring";
+import { checkCitations } from "./citations";
 
 /** The JSON the LLM is asked to return (weights/keys enforced from config). */
 const llmAnalysisSchema = z.object({
@@ -89,7 +90,9 @@ export async function runAnalysis(client: LlmClient, config: RunConfig, candidat
   const llm = await client.json(llmAnalysisSchema, analyzeMessages(candidate, rubric, thesis), {
     model: config.analysis.model,
   });
-  return buildAnalysis(candidate.id, llm, rubric);
+  const analysis = buildAnalysis(candidate.id, llm, rubric);
+  if (config.analysis.requireCitations) return checkCitations(analysis);
+  return analysis;
 }
 
 /** Degraded analysis for when the LLM fails or data is unusable. */

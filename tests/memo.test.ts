@@ -73,4 +73,22 @@ describe("renderMemo", () => {
     const text = renderMemo(candidate, { ...analysis, score: null }, { ...memo, score: null });
     expect(text).toContain("n/a");
   });
+
+  it("renders clickable source links when sources exist", () => {
+    const withSources = {
+      ...analysis,
+      team: { ...analysis.team, sourceUrls: ["https://team.example"] },
+      product: { ...analysis.product, sourceUrls: ["https://product.example"] },
+      market: { ...analysis.market, sourceUrls: [] },
+    };
+    const text = renderMemo(candidate, withSources, memo);
+    expect(text).toContain("## Sources");
+    expect(text).toContain("[https://team.example](https://team.example)");
+    expect(text).toContain("[https://product.example](https://product.example)");
+  });
+
+  it("omits the Sources section when no sources exist", () => {
+    const text = renderMemo(candidate, analysis, memo);
+    expect(text).not.toContain("## Sources");
+  });
 });

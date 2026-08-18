@@ -72,6 +72,20 @@ export async function runRecommendation(
   };
 }
 
+/** Collect the unique source URLs cited across all analysis sections. */
+export function collectSources(analysis: Analysis): string[] {
+  const seen = new Set<string>();
+  for (const url of [
+    ...analysis.team.sourceUrls,
+    ...analysis.product.sourceUrls,
+    ...analysis.market.sourceUrls,
+  ]) {
+    const u = url.trim();
+    if (u && !seen.has(u)) seen.add(u);
+  }
+  return [...seen];
+}
+
 /** Render a one-page markdown memo. */
 export function renderMemo(candidate: Candidate, analysis: Analysis, memo: Memo): string {
   const score = memo.score === null ? "n/a" : `${memo.score}/100`;
@@ -115,6 +129,12 @@ export function renderMemo(candidate: Candidate, analysis: Analysis, memo: Memo)
     "## What would change my mind",
   );
   for (const t of memo.changeMyMind) lines.push(`- ${t}`);
+
+  const sources = collectSources(analysis);
+  if (sources.length > 0) {
+    lines.push("", "## Sources");
+    for (const s of sources) lines.push(`- [${s}](${s})`);
+  }
 
   lines.push("", "---");
   return lines.join("\n");
