@@ -22,7 +22,7 @@ Or non-interactively:
 
 ```bash
 npm run pipeline -- --source feed  --input yc                # YC 2025 (W25 + S25)
-npm run pipeline -- --source topic --input "Agentic voice call assistant"
+npm run pipeline -- --source topic --input "Agentic voice call assistant" --limit 5 
 npm run pipeline -- --source urls  --input "url1,url2"        # or @urls.txt
 npm run pipeline -- --source feed  --input yc --batch W25     # single batch
 ```
