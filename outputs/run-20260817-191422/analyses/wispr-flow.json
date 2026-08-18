@@ -1,0 +1,93 @@
+{
+  "candidateId": "wispr-flow",
+  "team": {
+    "summary": "Founders combine strong technical background, previous startup experience, and domain expertise in AI/voice. Tanay Kothari has built consumer products with meaningful organic traction (2.5M users) and sold a previous company. Sahaj Garg led AI at a deep-tech startup. Together they have founder-market fit in voice interfaces and AI.",
+    "founders": [
+      {
+        "name": "Tanay Kothari",
+        "background": "Co-founder and CEO; four-time founder; previously founded FeatherX (AI personalization startup) and built Convert (music platform, 2.5M organic monthly users); described as technically strong; led engineering at prior startup",
+        "priorExits": true
+      },
+      {
+        "name": "Sahaj Garg",
+        "background": "Co-founder and CTO; previously fifth employee and AI team lead at Luminous Computing, a deep-tech photonic hardware startup",
+        "priorExits": true
+      }
+    ],
+    "technicalDepth": "Strong; founders have hands-on technical leadership in AI and consumer products; Garg led AI team at a hardware startup, Kothari built platforms with significant scale",
+    "sourceUrls": [
+      "https://theaiinsider.tech/2025/06/27/wispr-flow-raises-30m-series-a-to-expand-ai-voice-assistant-platform/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI dictation and voice assistant app that lets users dictate and control their computer by voice.",
+    "category": "AI voice assistant / dictation",
+    "sourceUrls": [
+      "https://wisprflow.ai"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] Competitors include Otter.ai, Dragon NaturallySpeaking, and built-in OS dictation, but Wispr Flow aims to be a more seamless, always-available assistant. No specific market size data provided.",
+    "whyNow": "[inferred] Recent advances in large language models have dramatically lowered the cost and improved the accuracy of speech-to-text and semantic understanding, making voice-first computing more viable than ever.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Voice dictation market is crowded; differentiation may hinge on workflow integration rather than pure transcription. Large incumbents (Apple, Google, Microsoft) have native voice assistants with deep OS integration.",
+      "severity": "medium"
+    },
+    {
+      "text": "[inferred] No evidence of proprietary data moat or significant switching costs; app may be a thin wrapper on LLM APIs, raising defensibility concerns.",
+      "severity": "medium"
+    },
+    {
+      "text": "SMB self-serve onboarding unclear; dictation apps often require per-user training and adaptation to individual speech patterns, potentially limiting frictionless adoption.",
+      "severity": "low"
+    }
+  ],
+  "score": 63,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have strong founder-market fit in AI/voice, technical depth, and prior startup experience including a consumer product with 2.5M users and a Series A raise. Missing explicit evidence of a prior exit (exit type unknown) and limited detail on Tanay's 'sold' company, but overall exceptional."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data or workflow lock-in; generic dictation/voice assistant does not inherently have switching costs or network effects. Likely a thin LLM wrapper rather than a deep integration with vertical workflows. Low score due to lack of defensibility signals."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Product is an AI-native agent (takes voice input and action), but it's as much a copilot as a full agent (user still controls the computer). Self-serve onboarding is plausible for dictation apps but not confirmed. One-sentence articulation is clear. Neutral rating."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Voice computing is a large addressable market, but no specific vertical or credible size hint provided. Why-now driver (LLM cost collapse) is inferred but not stated. Competitors are identifiable (Otter, native assistants), but no clear wedge articulated. Neutral."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Strong signal: $30M Series A led by Menlo Ventures (news from June 2025, very fresh). No mention of paying customers or active usage numbers, but significant funding indicates investor conviction and momentum. Score reflects strong, recent traction despite limited public usage data."
+    }
+  ],
+  "scoreRationale": "Wispr Flow has a strong team and meaningful, fresh traction (Series A). However, defensibility is weak due to lack of proprietary moat, and market/product scores are neutral given no concrete size hint or differentiation. Overall a promising company in a competitive space with execution risk around moat creation."
+}

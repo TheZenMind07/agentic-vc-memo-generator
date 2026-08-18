@@ -1,0 +1,94 @@
+{
+  "candidateId": "skit-ai",
+  "team": {
+    "summary": "Co-founders Sourabh Gupta (CEO) and Akshay Deshraj (CTO) founded Skit.ai in 2016. Both have IIT Roorkee backgrounds; Sourabh is a Forbes 30U30 honoree. The team has deep domain experience in voice AI for contact centers, accumulated over 8+ years. No prior startup exits are known. Technical depth is implied by Akshay's CTO role and the company's long-standing AI focus, but exact ownership of core models is not verifiable from provided sources.",
+    "founders": [
+      {
+        "name": "Sourabh Gupta",
+        "background": "Co-founder and CEO of Skit.ai; graduated from IIT Roorkee; named to Forbes 30 Under 30.",
+        "priorExits": null
+      },
+      {
+        "name": "Akshay Deshraj",
+        "background": "Co-founder and CTO of Skit.ai; technical leadership role as described by WestBridge Capital.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "CTO Akshay Deshraj's role and the company's in-house voice AI development over 8+ years suggest strong technical depth, though the extent of proprietary model ownership is not explicitly confirmed.",
+    "sourceUrls": [
+      "https://westbridgecap.com/portfolio/skit-ai",
+      "https://westbridgecap.com/people/founder/akshay-deshraj"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Voice AI SaaS for contact centers and customer experience automation.",
+    "category": "Contact center automation / Voice AI",
+    "sourceUrls": [
+      "https://westbridgecap.com/portfolio/skit-ai"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] The contact center market is large (tens of billions) but competitive, with incumbents like Five9, Talkdesk, and NICE, and newer AI-native players. Skit.ai's specific niche and wedge are not stated in provided sources.",
+    "whyNow": "[inferred] Skit.ai was founded in 2016, predating the recent LLM cost collapse; however, advances in voice AI and LLMs may have created a 'why-now' tailwind for their product in recent years.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Traction signals are stale (Series B in 2021, no recent launches or usage data provided).",
+      "severity": "high"
+    },
+    {
+      "text": "Enterprise focus likely implies heavy sales and implementation effort, reducing self-serve SMB appeal.",
+      "severity": "medium"
+    },
+    {
+      "text": "Strong competition from established contact center platforms and other AI-native startups poses a risk to differentiation.",
+      "severity": "medium"
+    }
+  ],
+  "score": 66,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have deep domain experience since 2016 and complementary CEO/CTO roles. Technical depth is strong given the in-house voice AI development. No prior exits are known, but founder-market fit is high. Rated 4/5."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Serving 60+ enterprises suggests workflow lock-in and switching costs. Not a thin LLM wrapper, and likely not dependent on a single horizontal platform. Rated 4/5."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent that can automate calls end-to-end. One-liner is clear. Self-serve onboarding for SMBs is unlikely given enterprise focus; thus a neutral rating. Rated 3/5."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Vertical (contact centers) is clear but no size hint provided. Why-now driver is not explicitly cited; the company predates LLM cost collapse. Competitors exist but no stated wedge. Rated 2/5."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Founded 2016, Series B in 2021, and 60+ enterprises are positive but stale. No recent traction signals (e.g., new funding, launches) in provided sources. Rated 2/5."
+    }
+  ],
+  "scoreRationale": "The startup shows strong team and defensibility with deep domain experience and enterprise lock-in, but product is not clearly self-serve, market rationale is thin, and traction signals are not recent. The weighted subScores yield a moderate overall assessment, but final score is omitted per instructions."
+}

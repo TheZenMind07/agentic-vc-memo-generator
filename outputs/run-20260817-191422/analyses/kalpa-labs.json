@@ -1,0 +1,99 @@
+{
+  "candidateId": "kalpa-labs",
+  "team": {
+    "summary": "Founders have strong technical backgrounds: Prashant Shishodia led full-stack ML on Google Assistant and scaled Gemini variants; Gautam Jha built low-latency HFT systems and now focuses on generalist speech systems. No prior startup exits are evident. Founder-market fit is plausible for a speech/voice AI vertical, but domain operating experience is not explicitly demonstrated.",
+    "founders": [
+      {
+        "name": "Prashant Shishodia",
+        "background": "Co-founder and CEO. Previously led full-stack ML on Google Assistant and worked on scaling smaller Gemini variants to billions of queries per month. Also listed as CEO & Founder at Kalpa Labs (YC F25) and previously at Google.",
+        "priorExits": null
+      },
+      {
+        "name": "Gautam Jha",
+        "background": "Co-founder and CTO. Previously built low-latency systems in high-frequency trading. Forbes Councils describes him as co-founder and CTO at Kalpa Labs focused on generalist speech systems.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] High – both founders have deep technical experience in ML systems and low-latency engineering, suggesting they can own the core model/integration layer in-house.",
+    "sourceUrls": [
+      "https://startupintros.com/orgs/kalpa-labs"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] Unknown – no one-liner or product description available. Based on founder focus, likely a speech AI system, but not clearly articulated.",
+    "category": "[inferred] Speech AI / Voice Agent",
+    "sourceUrls": [
+      "https://startupintros.com/orgs/kalpa-labs"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": "[inferred] Possibly LLM cost collapse enabling speech AI, but no explicit why-now driver stated.",
+    "sourceUrls": [
+      "https://startupintros.com/orgs/kalpa-labs"
+    ]
+  },
+  "risks": [
+    {
+      "text": "No product description or one-liner available – unclear what the startup actually builds or how it differentiates.",
+      "severity": "critical"
+    },
+    {
+      "text": "No evidence of defensibility (proprietary data, workflow lock-in, network effects) – risk of being a thin LLM wrapper.",
+      "severity": "high"
+    },
+    {
+      "text": "Market size and competitive landscape are unknown – no credible vertical size hint or identified competitors.",
+      "severity": "high"
+    },
+    {
+      "text": "Traction is limited to a seed funding round; no paying customers, active usage, or community signals are mentioned.",
+      "severity": "medium"
+    }
+  ],
+  "score": 36,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong technical depth and relevant experience (Google Assistant, HFT). Founder-market fit is plausible but not proven. No prior exits. Rating reflects strong but not exceptional evidence."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No information on proprietary data, workflow lock-in, switching costs, or network effects. High risk of being a thin wrapper. Rating low due to lack of evidence."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "No product description, one-liner, or evidence of an AI-native agent. Cannot assess self-serve onboarding or clarity. Rating zero due to complete absence of information."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical size hint, why-now driver, or competitive landscape provided. Inferred speech AI vertical but no credible data. Rating low."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "$500K seed funding and YC F25 batch indicate recent signal and freshness. However, no paying customers, active usage, or community traction. Rating reflects some signal but limited."
+    }
+  ],
+  "scoreRationale": "The startup has a strong founding team with deep technical backgrounds, but lacks any product clarity, defensibility evidence, or market specifics. Traction is minimal (seed funding only). The overall assessment is heavily constrained by missing information, making it difficult to justify investment under the stated thesis."
+}

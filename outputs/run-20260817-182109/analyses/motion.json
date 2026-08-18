@@ -1,0 +1,104 @@
+{
+  "candidateId": "motion",
+  "team": {
+    "summary": "Three technical co-founders with quantitative trading and big-tech engineering experience (Facebook, WhatsApp, Optimizely). They have been building Motion since 2019, giving them deep product familiarity, but lack explicit SMB domain expertise or prior exits.",
+    "founders": [
+      {
+        "name": "Harry Qi",
+        "background": "Dartmouth math + CS; quant trader 2+ years; co-founded Motion in 2019.",
+        "priorExits": null
+      },
+      {
+        "name": "Omid Rooholfada",
+        "background": "Yale math + CS; engineering at Facebook and Optimizely; co-founded Motion.",
+        "priorExits": null
+      },
+      {
+        "name": "Ethan Yu",
+        "background": "Dartmouth CS; quant trader 3 years; software engineer at WhatsApp and Facebook; co-founded Motion.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Strong – all three founders have deep technical backgrounds in quantitative trading and large-scale engineering at top-tier tech companies.",
+    "sourceUrls": [
+      "https://www.techbuzz.ai/articles/motion-raises-38m-to-build-ai-agent-microsoft-office-for-smbs"
+    ]
+  },
+  "product": {
+    "plainLanguage": "An AI agent platform that automates end-to-end tasks and workflows for small and mid-sized businesses, positioning itself as an 'AI Microsoft Office' for SMBs.",
+    "category": "AI agent platform / SMB productivity",
+    "sourceUrls": [
+      "https://www.techbuzz.ai/articles/motion-raises-38m-to-build-ai-agent-microsoft-office-for-smbs"
+    ]
+  },
+  "market": {
+    "sizeHint": "Large – the global SMB market comprises millions of businesses; the AI agent layer for SMBs is a nascent but rapidly expanding category.",
+    "competitiveLandscape": "Horizontal AI assistants (Microsoft Copilot, Google Duet), vertical SaaS tools with AI features, and other AI agent startups targeting SMBs.",
+    "whyNow": "LLM cost collapse and capability improvements make it feasible to deploy affordable, autonomous AI agents for resource-constrained SMBs.",
+    "sourceUrls": [
+      "https://www.techbuzz.ai/articles/motion-raises-38m-to-build-ai-agent-microsoft-office-for-smbs"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Dependence on third-party LLM providers for core model capabilities; margin pressure if model costs rise or access changes.",
+      "severity": "medium"
+    },
+    {
+      "text": "Intense competition from well-funded horizontal platforms (Microsoft, Google) that can bundle AI agents into existing SMB productivity suites.",
+      "severity": "high"
+    },
+    {
+      "text": "SMB churn and price sensitivity may limit lifetime value and make customer acquisition economics challenging.",
+      "severity": "medium"
+    },
+    {
+      "text": "Execution risk in building a truly autonomous agent (vs. copilot) that reliably handles diverse SMB workflows without heavy customization.",
+      "severity": "medium"
+    }
+  ],
+  "score": 0,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "No rating provided by model"
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No rating provided by model"
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "No rating provided by model"
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No rating provided by model"
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "No rating provided by model"
+    }
+  ],
+  "scoreRationale": "Motion scores well overall due to a technically exceptional team, a timely market entry with a clear AI-agent wedge, and fresh Series C traction. Defensibility is the main gap – the moat will depend on execution speed to build workflow lock-in before horizontal incumbents embed similar agents. Product clarity and market timing are strong."
+}

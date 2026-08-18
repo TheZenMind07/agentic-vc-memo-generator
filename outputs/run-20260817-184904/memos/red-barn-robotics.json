@@ -1,0 +1,12 @@
+{
+  "candidateId": "red-barn-robotics",
+  "verdict": "watch",
+  "summary": "Red Barn Robotics is building autonomous mobile robots for dairy barn automation (feed pushing, manure scraping, bedding distribution). The team has deep dairy operations experience and a working prototype deployed on pilot farms. However, at 60/100 the company sits below our meeting threshold due to early commercial traction, unproven unit economics at scale, and a long hardware sales cycle in a conservative market. Worth tracking for signs of repeatable revenue and channel partnerships.",
+  "rationale": "Team (14/20): Founders are second-generation dairy farmers turned roboticists — strong domain credibility but limited prior venture-scale commercialization experience. Defensibility (11/20): Hardware + software integration creates switching costs, but IP appears limited to trade secrets and know-how; no filed patents visible. Product (13/20): Prototype validated on 3 pilot farms; modular platform design is thoughtful, but reliability data over full lactation cycles is missing. Market & Why-Now (12/20): Dairy labor shortage is acute and worsening; TAM ~$2.5B globally for barn automation. Tailwinds from sustainability mandates (methane reduction via precision feeding) and aging farmer demographics. Traction/Freshness (10/20): $180k ARR from 3 paid pilots, 12-month sales cycle, zero channel partners. Freshness risk: founded 2021, first deployments 2023 — capital efficiency unclear with $1.2M raised to date.",
+  "changeMyMind": [
+    "Signs 5+ paying dairy customers with >$50k ACV and <9 month sales cycles",
+    "Secures distribution agreement with a major dairy equipment OEM (e.g., DeLaval, GEA, BouMatic)",
+    "Demonstrates >95% robot uptime over 12 consecutive months across 10+ barns with published ROI data"
+  ],
+  "score": 60
+}

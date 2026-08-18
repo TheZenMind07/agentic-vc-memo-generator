@@ -1,0 +1,12 @@
+{
+  "candidateId": "luxonis",
+  "verdict": "pass",
+  "summary": "Luxonis builds spatial AI cameras (OAK series) and the DepthAI open-source ecosystem for embedded computer vision. While the product is technically impressive and addresses a real need in robotics/automation, the company scores 48/100 due to limited defensibility (open-source hardware), a niche market with well-funded competitors (Intel RealSense, NVIDIA Jetson), and traction that remains early relative to the capital intensity of hardware. The team is capable but lacks go-to-market depth. At this stage, the risk/reward does not meet our threshold for engagement.",
+  "rationale": "Team: Strong engineering founders (Brandon Gilles, Erik Kokalj) with deep embedded vision expertise, but missing experienced sales/channel leadership to scale beyond early adopters. Defensibility: Core IP is open-source (DepthAI, firmware); hardware designs are publicly available. Moat relies on community and integration complexity, which is thin against better-resourced rivals. Product: OAK cameras are best-in-class for price/performance and ease of use, but the product line is narrow and heavily dependent on a single form factor. Market & Why-Now: Edge AI/robotics adoption is accelerating, yet the addressable market for standalone spatial cameras is fragmented and contested by platform players offering integrated solutions. Traction/Freshness: ~$5M ARR (est.), growing ~50% YoY, but customer concentration in academia/hobbyist segments; enterprise deployments are few and pilot-stage. Freshness: product refresh cycle is slow (2+ years), and no clear roadmap for adjacent software revenue.",
+  "changeMyMind": [
+    "Signs first 10 paying enterprise customers with >$50k ACV and multi-year contracts",
+    "Hires a VP of Sales with proven channel experience in industrial automation or robotics",
+    "Launches a recurring software/services layer (e.g., model zoo subscriptions, fleet management) that contributes >20% of revenue"
+  ],
+  "score": 48
+}

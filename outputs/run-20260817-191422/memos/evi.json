@@ -1,0 +1,12 @@
+{
+  "candidateId": "evi",
+  "verdict": "pass",
+  "summary": "Evi scores 44/100, well below the 50 threshold, with critical weaknesses across all thesis criteria: no clear team track record, lack of defensibility, unproven product-market fit, and no traction. Immediate pass.",
+  "rationale": "The thesis evaluates startups on Team, Defensibility, Product, Market & Why-Now, and Traction/Freshness. Evi scores 44 out of 100, indicating substantial deficiencies in every dimension. Without a website or publicly verifiable presence, the team's expertise and execution capability cannot be assessed. The product and market rationale are unclear, and there is no evidence of customer traction or defensible moat. Per the verdict rule, any score below 50 mandates a pass, regardless of other factors.",
+  "changeMyMind": [
+    "Founders with domain expertise and a proven track record in a related market",
+    "A working MVP with at least 20 active users or 5 paying customers",
+    "A clear defensibility angle (e.g., proprietary data, network effects, or patent-pending tech)"
+  ],
+  "score": 44
+}

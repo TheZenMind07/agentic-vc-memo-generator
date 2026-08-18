@@ -1,0 +1,12 @@
+{
+  "candidateId": "kitt-ai",
+  "verdict": "pass",
+  "summary": "kitt.ai scores 25/100, far below the threshold for further consideration. The startup lacks a website and credible signals across all key criteria—team, defensibility, product, market/why-now, and traction/freshness—leading to a firm pass.",
+  "rationale": "The score of 25 reflects critical weaknesses across all thesis dimensions. No team details or domain expertise are evident; defensibility is absent without a product or IP; product is unverifiable without a website; market and why-now are unsupported; traction and freshness are zero. The rubric mandates a pass for scores <50, and this startup presents no redeeming evidence to override that rule.",
+  "changeMyMind": [
+    "Founders with verifiable AI/NLP track record and a working prototype or beta with 100+ active users",
+    "Proof of a defensible technology (e.g., proprietary data, published research, or patent filings) and a clear go-to-market plan for a specific vertical",
+    "At least 5 letters of intent from enterprise customers or a pilot with a named brand"
+  ],
+  "score": 25
+}

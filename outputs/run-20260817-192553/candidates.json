@@ -1,0 +1,109 @@
+[
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "website": "https://elevenlabs.io",
+    "oneLiner": "Voice AI company building foundational models across text-to-speech, transcription, music, dubbing, and conversational models.",
+    "founders": [
+      "Mati Staniszewski",
+      "Piotr Dąbkowski"
+    ],
+    "teamSignal": "Mati Staniszewski: Co-founded ElevenLabs in 2022; studied mathematics in London and previously worked at Palantir. Reported as the CEO and described as one of the two founders.; Piotr Dąbkowski: Co-founded ElevenLabs in 2022; described as an ex-Google machine learning engineer with deep technical/AI research background. Reports also note study at Oxford and Cambridge and strong machine learning research depth.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $500 million Series D at an $11 billion valuation",
+      "sourceUrl": "https://www.business-standard.com/companies/start-ups/elevenlabs-raises-500-million-series-d-valuation-11-bn-126020401896_1.html",
+      "date": "2026-02-04"
+    },
+    "sourceUrls": [
+      "https://www.business-standard.com/companies/start-ups/elevenlabs-raises-500-million-series-d-valuation-11-bn-126020401896_1.html",
+      "https://neuronfeed.com/category/ai-voice"
+    ]
+  },
+  {
+    "id": "synthflow-ai",
+    "name": "Synthflow AI",
+    "website": "https://synthflow.ai",
+    "oneLiner": "No-code AI voice assistant platform for small businesses and customer interactions.",
+    "founders": [
+      "Hakob Astabatsyan",
+      "Albert Astabatsyan",
+      "Sassun Mirzakhan-Saky"
+    ],
+    "teamSignal": "Hakob Astabatsyan: Co-founder and CEO. Previously worked in strategy consulting at BCG and in venture building at Rocket Internet. Public interview and speaker bio describe him as building Synthflow in Berlin and leading the company’s growth.; Albert Astabatsyan: Co-founder and Chief Product Officer. Public materials identify him as a co-founder; a public interview references him as a CFA and co-founder, but no clearer prior startup or exit history was found.; Sassun Mirzakhan-Saky: Co-founder and Chief Technology Officer. Public company page identifies him as CTO; no clear prior startup or exit history was found.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $7.4 million seed funding",
+      "sourceUrl": "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes",
+      "date": "2024-06-27"
+    },
+    "sourceUrls": [
+      "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes"
+    ]
+  },
+  {
+    "id": "waveforms-ai",
+    "name": "WaveForms AI",
+    "website": null,
+    "oneLiner": "AI audio software focused on better spoken conversations with computers and emotional cues.",
+    "founders": [
+      "Alexis Conneau",
+      "Coralie Lemaitre"
+    ],
+    "teamSignal": "Alexis Conneau: Co-founder and CEO; former OpenAI researcher/voice lead, previously at Meta; technical depth in audio AI and speech/voice models.; Coralie Lemaitre: Co-founder and COO; background cited as Google/ads strategy; public sources also describe her as a business/product operator. A direct prior startup/exits record was not clearly findable.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $40 million in funding from Andreessen Horowitz; company said it was valued at $200 million",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2024-12-09/ai-voice-startup-from-ex-openai-researcher-valued-at-200-million",
+      "date": "2024-12-09"
+    },
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2024-12-09/ai-voice-startup-from-ex-openai-researcher-valued-at-200-million"
+    ]
+  },
+  {
+    "id": "retell-ai",
+    "name": "Retell AI",
+    "website": "https://retellai.com",
+    "oneLiner": "Voice agent platform for automating tier-one call center calls with AI voice agents.",
+    "founders": [
+      "Bing Wu",
+      "Zexia Zhang",
+      "Todd Li",
+      "Weijia Yu",
+      "Evie Wang"
+    ],
+    "teamSignal": "Bing Wu: Co-founder and CEO at Retell AI; previously a product manager at ByteDance/TikTok building AI features.; Zexia Zhang: Co-founder and CTO at Retell AI; Google alum with work in speech/language tech and NLP.; Todd Li: Co-founder and President at Retell AI; repeat founder and ex-Google Ads engineer.; Weijia Yu: Co-founder at Retell AI; ex-Meta product lead / tech lead.; Evie Wang: Co-founder at Retell AI; ex-ByteDance product designer.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Described as the fastest-growing AI voice agent platform; reported to handle 40 million monthly calls",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-retell-ai-145200025.html",
+      "date": "2026-06-22"
+    },
+    "sourceUrls": [
+      "https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-retell-ai-145200025.html",
+      "https://www.f6s.com/companies/voice-ai/mo"
+    ]
+  },
+  {
+    "id": "polyai",
+    "name": "PolyAI",
+    "website": null,
+    "oneLiner": "AI assistant developer for call centres.",
+    "founders": [
+      "Nikola Mrkšić",
+      "Shawn Wen",
+      "Eddy Su"
+    ],
+    "teamSignal": "Nikola Mrkšić: Co-founder and CEO of PolyAI. He previously worked at Apple-acquired VocalIQ as the first engineer and is a Cambridge conversational AI researcher; PolyAI was started after his PhD work at the University of Cambridge. The public sources also describe him as a technically deep machine-learning/conversational-AI founder.; Shawn Wen: Co-founder and CTO of PolyAI. Public sources describe him as a University of Cambridge / Machine Intelligence Lab researcher and conversational AI specialist with strong technical depth.; Eddy Su: Co-founder and SVP Engineering of PolyAI. Public sources describe him as one of the Cambridge Machine Intelligence Lab researchers behind the company, with engineering-focused technical depth.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Reported funding of $240.4 million",
+      "sourceUrl": "https://www.seedtable.com/best-voice-assistant-startups",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.seedtable.com/best-voice-assistant-startups"
+    ]
+  }
+]

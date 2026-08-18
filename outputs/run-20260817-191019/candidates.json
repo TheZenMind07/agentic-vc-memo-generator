@@ -1,0 +1,318 @@
+[
+  {
+    "id": "deepgram",
+    "name": "Deepgram",
+    "website": "https://deepgram.com",
+    "oneLiner": "Voice AI platform for speech-to-text, speech understanding, and real-time conversational applications.",
+    "founders": [
+      "Scott Stephenson",
+      "Adam Sypniewski",
+      "Noah Shutty"
+    ],
+    "teamSignal": "Scott Stephenson: Co-founder and CEO; PhD in particle physics from the University of Michigan; built a lab two miles underground to detect dark matter; left physics postdoc research to found Deepgram.; Adam Sypniewski: Co-founder; former University of Michigan physicist; technical background in physics and audio/deep learning work at Deepgram.; Noah Shutty: Co-founder; former University of Michigan physicist; technical background in math/physics and early audio-recording work that helped inspire Deepgram.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $130 million at a $1.3 billion valuation in January 2026",
+      "sourceUrl": "https://www.reuters.com/technology/voice-ai-startup-deepgram-raises-130-million-13-billion-valuation-2026-01-13/",
+      "date": "2026-01-13"
+    },
+    "sourceUrls": [
+      "https://www.reuters.com/technology/voice-ai-startup-deepgram-raises-130-million-13-billion-valuation-2026-01-13/",
+      "https://agentvoice.com/blog/ai-voice-agents-funding-market-map/"
+    ]
+  },
+  {
+    "id": "vapi",
+    "name": "Vapi",
+    "website": "https://vapi.ai",
+    "oneLiner": "Voice artificial intelligence startup focused on changing how people talk to computers and experience phone calls.",
+    "founders": [
+      "Jordan Dearsley",
+      "Nikhil Gupta"
+    ],
+    "teamSignal": "Jordan Dearsley: Co-founder and CEO of Vapi; previously co-founded Superpowered, a meetings app that later pivoted into Vapi; technical background indicated by engineering focus and YC affiliation.; Nikhil Gupta: Co-founder of Vapi; previously co-founded Superpowered with Jordan Dearsley; technical background indicated by engineering focus and YC affiliation.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $50 million in May 2026",
+      "sourceUrl": "https://siliconangle.com/2026/05/12/vapi-nabs-50m-make-voice-ai-human/",
+      "date": "2026-05-12"
+    },
+    "sourceUrls": [
+      "https://siliconangle.com/2026/05/12/vapi-nabs-50m-make-voice-ai-human/",
+      "https://www.weekinvoiceai.com/p/voice-ai-funding-tracker-2026"
+    ]
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "website": "https://elevenlabs.io",
+    "oneLiner": "Voice AI company for text-to-speech, voice cloning, and voice agents.",
+    "founders": [
+      "Mateusz \"Mati\" Staniszewski",
+      "Piotr Dąbkowski"
+    ],
+    "teamSignal": "Mateusz \"Mati\" Staniszewski: Co-founded ElevenLabs in 2022; previously worked at Palantir. Public profiles describe him as the CEO and note a mathematics background from London/Imperial College context, but the strongest verified signal here is prior Palantir experience and founder status.; Piotr Dąbkowski: Co-founded ElevenLabs in 2022; described as a former Google machine learning engineer and technical lead/research-focused co-founder. Public sources also describe strong technical depth, including AI/ML research and work associated with Google/DeepMind.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $500 million Series D in February 2026 at an $11 billion valuation",
+      "sourceUrl": "https://aiweekly.co/alerts/elevenlabs-anchors-7bn-voice-ai-funding-rush-in-q1-2026",
+      "date": "2026-02-01"
+    },
+    "sourceUrls": [
+      "https://aiweekly.co/alerts/elevenlabs-anchors-7bn-voice-ai-funding-rush-in-q1-2026",
+      "https://www.neuronfeed.com/category/ai-voice"
+    ]
+  },
+  {
+    "id": "equal-ai",
+    "name": "Equal AI",
+    "website": "null",
+    "oneLiner": "Consumer voice artificial intelligence platform.",
+    "founders": [
+      "Keshav Reddy",
+      "Rajeev Ranjan",
+      "Krishna Prasad Atluri"
+    ],
+    "teamSignal": "Keshav Reddy: Founder of Equal AI; publicly described as having led investments in 30+ high-growth technology companies at Reddy Ventures, with six becoming unicorns. Public sources also indicate a family-office background and that he founded Equal in 2022.; Rajeev Ranjan: Co-founder of Equal AI; public profile confirms his role, but no detailed prior startup or exit history was clearly available in the gathered signals.; Krishna Prasad Atluri: Co-founder of Equal AI; public co-founder signal found, but no detailed prior startup or exit history was clearly available in the gathered signals.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $30 million in Series B in June 2026",
+      "sourceUrl": "https://www.livemint.com/companies/start-ups/equal-ai-funding-series-b-prosus-ventures-tomales-bay-capital-consumer-ai-voice-ai-11781241081404.html",
+      "date": "2026-06-12"
+    },
+    "sourceUrls": [
+      "https://www.livemint.com/companies/start-ups/equal-ai-funding-series-b-prosus-ventures-tomales-bay-capital-consumer-ai-voice-ai-11781241081404.html"
+    ]
+  },
+  {
+    "id": "sierra",
+    "name": "Sierra",
+    "website": "https://sierra.ai",
+    "oneLiner": "AI customer service assistant platform.",
+    "founders": [
+      "Bret Taylor",
+      "Clay Bavor"
+    ],
+    "teamSignal": "Bret Taylor: Co-founded Sierra; previously co-CEO of Salesforce, founder of Quip, former CTO of Facebook, and co-created Google Maps at Google. He also serves on the board of OpenAI.; Clay Bavor: Co-founded Sierra; spent 18 years at Google, most recently leading Google Labs. Earlier, he led Google’s AR/VR efforts including Project Starline and Google Lens, and led product and design teams for Google Workspace.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $925 million in May 2026",
+      "sourceUrl": "https://www.weekinvoiceai.com/p/voice-ai-funding-tracker-2026",
+      "date": "2026-05-01"
+    },
+    "sourceUrls": [
+      "https://www.weekinvoiceai.com/p/voice-ai-funding-tracker-2026",
+      "https://www.linkedin.com/pulse/may-voice-ais-biggest-funding-month-ivan-mehta-h2pvc"
+    ]
+  },
+  {
+    "id": "hark",
+    "name": "Hark",
+    "website": "null",
+    "oneLiner": "Multimodal AI and hardware company focused on human-computer interaction.",
+    "founders": [
+      "Brett Adcock"
+    ],
+    "teamSignal": "Brett Adcock: Founder and CEO; also founded Figure AI and Archer. Public reports describe him as a serial entrepreneur with robotics and electric aircraft experience, indicating strong technical and hardware depth.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised a $700 million seed round in May 2026",
+      "sourceUrl": "https://www.weekinvoiceai.com/p/voice-ai-funding-tracker-2026",
+      "date": "2026-05-01"
+    },
+    "sourceUrls": [
+      "https://www.weekinvoiceai.com/p/voice-ai-funding-tracker-2026",
+      "https://www.linkedin.com/pulse/may-voice-ais-biggest-funding-month-ivan-mehta-h2pvc"
+    ]
+  },
+  {
+    "id": "parloa",
+    "name": "Parloa",
+    "website": "https://www.parloa.com",
+    "oneLiner": "Enterprise voice AI assistants for customer conversations.",
+    "founders": [
+      "Malte Kosub",
+      "Stefan Ostwald"
+    ],
+    "teamSignal": "Malte Kosub: Co-founder and CEO of Parloa; previously founded Future of Voice in 2017, which became Parloa in 2018. Public profile sources describe him as a Berlin-based founder with technical/product depth in agentic AI and voice/customer-service software.; Stefan Ostwald: Co-founder and Chief AI Officer of Parloa; company materials identify him as a co-founder, but the retrieved public signals do not clearly provide prior startups/exits or a detailed background.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Reached a $3 billion valuation by early 2026",
+      "sourceUrl": "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "date": "2026-08-02"
+    },
+    "sourceUrls": [
+      "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "https://www.seedtable.com/best-voice-assistant-startups"
+    ]
+  },
+  {
+    "id": "decagon",
+    "name": "Decagon",
+    "website": "https://decagon.ai",
+    "oneLiner": "Enterprise AI assistants for customer operations.",
+    "founders": [
+      "Jesse Zhang",
+      "Ashwin Sreenivas"
+    ],
+    "teamSignal": "Jesse Zhang: Co-founder and CEO of Decagon; previously founded Lowkey, which was acquired by Niantic in 2021.; Ashwin Sreenivas: Co-founder and President of Decagon; previously founded Helia, an AI video startup acquired by Scale AI in 2020.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Reached a $4.5 billion valuation by early 2026",
+      "sourceUrl": "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "date": "2026-08-02"
+    },
+    "sourceUrls": [
+      "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "https://www.seedtable.com/best-voice-assistant-startups"
+    ]
+  },
+  {
+    "id": "cartesia",
+    "name": "Cartesia",
+    "website": "https://cartesia.ai",
+    "oneLiner": "Low-latency real-time voice generation startup.",
+    "founders": [
+      "Karan Goel",
+      "Albert Gu",
+      "Arjun Desai",
+      "Brandon Yang",
+      "Christopher Ré"
+    ],
+    "teamSignal": "Karan Goel: CEO and founder; former Stanford PhD in Computer Science/ML, worked at Snorkel AI and Salesforce AI Research, research focused on machine learning and state space models.; Albert Gu: Chief Scientist and co-founder; Stanford AI Lab PhD researcher, assistant professor at Carnegie Mellon, known for work on structured state space models (S4/SSMs).; Arjun Desai: Co-founder; Stanford AI Lab PhD-era collaborator, technical co-founder from the Stanford research team behind state space models.; Brandon Yang: Co-founder; Stanford AI Lab collaborator and technical co-founder from the original research team.; Christopher Ré: Stanford professor and co-founder/advisor; computer science professor with strong technical depth in ML systems and database/AI research, previously founded Snorkel and SambaNova.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $64 million in a Series A round",
+      "sourceUrl": "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "date": "2026-08-02"
+    },
+    "sourceUrls": [
+      "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "https://www.seedtable.com/best-voice-assistant-startups"
+    ]
+  },
+  {
+    "id": "kyutai",
+    "name": "Kyutai",
+    "website": "https://kyutai.org",
+    "oneLiner": "Open-science real-time voice AI research lab behind Moshi.",
+    "founders": [
+      "Xavier Niel",
+      "Rodolphe Saadé",
+      "Eric Schmidt"
+    ],
+    "teamSignal": "Xavier Niel: Founder and chairman of the iliad Group; cited as a co-founder/backer of Kyutai at launch.; Rodolphe Saadé: Chairman and CEO of CMA CGM; cited as a co-founder/backer of Kyutai at launch.; Eric Schmidt: Former CEO of Google; cited as a co-founder/backer of Kyutai at launch via Schmidt Futures.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Announced Moshi with $300 million in backing",
+      "sourceUrl": "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en",
+      "date": "2026-08-02"
+    },
+    "sourceUrls": [
+      "https://note.com/wataru_14/n/nb6de7479bfa0?hl=en"
+    ]
+  },
+  {
+    "id": "polyai",
+    "name": "PolyAI",
+    "website": "https://poly.ai",
+    "oneLiner": "Voice AI assistants for enterprise customer conversations.",
+    "founders": [
+      "Nikola Mrkšić",
+      "Shawn Wen",
+      "Eddy Su"
+    ],
+    "teamSignal": "Nikola Mrkšić: Co-founder & CEO. PhD from the University of Cambridge; first technical hire at VocalIQ, which was acquired by Apple in 2015; later worked on Apple Siri. Strong technical depth in conversational AI and machine learning.; Shawn Wen: Co-founder & CTO. Met the other founders at the Cambridge Dialogue Systems Group; background in dialogue systems / conversational AI.; Eddy Su: Co-founder & SVP Engineering. Met the other founders at the Cambridge Dialogue Systems Group; technical background in engineering and conversational AI.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Listed as a major voice AI company in late 2025 and 2026 market maps",
+      "sourceUrl": "https://www.seedtable.com/best-voice-assistant-startups",
+      "date": "2026-05-28"
+    },
+    "sourceUrls": [
+      "https://www.seedtable.com/best-voice-assistant-startups",
+      "https://www.weekinvoiceai.com/p/voice-ai-funding-tracker-2026"
+    ]
+  },
+  {
+    "id": "hume-ai",
+    "name": "Hume AI",
+    "website": "https://hume.ai",
+    "oneLiner": "Voice AI company focused on expressive and emotionally aware speech systems.",
+    "founders": [
+      "Alan Cowen",
+      "John Beadle"
+    ],
+    "teamSignal": "Alan Cowen: Cofounded Hume AI in 2021; emotion scientist and AI researcher. Background includes PhD research in Psychology at Berkeley and prior research work at Google/DeepMind. Strong technical depth in affective computing and AI models.; John Beadle: Cofounded Hume AI; also a founding investor, CFO, and board member. He is a co-founder and managing partner at Aegis Ventures, with prior venture and operating experience.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Included among leading voice AI startups in 2026 market coverage",
+      "sourceUrl": "https://neuronfeed.com/category/ai-voice",
+      "date": "2026-07-04"
+    },
+    "sourceUrls": [
+      "https://neuronfeed.com/category/ai-voice"
+    ]
+  },
+  {
+    "id": "suki",
+    "name": "Suki",
+    "website": "https://suki.ai",
+    "oneLiner": "Clinical voice assistant and AI scribe for healthcare workflows.",
+    "founders": [
+      "Punit Soni",
+      "Karthik Rajan"
+    ],
+    "teamSignal": "Punit Soni: Founder & CEO of Suki; previously Chief Product Officer at Flipkart and worked at Google in product roles.; Karthik Rajan: Co-founder; engineering/infrastructure background, previously at Oracle and Salesforce.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Included among leading voice AI startups in 2026 market coverage",
+      "sourceUrl": "https://neuronfeed.com/category/ai-voice",
+      "date": "2026-07-04"
+    },
+    "sourceUrls": [
+      "https://neuronfeed.com/category/ai-voice"
+    ]
+  },
+  {
+    "id": "murf-ai",
+    "name": "Murf AI",
+    "website": "https://murf.ai",
+    "oneLiner": "AI voiceover and text-to-speech platform.",
+    "founders": [
+      "Ankur Edkie",
+      "Sneha Roy",
+      "Divyanshu Pandey"
+    ],
+    "teamSignal": "Ankur Edkie: Co-founder/CEO of Murf AI; sources describe him as an IIT Kharagpur alumnus and indicate technical leadership over AI model development, product engineering, and core architecture.; Sneha Roy: Co-founder/COO of Murf AI; sources describe her as an IIT Kharagpur alumna with product/operations leadership.; Divyanshu Pandey: Co-founder and Chief Business Officer of Murf AI; sources describe him as an IIT Kharagpur alumnus with business/growth responsibilities.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Included in voice AI funding coverage as a notable company",
+      "sourceUrl": "https://www.voxbooster.com/blog/ai-voice-startup-funding-2026-2027/",
+      "date": "2026-06-11"
+    },
+    "sourceUrls": [
+      "https://www.voxbooster.com/blog/ai-voice-startup-funding-2026-2027/"
+    ]
+  },
+  {
+    "id": "resemble-ai",
+    "name": "Resemble AI",
+    "website": "https://www.resemble.ai",
+    "oneLiner": "Real-time voice cloning API and voice generation platform.",
+    "founders": [
+      "Zohaib Ahmed",
+      "Saqib Muhammad"
+    ],
+    "teamSignal": "Zohaib Ahmed: Co-founded Resemble AI in 2019; previously a software engineer at Magic Leap, Hipmunk, and BlackBerry.; Saqib Muhammad: Co-founded Resemble AI in 2019; company materials describe him as one of the original founders, but no detailed prior startup or exit history was found in the gathered sources.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Included in voice AI funding coverage as a notable company",
+      "sourceUrl": "https://www.voxbooster.com/blog/ai-voice-startup-funding-2026-2027/",
+      "date": "2026-06-11"
+    },
+    "sourceUrls": [
+      "https://www.voxbooster.com/blog/ai-voice-startup-funding-2026-2027/"
+    ]
+  }
+]

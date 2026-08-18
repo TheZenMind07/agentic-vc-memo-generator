@@ -1,0 +1,92 @@
+{
+  "candidateId": "viv-labs",
+  "team": {
+    "summary": "Founding team consists of the original creators of Apple Siri, with deep technical expertise in AI and prior startup exit experience (Siri acquired by Apple). All three co-founders have strong domain operating experience.",
+    "founders": [
+      {
+        "name": "Dag Kittlaus",
+        "background": "Co-founder and CEO; previously a creator of Apple Siri. Prior startup experience with multiple companies.",
+        "priorExits": true
+      },
+      {
+        "name": "Adam Cheyer",
+        "background": "Co-founder and VP Engineering; previously a creator of Apple Siri. Strong technical depth in AI and engineering.",
+        "priorExits": true
+      },
+      {
+        "name": "Chris Brigham",
+        "background": "Co-founder and Chief Architect; previously worked on Siri. Technical cofounder with architecture/engineering background.",
+        "priorExits": true
+      }
+    ],
+    "technicalDepth": "High – all founders have hands-on experience building a major AI assistant (Siri) and the core technology for Viv.",
+    "sourceUrls": [
+      "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "An AI assistant that can perform tasks across multiple apps and services through a conversational interface.",
+    "category": "Virtual assistant / AI platform",
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": "[inferred] Large market – virtual assistants for consumers and enterprises; Samsung acquisition indicates significant market potential.",
+    "competitiveLandscape": "[inferred] Competitors included Siri, Google Now, Amazon Alexa, and Microsoft Cortana. Viv's wedge was an open platform allowing third-party integration.",
+    "whyNow": "[inferred] Advances in natural language processing and the proliferation of APIs made a universal assistant feasible; timing aligned with smartphone ecosystem growth.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Company was acquired by Samsung in 2016 and is no longer an independent startup; not investable under current thesis.",
+      "severity": "critical"
+    },
+    {
+      "text": "[inferred] Product may have required significant integration effort for developers, not fully self-serve for SMBs.",
+      "severity": "medium"
+    }
+  ],
+  "score": 80,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders are the original creators of Siri, with proven founder-market fit, deep technical depth, and prior startup exit (Siri acquired by Apple)."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary AI platform with workflow lock-in across apps; not a thin LLM wrapper. However, dependence on platform ecosystems (iOS/Android) and eventual acquisition by Samsung reduce standalone defensibility."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent that takes actions end-to-end, but unclear if self-serve onboarding for SMBs existed; likely required developer integration. One-sentence articulation is possible but not crisp."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (virtual assistants) with large addressable market; why-now driven by AI advances and API availability. Identifiable competitors and a clear wedge (open platform)."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Strong signal via acquisition by Samsung, but signal is stale (2016). No recent active usage or funding data available."
+    }
+  ],
+  "scoreRationale": "Viv Labs has an exceptional founding team and strong defensibility, but the product may not fully meet the self-serve SMB criteria and traction is outdated. The company is no longer an independent startup, making it unsuitable for current investment under this thesis."
+}

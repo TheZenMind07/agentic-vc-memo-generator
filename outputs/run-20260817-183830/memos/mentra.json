@@ -1,0 +1,12 @@
+{
+  "candidateId": "mentra",
+  "verdict": "watch",
+  "summary": "Mentra is building an AI-powered wearable assistant for neurodivergent knowledge workers, starting with ADHD. The team combines neuroscience and consumer hardware experience, but the product is pre-revenue with an unproven go-to-market motion. At 58/100, the score reflects strong founder-market fit and a clear why-now (rising ADHD diagnoses + wearable AI maturity), offset by hardware execution risk, unclear defensibility beyond brand/community, and zero revenue traction.",
+  "rationale": "Team (14/20): Founding duo includes a neuroscientist (PhD, published on attention networks) and a former Meta Reality Labs PM — strong domain credibility, but no prior commercial hardware ship. Defensibility (9/20): Moat relies on proprietary neuroadaptive algorithms and community data flywheel; no IP filed yet, and hardware is commodity (off-the-shelf AR glasses + sensors). Product (12/20): Early prototype demonstrates real-time focus coaching via haptic/visual cues; UX is compelling in lab settings but untested in all-day wear. Market & Why-Now (13/20): TAM ~$4B (ADHD adults in knowledge work); tailwinds from destigmatization, remote work, and on-device LLMs enabling privacy-first coaching. Traction/Freshness (10/20): 2,000 waitlist signups, 50 alpha testers, $0 ARR, incorporated 8 months ago — fresh but pre-commercial.",
+  "changeMyMind": [
+    "Signs first 50 paying customers at $300+ ASP with <3 month payback on CAC",
+    "Files 2+ utility patents on neuroadaptive signal processing or closes a strategic partnership with a major AR glasses OEM (e.g., Xreal, Rokid) for co-distribution",
+    "Hires a VP Sales/GTM with prior success scaling consumer hardware from 0 to $10M ARR"
+  ],
+  "score": 58
+}

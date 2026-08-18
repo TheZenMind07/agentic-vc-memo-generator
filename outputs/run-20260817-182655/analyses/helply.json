@@ -1,0 +1,94 @@
+{
+  "candidateId": "helply",
+  "team": {
+    "summary": "Solo founder Tom Morkes (COO) brings 3x founder experience, West Point background, and GTM leadership for hundreds of launches. Strong founder-market fit for B2B SaaS go-to-market, but no technical co-founder or in-house AI/ML depth is evident.",
+    "founders": [
+      {
+        "name": "Tom Morkes",
+        "background": "3x founder, West Point graduate, led GTM for hundreds of launches generating millions in revenue; currently COO at Helply.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] No technical founder or CTO mentioned; core AI/integration layer likely relies on third-party LLMs rather than proprietary models.",
+    "sourceUrls": [
+      "https://helply.com/blog/15-best-ai-agents-for-small-business"
+    ]
+  },
+  "product": {
+    "plainLanguage": "An AI-native helpdesk and support agent that automatically resolves customer tickets end-to-end for small B2B SaaS teams, with a free unlimited-seat helpdesk and outcome-based AI pricing.",
+    "category": "AI customer support agent / helpdesk automation",
+    "sourceUrls": [
+      "https://helply.com/blog/15-best-ai-agents-for-small-business"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Small B2B SaaS companies — a large but fragmented segment; no specific TAM/SAM figures disclosed.",
+    "competitiveLandscape": "Competes with well-funded incumbents (Intercom Fin, Zendesk AI, Gorgias) and a wave of vertical AI support agents (e.g., Decagon, Sierra, Forethought). Helply's wedge is a free unlimited-seat helpdesk plus outcome-based AI pricing.",
+    "whyNow": "LLM cost collapse makes autonomous support agents affordable for small teams; rising ticket volumes and hiring constraints create urgency for automation.",
+    "sourceUrls": [
+      "https://helply.com/blog/15-best-ai-agents-for-small-business"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Thin LLM wrapper with no proprietary data or model differentiation; defensibility relies on workflow lock-in that may be weak for small teams.",
+      "severity": "high"
+    },
+    {
+      "text": "No technical founder or in-house AI capability; dependent on horizontal LLM providers for core intelligence.",
+      "severity": "medium"
+    },
+    {
+      "text": "Crowded market with deep-pocketed incumbents and better-funded vertical specialists; customer acquisition may be expensive.",
+      "severity": "high"
+    },
+    {
+      "text": "Traction signals are limited to self-published blog content; no independent verification of paying customers, usage, or revenue.",
+      "severity": "medium"
+    }
+  ],
+  "score": 55,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit for B2B SaaS GTM (3x founder, West Point, launch experience) but missing technical depth to own the core AI/integration layer; no evidence of prior exits."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No proprietary data or model mentioned; differentiation appears to be pricing (free helpdesk + outcome-based AI) and vertical focus, which are replicable. Likely dependent on a single horizontal LLM platform."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Clear one-sentence value prop; AI-native agent (end-to-end ticket resolution) not just a copilot; self-serve onboarding implied for SMBs. Product vision aligns well with thesis."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (small B2B SaaS support) with credible why-now drivers (LLM cost drop, hiring pain). However, market size hint is vague and competitive landscape is intense with established players."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only signal is a self-published blog post listing Helply among '15 best AI agents'; no paying customer count, revenue, funding, launch metrics, or third-party validation. Freshness unknown."
+    }
+  ],
+  "scoreRationale": "Helply shows product clarity and founder GTM experience, but lacks technical depth, proprietary moat, and verifiable traction. The market is attractive but crowded. Weighted sub-scores reflect a below-average overall profile for the thesis."
+}

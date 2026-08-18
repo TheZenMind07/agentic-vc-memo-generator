@@ -1,0 +1,100 @@
+{
+  "candidateId": "soundhound",
+  "team": {
+    "summary": "Founders have strong technical backgrounds in electrical engineering and speech recognition from Stanford, indicating deep domain expertise for voice AI. However, prior startup/exit history is not clearly documented in the provided source, and the team signal is limited to a single 2019 article.",
+    "founders": [
+      {
+        "name": "Keyvan Mohajer",
+        "background": "PhD in Electrical Engineering from Stanford University; described as a serial entrepreneur but prior ventures/exits not clearly documented in verified sources.",
+        "priorExits": null
+      },
+      {
+        "name": "James Hom",
+        "background": "Bachelor’s Degree in Computer Science from Stanford University; no clearly verified prior startup/exit history found in the source set.",
+        "priorExits": null
+      },
+      {
+        "name": "Majid Emami",
+        "background": "PhD in Electrical Engineering from Stanford University; deep technical work in speech recognition and machine learning, but no clearly verified prior startup/exit history found in the source set.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Deep technical expertise in speech recognition and machine learning, with multiple PhDs in Electrical Engineering from Stanford.",
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Voice assistant and voice AI platform for businesses to build custom voice interfaces.",
+    "category": "Voice AI platform / Conversational AI",
+    "sourceUrls": [
+      "https://soundhound.com"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] Competes with Amazon Alexa, Google Assistant, and other general-purpose voice AI platforms; lacks a specific vertical focus.",
+    "whyNow": "[inferred] Advances in LLMs and voice recognition accuracy create a why-now opportunity, but SoundHound was founded earlier and the provided traction signal is from 2019, not recent.",
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Broad horizontal market focus rather than a specific vertical, which may reduce defensibility and market fit per the thesis.",
+      "severity": "high"
+    },
+    {
+      "text": "Traction signal is stale (2019 funding) with no recent evidence of paying customers, active usage, or product launches in the provided source.",
+      "severity": "medium"
+    },
+    {
+      "text": "Lack of documented prior startup exits for founders, which is a criterion for team scoring.",
+      "severity": "low"
+    }
+  ],
+  "score": 59,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit in voice AI and deep technical depth from Stanford PhDs. However, prior startup/exit history is not clearly documented, preventing a higher score."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary voice recognition technology provides some defensibility, but the platform is horizontal and switching costs are moderate. Not a thin LLM wrapper, but dependence on broad ecosystem limits moat."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Product is a voice AI platform, not a vertical-specific end-to-end agent. Self-serve onboarding via APIs is possible, but the one-liner is clear. Lacks the AI-native agent specificity desired."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical focus; market size hint not provided. Why-now driver is plausible but not strongly evidenced in the source. Competitors are well-known, but wedge is unclear."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only signal is a 2019 funding round; no recent traction (paying customers, active usage, launches) provided. Freshness is poor, resulting in a low score."
+    }
+  ],
+  "scoreRationale": "SoundHound shows strong team technical depth but lacks documented prior exits and a specific vertical focus. Defensibility and product are moderate, while market specificity and recent traction are weak. The overall weighted score is below the investment threshold given the thesis emphasis on vertical focus and fresh traction."
+}

@@ -1,0 +1,24 @@
+{
+  "candidateId": "deepgram",
+  "team": {
+    "summary": "Data unavailable",
+    "founders": [],
+    "technicalDepth": null,
+    "sourceUrls": []
+  },
+  "product": {
+    "plainLanguage": "Data unavailable",
+    "category": null,
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [],
+  "score": null,
+  "subScores": [],
+  "scoreRationale": "Analysis could not be produced (model failure or missing data)."
+}

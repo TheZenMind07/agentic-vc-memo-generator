@@ -1,0 +1,112 @@
+{
+  "candidateId": "blindpay",
+  "team": {
+    "summary": "Four founders (Bernardo Simonassi, João Borges, Gabriel Lyra, Gustavo Marinho) with a team of 9, accepted into YC W25. Limited public detail on individual backgrounds or prior exits.",
+    "founders": [
+      {
+        "name": "Bernardo Simonassi",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "João Borges",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Gabriel Lyra",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Gustavo Marinho",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Building a stablecoin API requires deep blockchain/payments integration expertise; YC acceptance suggests technical credibility.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay",
+      "https://blindpay.com/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Stablecoin API for global payments",
+    "category": "Fintech / Payments Infrastructure",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay",
+      "https://blindpay.com/"
+    ]
+  },
+  "market": {
+    "sizeHint": "Cross-border payments market worth trillions; stablecoin settlement volume growing rapidly (e.g., $10T+ annualized stablecoin transfer volume).",
+    "competitiveLandscape": "Competes with Circle (USDC), Stripe (crypto), and other crypto payment gateways (e.g., Coinbase Commerce, BitPay). Wedge: developer-first stablecoin API with simple integration.",
+    "whyNow": "Stablecoin adoption accelerating (regulatory clarity in major jurisdictions, growing institutional use), demand for instant/low-cost global payments, and developer preference for API-first financial primitives.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay",
+      "https://blindpay.com/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Regulatory uncertainty around stablecoins and cross-border payments could limit operations or increase compliance costs.",
+      "severity": "high"
+    },
+    {
+      "text": "Intense competition from well-funded incumbents (Circle, Stripe) and other crypto payment startups.",
+      "severity": "medium"
+    },
+    {
+      "text": "Dependence on underlying blockchain infrastructure (e.g., Ethereum, Solana) for settlement; network congestion or failures could degrade service.",
+      "severity": "medium"
+    },
+    {
+      "text": "Adoption risk: merchants and developers may prefer established fiat rails or multi-currency solutions over stablecoin-only APIs.",
+      "severity": "medium"
+    }
+  ],
+  "score": 59,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "YC W25 acceptance and a team of 9 signal strong early validation; however, limited public information on founder-market fit, prior exits, or deep technical ownership of the core integration layer."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "API integration creates switching costs and potential network effects in a specific vertical (stablecoin payments); no single horizontal platform dependency. Proprietary data moat not yet evident at this early stage."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Product is a stablecoin API, not an AI-native agent; self-serve onboarding targets developers rather than SMBs; one-liner is clear. Does not meet the thesis's AI-native agent criterion."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Large, specific vertical (global stablecoin payments) with credible trillion-dollar market size; strong why-now drivers (stablecoin adoption, regulatory progress, demand for faster/cheaper cross-border payments); identifiable competitors and a clear developer-first wedge."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch (very recent) and team of 9 indicate fresh momentum; no public data on paying customers, revenue, or active usage yet."
+    }
+  ],
+  "scoreRationale": "BlindPay scores well on Market & Why-Now (4/5) due to a massive addressable market and timely stablecoin tailwinds. Team (3/5) and Defensibility (3/5) are solid but early with limited public proof. Product (2/5) does not align with the thesis's AI-native agent requirement. Traction (3/5) is fresh but pre-revenue. Overall, a promising fintech infrastructure play that partially fits the thesis."
+}

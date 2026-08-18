@@ -1,0 +1,99 @@
+{
+  "candidateId": "mentra",
+  "team": {
+    "summary": "Two founders (Cayden Pierce, Alexander Israelov) with a 12-person team accepted into YC W25. Founder backgrounds not publicly detailed; YC acceptance signals baseline vetting. Technical depth likely high given OS-level work for smart glasses, but no public evidence of prior exits or domain operating experience in AR/VR.",
+    "founders": [
+      {
+        "name": "Cayden Pierce",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Alexander Israelov",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Building a smart glasses OS requires deep systems, graphics, and hardware integration expertise; team size of 12 suggests meaningful engineering capacity.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/mentra"
+    ]
+  },
+  "product": {
+    "plainLanguage": "An open-source operating system for smart glasses, aiming to provide a common platform for developers to build AR applications across hardware devices.",
+    "category": "AR/VR platform / smart glasses OS",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/mentra"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Smart glasses/AR market projected to reach tens of billions by 2030; specific TAM for an OS layer unclear.",
+    "competitiveLandscape": "[inferred] Competes with proprietary OS efforts from Meta (Horizon OS), Apple (visionOS), Google (Android XR), and possibly other open-source initiatives.",
+    "whyNow": "[inferred] Advances in waveguide optics, on-device AI compute, and developer appetite for cross-device AR apps create a window for a neutral OS layer.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/mentra"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Hardware adoption uncertainty: smart glasses have not yet reached mass-market inflection; OS value depends on device volume.",
+      "severity": "high"
+    },
+    {
+      "text": "Competition from well-capitalized platform owners (Meta, Apple, Google) who control hardware distribution and may lock developers into proprietary ecosystems.",
+      "severity": "high"
+    },
+    {
+      "text": "Open-source monetization challenge: capturing value from an OS layer without proprietary extensions or services is historically difficult.",
+      "severity": "medium"
+    },
+    {
+      "text": "Technical fragmentation: supporting diverse display technologies, sensor suites, and compute profiles across multiple hardware partners increases engineering burden.",
+      "severity": "medium"
+    }
+  ],
+  "score": 58,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "YC W25 acceptance and 12-person team indicate credible founding team, but no public evidence of prior exits, domain operating experience, or founder-market fit specific to AR/VR OS. Technical depth inferred from problem complexity."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Open-source OS could generate network effects and switching costs if developers build on it, but open-source model may limit proprietary lock-in. No dependence on a single horizontal platform. Proprietary data or workflow lock-in not yet demonstrated."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Clear one-sentence articulation. However, product is a platform/OS, not an AI-native agent that takes end-to-end actions. Onboarding likely targets hardware partners and developers, not SMBs, and may require significant integration work."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (smart glasses OS) with credible long-term tailwinds (optics, AI, developer demand). Why-now drivers present but market remains early/niche. Competitors identifiable; wedge is open-source neutrality."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch (Winter 2025) is a strong, recent signal. Team size of 12 suggests active development. No public data on paying customers, revenue, or active usage yet."
+    }
+  ],
+  "scoreRationale": "Mentra is an early-stage bet on a neutral OS layer for smart glasses. The team shows promise via YC acceptance and headcount, but lacks proven founder-market fit or exits. Defensibility hinges on open-source network effects which are unproven. Product is a platform, not an AI agent, and SMB self-serve is not applicable. Market is vertical-specific with clear why-now drivers but remains nascent. Traction is fresh (YC W25) but pre-revenue. Overall, a credible moonshot with high hardware-adoption and platform-competition risks."
+}

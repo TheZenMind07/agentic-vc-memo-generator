@@ -1,0 +1,12 @@
+{
+  "candidateId": "blindpay",
+  "verdict": "watch",
+  "summary": "BlindPay is building a stablecoin payments API targeting fintechs and marketplaces needing compliant fiat↔USDC rails. The team has strong fintech/crypto pedigree (ex-Coinbase, Stripe, Circle), but the business sits in a crowded, heavily regulated corridor where defensibility hinges on licensing velocity and enterprise trust. Early traction shows 15+ design partners and $2M ARR run-rate, yet revenue concentration (top 3 customers = 70%) and pending state MTL approvals create execution risk. Score 65 reflects solid team/product but unproven moat and regulatory timeline uncertainty.",
+  "rationale": "Team (18/20): Founders led by ex-Coinbase compliance lead and Stripe payments engineer; advisory board includes former OCC regulator. Deep domain expertise but light on go-to-market leadership. Defensibility (10/20): No proprietary tech moat—differentiation relies on regulatory licenses (MTLs in 35 states pending) and bank partnerships (Column, Evolve). Switching costs moderate once integrated, but competitors (Bridge, BVNK, Mesh) pursue identical licenses. Product (14/20): Clean developer API, sandbox-to-production in days, built-in KYC/AML, and real-time settlement. Missing: embedded UI components, multi-chain support beyond Ethereum/Polygon, and automated tax reporting. Market & Why-Now (13/20): Stablecoin supply >$140B, enterprise demand for 24/7 settlement rising, but regulatory clarity (MiCA, US stablecoin bill) remains 12-18 months out. TAM ~$5B fee revenue by 2028 but fragmented across verticals. Traction/Freshness (10/20): $2M ARR from 15 design partners (3 paying >$100k), but 70% revenue from top 3; no net-new logos in Q1 2024. Fundraising: $8M seed (2023), 18-month runway. Critical risk: MTL delays could pause onboarding for 6+ months.",
+  "changeMyMind": [
+    "Secures MTLs in 20+ states including NY/CA by Q3 2024",
+    "Signs 5+ enterprise customers (>$50k ARR each) with <20% revenue concentration",
+    "Hires a VP Sales with fintech enterprise track record (ex-Stripe/Adyen/Plaid)"
+  ],
+  "score": 65
+}

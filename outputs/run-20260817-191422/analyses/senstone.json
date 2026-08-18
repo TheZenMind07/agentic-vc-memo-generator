@@ -1,0 +1,93 @@
+{
+  "candidateId": "senstone",
+  "team": {
+    "summary": "Founder Nazar Fedorchuk has entrepreneurial and legal background, founded Senstone in 2016. Technical co-founder Markiyan Matsekh left in 2019, raising concerns about current technical leadership.",
+    "founders": [
+      {
+        "name": "Nazar Fedorchuk",
+        "background": "Founder and CEO of Senstone since 2016; legal/entrepreneurial background.",
+        "priorExits": null
+      },
+      {
+        "name": "Markiyan Matsekh",
+        "background": "Technical co-founder with wearable-tech experience; left in 2019.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Unclear; original technical co-founder departed, no evidence of current technical leadership.",
+    "sourceUrls": [
+      "https://www.f6s.com/company/senstone"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Personal voice assistant for dictating ideas and notes.",
+    "category": "Voice assistant / productivity",
+    "sourceUrls": [
+      "https://senstone.io"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Technical co-founder departure may indicate instability or lack of technical depth.",
+      "severity": "medium"
+    },
+    {
+      "text": "Product is a voice assistant, likely a copilot rather than an AI-native agent; may not meet thesis criteria.",
+      "severity": "high"
+    },
+    {
+      "text": "No evidence of recent traction or freshness; Kickstarter/HAX backing may be old.",
+      "severity": "medium"
+    }
+  ],
+  "score": 32,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founder has domain experience but technical co-founder left; no evidence of prior exits or strong technical depth."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data, workflow lock-in, or network effects; likely a thin wrapper on existing voice/LLM tech."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Voice assistant for dictation is more copilot than autonomous agent; self-serve possible but unclear."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No market size, competitive landscape, or why-now driver provided."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Kickstarter and HAX SOSV backing indicate some traction, but no recent signals; likely stale."
+    }
+  ],
+  "scoreRationale": "The startup shows some founder commitment and early backing, but lacks evidence of technical depth, defensibility, product differentiation, market clarity, and recent traction. Overall weak fit with the thesis."
+}

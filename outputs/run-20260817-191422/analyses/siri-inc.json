@@ -1,0 +1,94 @@
+{
+  "candidateId": "siri-inc",
+  "team": {
+    "summary": "Founders have deep domain expertise in AI and voice assistants, with prior startup experience and technical depth from SRI International.",
+    "founders": [
+      {
+        "name": "Dag Kittlaus",
+        "background": "Co-founded Siri Inc. after being brought in by SRI to commercialize the technology; later led Siri and other AI assistant ventures.",
+        "priorExits": true
+      },
+      {
+        "name": "Adam Cheyer",
+        "background": "Computer scientist and engineer from SRI International; helped create Siri’s original technology and later co-founded Change.org and Viv Labs.",
+        "priorExits": true
+      },
+      {
+        "name": "Tom Gruber",
+        "background": "Computer scientist and entrepreneur; co-founded Siri Inc. with technical/product design leadership, prior work in knowledge sharing and collective intelligence.",
+        "priorExits": true
+      }
+    ],
+    "technicalDepth": "Strong technical depth; founders originated from SRI and built core AI/voice technology in-house.",
+    "sourceUrls": [
+      "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Voice assistant technology that enables users to perform tasks via natural language commands.",
+    "category": "Voice assistant / AI agent",
+    "sourceUrls": [
+      "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] Competed with other early voice assistants like Google Now and Microsoft Cortana; later acquired by Apple.",
+    "whyNow": "[inferred] Early mover in voice AI; driven by advances in natural language processing and mobile computing.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Acquired by Apple; no longer an independent startup, so current traction and product evolution are not under original team's control.",
+      "severity": "critical"
+    },
+    {
+      "text": "Limited information on current market size and competitive dynamics; data is historical.",
+      "severity": "medium"
+    }
+  ],
+  "score": 74,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have strong founder-market fit, deep technical depth from SRI, and prior startup/exit experience (Siri, Viv Labs, Change.org)."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary voice technology and early mover advantage, but later faced competition from large platforms; switching costs moderate."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent that takes end-to-end actions; self-serve onboarding for consumers; clear one-sentence description."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (voice assistants) with large addressable market, but size hint not provided; why-now driver inferred; competitors identifiable."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Historical traction (acquisition by Apple) but no recent live signals; freshness is low."
+    }
+  ],
+  "scoreRationale": "The startup scores highly on team and product, but defensibility and traction are moderate to low due to historical nature and lack of current data. Overall weighted score is approximately 3.65 out of 5 (73 out of 100)."
+}

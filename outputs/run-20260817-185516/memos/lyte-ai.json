@@ -1,0 +1,12 @@
+{
+  "candidateId": "lyte-ai",
+  "verdict": "watch",
+  "summary": "Lyte AI scores 64/100 across our thesis pillars. The team shows strong technical depth but lacks go‑to‑market experience. Product differentiation is modest; defensibility relies on proprietary data pipelines that are not yet proven at scale. Market timing is favorable (generative AI for enterprise workflow automation), yet traction is early with only pilot engagements and no recurring revenue. Freshness is high – the company was founded 8 months ago and has shipped a v1.0 platform. Overall, the opportunity is promising but too early for a meeting; we will monitor for clear commercial signals.",
+  "rationale": "Team (12/20): Founders have PhDs in ML and prior research roles, but no prior startup exits or sales leadership. Defensibility (10/20): IP consists of a custom data‑labeling loop; no patents filed and competitors can replicate with open‑source tooling. Product (14/20): Core automation engine works in demos; integration breadth limited to two ERP systems. Market & Why‑Now (16/20): Enterprise AI spend accelerating; target TAM $12B, but buyer education cycle long. Traction / Freshness (12/20): 3 design partners, 0 paying customers, $0 ARR; product launched 2 months ago. The composite 64 reflects solid foundations offset by commercialization gaps.",
+  "changeMyMind": [
+    "Signs first 10 paying enterprise customers with ≥$50k ACV each",
+    "Hires a VP of Sales with a track record of scaling B2B SaaS from $0–$10M ARR",
+    "Achieves 30% month‑over‑month revenue growth for two consecutive quarters"
+  ],
+  "score": 64
+}

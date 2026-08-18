@@ -1,0 +1,102 @@
+{
+  "candidateId": "layup-parts",
+  "team": {
+    "summary": "Founding team led by Zack Eakin (ex-Anduril manufacturing engineering director) with deep hardware/robotics domain experience; other co-founders' backgrounds less publicly documented.",
+    "founders": [
+      {
+        "name": "Zack Eakin",
+        "background": "Director of Manufacturing Engineering at Anduril Industries; mechanical design and development of flying drone products.",
+        "priorExits": null
+      },
+      {
+        "name": "Hanno Kappen",
+        "background": "Co-founder and CTO; no reliable public background found.",
+        "priorExits": null
+      },
+      {
+        "name": "Elisa Suarez",
+        "background": "Co-founder and COO; no reliable public background found.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Strong hardware/manufacturing engineering expertise from Anduril; likely capable of owning core robotic integration layer.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] Layup Parts builds robotic hardware systems for manufacturing or defense applications, likely automating physical tasks end-to-end.",
+    "category": "Robotics/Hardware",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Unclear product differentiation and vertical focus",
+      "severity": "high"
+    },
+    {
+      "text": "Limited public information on technical moat and go-to-market strategy",
+      "severity": "medium"
+    },
+    {
+      "text": "Hardware scaling risks (manufacturing, supply chain, capital intensity)",
+      "severity": "high"
+    },
+    {
+      "text": "Dependence on Series A funding to execute; no revenue traction disclosed",
+      "severity": "medium"
+    }
+  ],
+  "score": 49,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3.5,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit via Zack Eakin's Anduril background in drone manufacturing; technical depth likely high for hardware robotics; but incomplete data on other co-founders and no prior exits documented."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No public evidence of proprietary data, workflow lock-in, or network effects; hardware may create switching costs post-deployment but early stage; unclear if differentiation relies on a horizontal platform."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1.5,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is vague ('Robotics and hardware startup'); likely AI-native physical agents but not confirmed; hardware typically requires non-self-serve onboarding; product articulation weak."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical or market size hint provided; why-now drivers not articulated; competitive landscape and wedge unknown."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4.5,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Raised $42M Series A per fundedstartupsdaily.com, indicating strong investor confidence and recent capital; however, no disclosed paying customers, active usage metrics, or product launch signals."
+    }
+  ],
+  "scoreRationale": "Layup Parts shows strong team pedigree in hardware/robotics and significant fresh capital, but lacks public clarity on product, market focus, defensibility, and commercial traction beyond funding. High execution risk typical of early-stage deep tech hardware."
+}

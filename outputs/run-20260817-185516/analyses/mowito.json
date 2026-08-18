@@ -1,0 +1,102 @@
+{
+  "candidateId": "mowito",
+  "team": {
+    "summary": "Founding team combines deep robotics research (CMU, Near Earth Autonomy), extensive hardware leadership (ex-VP Hardware at Sensara, 20 years experience, prior startups), and strong technical credentials (IIT Madras CTO). Strong founder-market fit for robotics/hardware vertical with high technical depth.",
+    "founders": [
+      {
+        "name": "Puru Rastogi",
+        "background": "Robotics engineer from Carnegie Mellon University; previously at Near Earth Autonomy; leads technical team at Mowito.",
+        "priorExits": null
+      },
+      {
+        "name": "Adityanag Nagesh",
+        "background": "Ex-VP Hardware at Sensara; profile indicates prior startups founded and 20 years of industry experience.",
+        "priorExits": true
+      },
+      {
+        "name": "Safar V",
+        "background": "CTO; alumnus of IIT Madras.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "High — CMU robotics research, autonomous systems experience at Near Earth Autonomy, and 20 years hardware leadership at Sensara.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] Robotics and hardware startup — specific product functionality not described in available sources.",
+    "category": "Robotics / Hardware",
+    "sourceUrls": [
+      "https://mowito.in"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": "[inferred] Potential why-now drivers include advances in robotics perception/control, falling sensor/compute costs, and growing automation demand — but not explicitly stated.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Product description is extremely vague ('Robotics and hardware startup'); unclear if AI-native agent, self-serve SMB onboarding, or clear value proposition exists.",
+      "severity": "high"
+    },
+    {
+      "text": "No evidence of proprietary data, workflow lock-in, switching costs, or network effects — defensibility uncertain.",
+      "severity": "high"
+    },
+    {
+      "text": "Market vertical, size, competitors, and wedge not identified; why-now narrative missing.",
+      "severity": "medium"
+    },
+    {
+      "text": "Traction limited to pre-seed funding; no paying customers, usage metrics, or public launch signals reported.",
+      "severity": "medium"
+    }
+  ],
+  "score": 45,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Exceptional founder-market fit for robotics/hardware; deep technical depth (CMU, Near Earth Autonomy, 20-year hardware VP); one founder with prior startup experience. Lacks clear exit track record for all founders."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data, workflow lock-in, switching costs, or network effects. Hardware/robotics integration could create defensibility but not demonstrated. No info on platform dependence."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner 'Robotics and hardware startup' does not articulate what it does in one sentence. No evidence of AI-native agent, self-serve SMB onboarding, or clear product definition."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical, size hint, why-now driver, competitors, or wedge identified. Only broad 'robotics/hardware' category."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Live signal: $3M pre-seed raise (fresh). No paying customers, active usage, launch, or community activity (HN/GitHub) reported."
+    }
+  ],
+  "scoreRationale": "Strong team (4/5) carries the evaluation, but product, market, and defensibility scores are very low due to near-total lack of public information beyond the funding announcement. Traction is early (funding only). The startup cannot be properly assessed without product details, market positioning, and defensibility evidence."
+}

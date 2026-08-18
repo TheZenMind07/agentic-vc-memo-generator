@@ -1,0 +1,108 @@
+{
+  "candidateId": "red-barn-robotics",
+  "team": {
+    "summary": "Founding team of three (Adam Iseman, Ilya Kelner, Alex Neff) with a total team size of 5. Accepted into Y Combinator W25 batch, indicating baseline founder quality and early validation. Founder backgrounds and prior exits are not publicly documented in available sources.",
+    "founders": [
+      {
+        "name": "Adam Iseman",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Ilya Kelner",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Alex Neff",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Robotics and computer vision expertise implied by autonomous weeding robot product",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/red-barn-robotics"
+    ]
+  },
+  "product": {
+    "plainLanguage": "An autonomous robot that navigates farm fields, identifies weeds using computer vision, and mechanically removes them — essentially a Roomba for agricultural weeding.",
+    "category": "Agricultural robotics / Precision weeding",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/red-barn-robotics"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Global agricultural robotics market projected to reach tens of billions by 2030; precision weeding is a large and growing segment driven by labor shortages and herbicide resistance",
+    "competitiveLandscape": "[inferred] Competes with Carbon Robotics (laser weeding), FarmWise (autonomous weeding), and other ag-robotics startups; wedge is small-to-mid-scale farms seeking affordable mechanical weeding",
+    "whyNow": "[inferred] Convergence of cheaper robotics hardware, mature computer vision models, acute farm labor shortages, and regulatory pressure to reduce herbicide use",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/red-barn-robotics"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Hardware manufacturing and field reliability at scale",
+      "severity": "high"
+    },
+    {
+      "text": "Farmer adoption barriers (CAPEX, trust, integration with existing operations)",
+      "severity": "high"
+    },
+    {
+      "text": "Competition from well-funded incumbents (e.g., Carbon Robotics) and other YC ag-robotics startups",
+      "severity": "medium"
+    },
+    {
+      "text": "Regulatory and safety compliance for autonomous farm equipment",
+      "severity": "medium"
+    },
+    {
+      "text": "Dependence on seasonal revenue cycles and limited geographic rollout speed",
+      "severity": "medium"
+    }
+  ],
+  "score": 60,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "YC W25 acceptance and a 5-person team signal baseline competence, but founder backgrounds, prior exits, and specific domain experience are not publicly documented, making it difficult to assess founder-market fit and technical depth beyond inference."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Combines hardware (robot chassis) with proprietary computer vision for weed detection, creating some switching costs and data accumulation. However, early stage with no demonstrated fleet data or network effects; differentiation relies on execution rather than inherent structural moat."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Clear one-sentence value proposition and AI-native autonomous action (end-to-end weeding). Self-serve onboarding for SMB farms is unlikely given hardware deployment complexity; likely requires sales/implementation support."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Well-defined vertical (precision weeding) with credible tailwinds (labor shortage, herbicide resistance, hardware cost declines). Market size is large but competitive; wedge and go-to-market strategy not yet evidenced."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch (very recent) is a strong fresh signal. No public data on paying customers, active deployments, or revenue; traction currently limited to program acceptance and team formation."
+    }
+  ],
+  "scoreRationale": "Red Barn Robotics shows promise with a clear, timely problem in a large vertical and a credible YC-backed team. However, the evaluation is constrained by limited public information: founder track records, technical differentiation, customer traction, and go-to-market clarity are all unverified. Scores reflect a balanced early-stage assessment — above average on freshness and market timing, but with significant execution risks in hardware scaling and farmer adoption. The company warrants deeper diligence on technical milestones and pilot results."
+}

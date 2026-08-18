@@ -1,0 +1,99 @@
+{
+  "candidateId": "caddy",
+  "team": {
+    "summary": "Founders have strong product and AI workflow experience from Loom, but technical depth for core model/integration layer is unclear; no prior startup exit signal.",
+    "founders": [
+      {
+        "name": "Connor Waslo",
+        "background": "Co-founder of Caddy; previously led product for Loom's AI Suite and Monetization team.",
+        "priorExits": null
+      },
+      {
+        "name": "Rajiv Sancheti",
+        "background": "Co-founder of Caddy; previously led design for Loom’s AI suite and worked at Airbnb and KP Fellows.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Connor has product leadership in AI, but no explicit engineering role; Rajiv is design-focused. Technical depth to own core model/integration layer is uncertain.",
+    "sourceUrls": [
+      "https://startupintros.com/orgs/caddy"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Unknown - no one-liner provided.",
+    "category": null,
+    "sourceUrls": [
+      "https://startupintros.com/orgs/caddy"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": [
+      "https://startupintros.com/orgs/caddy"
+    ]
+  },
+  "risks": [
+    {
+      "text": "No public product description or one-liner; cannot assess product clarity or AI-native agent claim.",
+      "severity": "high"
+    },
+    {
+      "text": "No market size, competitive landscape, or why-now driver provided.",
+      "severity": "high"
+    },
+    {
+      "text": "Traction is limited to YC batch and private beta; no paying customers or active usage signal.",
+      "severity": "medium"
+    },
+    {
+      "text": "Technical depth of founders for core model/integration layer is unclear.",
+      "severity": "medium"
+    }
+  ],
+  "score": 31,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2.5,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have relevant product/design experience from Loom's AI suite, but no prior exits and technical depth for core model is uncertain. Founder-market fit is plausible but unproven."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No information on proprietary data, workflow lock-in, switching costs, or network effects. Cannot assess defensibility."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "No product description available; cannot evaluate if it is an AI-native agent, self-serve, or has a clear one-liner."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No market size, why-now driver, or competitive landscape provided."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Y Combinator Fall 2025 batch and private beta are recent signals, but no paying customers, active usage, or public traction."
+    }
+  ],
+  "scoreRationale": "The startup has a credible founding team with AI product experience from Loom, but lacks any public product, market, or defensibility information. Traction is minimal (YC batch, private beta). Overall assessment is limited by data availability; the weighted score would be low (approximately 1.5 out of 5, or 30 out of 100)."
+}

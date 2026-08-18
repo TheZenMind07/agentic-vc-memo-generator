@@ -1,0 +1,97 @@
+{
+  "candidateId": "lindy",
+  "team": {
+    "summary": "Solo founder Flo Crivello has strong founder-market fit for an SMB AI agent platform: software engineering background, product management at Uber, and prior startup experience founding Teamflow (a collaboration tool). Technical depth is indicated by his engineering background and building an agent platform. No reported exit.",
+    "founders": [
+      {
+        "name": "Flo Crivello",
+        "background": "Software engineer; product manager at Uber; founded Teamflow (collaboration startup); now founder/CEO of Lindy.",
+        "priorExits": false
+      }
+    ],
+    "technicalDepth": "Founder has software engineering background and is building an AI agent platform with an integration layer, suggesting ability to own core model/integration in-house.",
+    "sourceUrls": [
+      "https://arahi.ai/blog/best-ai-agents-for-business",
+      "https://www.siit.io/blog/best-ai-agent-platforms-small-business"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Lindy is a no-code platform that lets SMBs create and run AI agents via chat to automate workflows end-to-end.",
+    "category": "AI agent platform / no-code automation for SMBs",
+    "sourceUrls": [
+      "https://arahi.ai/blog/best-ai-agents-for-business",
+      "https://www.siit.io/blog/best-ai-agent-platforms-small-business"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "Listed among SMB-focused AI agent platforms; competes with other no-code AI agent builders (e.g., Zapier AI, Relay, etc.). Wedge is chat-driven, no-code automation for SMBs.",
+    "whyNow": "[inferred] LLM cost/performance improvements enable affordable agent platforms; rising SMB demand for automation without engineering resources.",
+    "sourceUrls": [
+      "https://arahi.ai/blog/best-ai-agents-for-business",
+      "https://www.siit.io/blog/best-ai-agent-platforms-small-business"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Highly competitive horizontal market with many well-funded AI agent platforms (Zapier, Microsoft, Google, and numerous startups) targeting the same SMB segment.",
+      "severity": "high"
+    },
+    {
+      "text": "Lack of vertical specialization may limit proprietary data moat and workflow lock-in; defensibility relies on platform switching costs rather than unique data.",
+      "severity": "medium"
+    },
+    {
+      "text": "No public traction metrics (paying customers, ARR, usage, funding) — only presence in review blogs and public pricing.",
+      "severity": "medium"
+    },
+    {
+      "text": "Potential dependence on third-party LLM providers (OpenAI, Anthropic) for core model capabilities, which could limit margin and differentiation.",
+      "severity": "medium"
+    }
+  ],
+  "score": 67,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit: technical founder with PM experience at Uber and prior startup (Teamflow) in collaboration software, directly relevant to building an SMB automation platform. Technical depth evident. No exit yet, but operating experience is solid."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Platform approach creates some workflow lock-in as users build automations, but no vertical-specific proprietary data or network effects evident. Not a thin wrapper (own agent runtime), but horizontal positioning makes it vulnerable to platform incumbents adding similar features."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agents that take actions end-to-end via chat; self-serve freemium pricing ($0/$49.99/mo) indicates SMB-friendly onboarding; one-liner clearly articulates value proposition."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2.5,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "SMB automation market is large but not quantified; no specific vertical focus. Why-now drivers (LLM cost collapse, SMB automation demand) are plausible but not explicitly articulated by company. Competitors identified, wedge is chat-driven no-code agents."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Signal limited to inclusion in 'best AI agents' blog posts and public pricing page. No disclosed paying customer count, revenue, usage metrics, funding, or recent launch announcements. Freshness of blog posts uncertain."
+    }
+  ],
+  "scoreRationale": "Lindy scores well on Team and Product due to a technically strong founder and a clear, self-serve AI-native agent offering. Defensibility is moderate: the platform creates switching costs but lacks vertical data moats and faces intense horizontal competition. Market & Why-Now is average — large TAM but no vertical focus or articulated timing advantage. Traction is weak with only third-party blog mentions and no hard metrics. Overall, a promising early-stage candidate that needs to demonstrate traction and vertical differentiation to justify investment."
+}

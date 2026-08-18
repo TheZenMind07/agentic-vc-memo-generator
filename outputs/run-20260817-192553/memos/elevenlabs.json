@@ -1,0 +1,12 @@
+{
+  "candidateId": "elevenlabs",
+  "verdict": "take_a_meeting",
+  "summary": "ElevenLabs has strong product-market fit in AI voice synthesis with impressive traction, but faces critical regulatory and ethical risks that temper near-term conviction.",
+  "rationale": "Scoring 74/100, ElevenLabs aligns well with our thesis on Team (founding team with AI/audio expertise), Product (best-in-class voice cloning and generation), and Market & Why-Now (explosive demand for synthetic media, generative AI wave). However, Defensibility is weak due to rapid commoditization (open-source models, large competitors) and Traction, while growing, is still early-stage with limited enterprise lock-in. The critical risk is regulatory backlash (deepfake misuse, voice fraud, IP rights) that could severely limit go-to-market or increase compliance costs. Hence a 'watch'—promising but not yet meeting the bar for a meeting without risk mitigation.",
+  "changeMyMind": [
+    "Announcement of at least two large-scale enterprise contracts with media or licensing firms, signaling defensible B2B revenue",
+    "Clear evidence of proactive regulatory engagement (e.g., watermarking standard, partnership with detection platforms) reducing legal tail risk",
+    "Release a proprietary, fine-tuned model with measurable quality/performance gap that competitors cannot easily replicate in 6 months"
+  ],
+  "score": 74
+}

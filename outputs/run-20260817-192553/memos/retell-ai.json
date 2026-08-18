@@ -1,0 +1,12 @@
+{
+  "candidateId": "retell-ai",
+  "verdict": "take_a_meeting",
+  "summary": "Retell AI shows promise with a strong product-market fit in the AI voice agent space, but faces critical risks around defensibility and competitive moat. The team is solid but unproven at scale, and traction is early. Given the score of 70 and the presence of a critical risk (low defensibility against incumbents and platform shifts), we recommend a watch stance.",
+  "rationale": "Thesis evaluation: Team (7/10) – experienced founders but lack deep domain expertise in voice/telecom; Defensibility (5/10) – low: relies on third-party LLMs and voice models, easy to replicate by larger players; Product (8/10) – strong, intuitive UI, supports multiple use cases; Market & Why-Now (8/10) – large TAM driven by AI voice adoption, timing is right; Traction/Freshness (6/10) – early revenue, some pilot customers, no clear scalability. Overall score 70/100. Critical risk: defensibility is fragile; competitors can integrate similar features into existing platforms. Thus, while the startup is intriguing, we need to see stronger moat-building before committing to a meeting.",
+  "changeMyMind": [
+    "Signs of proprietary voice model or data moat (e.g., unique training data, patents).",
+    "Secures 5+ enterprise contracts with annual recurring revenue >$500k, indicating stickiness.",
+    "Hires a VP of Engineering with deep telecom/voice experience to solidify technical defensibility."
+  ],
+  "score": 70
+}

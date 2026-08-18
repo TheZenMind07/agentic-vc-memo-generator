@@ -1,0 +1,12 @@
+{
+  "candidateId": "kalpa-labs",
+  "verdict": "pass",
+  "summary": "Kalpa Labs scores 36/100, far below the threshold for consideration, leading to a pass.",
+  "rationale": "The overall score of 36/100 is critically low across all rubric dimensions (Team, Defensibility, Product, Market & Why-Now, Traction/Freshness). The absence of a website indicates minimal external validation and likely early-stage development. Without verifiable team credentials, a differentiated product, or any traction, the risk is unacceptably high. The startup does not meet the minimum score of 50 to warrant a watch or a meeting.",
+  "changeMyMind": [
+    "A working prototype or beta product demonstrated to the public",
+    "A credible founder with a track record in a related domain",
+    "First 10 paying customers or letters of intent from target buyers"
+  ],
+  "score": 36
+}

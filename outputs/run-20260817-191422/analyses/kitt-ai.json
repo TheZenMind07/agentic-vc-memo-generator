@@ -1,0 +1,100 @@
+{
+  "candidateId": "kitt-ai",
+  "team": {
+    "summary": "Founders have strong academic and industry backgrounds in NLP and speech recognition, with prior startup experience (Seasalt.ai) and a PhD-heavy team. However, founder-market fit for a specific vertical is unclear, and prior exits are not confirmed.",
+    "founders": [
+      {
+        "name": "Xuchen Yao",
+        "background": "Johns Hopkins University PhD in computer science; previously in the AI2 incubator; co-founded Seasalt.ai.",
+        "priorExits": null
+      },
+      {
+        "name": "Guoguo Chen",
+        "background": "Deep learning and speech recognition expert; created the OK Google hotword detection prototype for Android; Johns Hopkins PhD in electrical engineering.",
+        "priorExits": null
+      },
+      {
+        "name": "Kenji Sagae",
+        "background": "Former USC professor of natural language processing; expert in natural language parsing and dialogue systems.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "High technical depth in NLP, speech recognition, and dialogue systems, sufficient to own core model/integration layer in-house.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Unknown; no one-liner or product description available.",
+    "category": null,
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": "[inferred] Likely leverages recent advances in LLMs and speech recognition, but no specific why-now driver identified.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "No product description or one-liner available; cannot assess product-market fit or AI-native agent status.",
+      "severity": "critical"
+    },
+    {
+      "text": "No market size, competitive landscape, or why-now driver provided; market thesis is unverifiable.",
+      "severity": "high"
+    },
+    {
+      "text": "Traction signal limited to Amazon Alexa Fund backing; no paying customers, active usage, or recent launch activity.",
+      "severity": "high"
+    },
+    {
+      "text": "No prior exits confirmed among founders; startup experience is limited to Seasalt.ai (unknown outcome).",
+      "severity": "medium"
+    }
+  ],
+  "score": 25,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong technical depth and domain expertise in NLP/speech, but founder-market fit for a specific vertical is unclear and no prior exits confirmed."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data, workflow lock-in, switching costs, or network effects; cannot assess dependence on horizontal platforms."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "No product description, one-liner, or category available; cannot evaluate AI-native agent, self-serve onboarding, or clarity."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No market size hint, competitive landscape, or why-now driver provided; vertical and wedge unknown."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only signal is Amazon Alexa Fund backing; no paying customers, active usage, or recent launch activity; freshness is unclear."
+    }
+  ],
+  "scoreRationale": "The startup has a strong team with deep technical expertise in NLP and speech, but lacks any product description, market context, or meaningful traction beyond a single investor. The absence of product and market information makes it impossible to assess defensibility or product-market fit, resulting in a low overall score."
+}

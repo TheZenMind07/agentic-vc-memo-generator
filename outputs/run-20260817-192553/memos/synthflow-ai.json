@@ -1,0 +1,12 @@
+{
+  "candidateId": "synthflow-ai",
+  "verdict": "pass",
+  "summary": "Synthflow AI is an early-stage startup offering no-code voice AI agents for SMBs. Despite a clear product and market, the team lacks depth, defensibility is weak, traction is minimal, and the competitive landscape is intense. The score of 39/100 falls below the 50-point threshold, leading to a pass.",
+  "rationale": "The score of 39/100 reflects significant concerns across all criteria. The team is small with limited public track record, raising questions about execution capability. Defensibility is low due to reliance on third-party LLMs and a crowded market. The product is functional but not differentiated. The market is large and growing, but the 'why now' is not compelling given existing competition. Traction is minimal with no public customer numbers or revenue, and the freshness of the opportunity is questionable as the space is already saturated. These factors combine to present a high-risk investment profile that does not meet our threshold.",
+  "changeMyMind": [
+    "If Synthflow demonstrates 10+ paying SMB customers with clear revenue growth and a repeatable sales motion, indicating product-market fit.",
+    "If they secure a strategic partnership with a major platform (e.g., Zapier, HubSpot) that provides distribution and defensibility.",
+    "If they hire a seasoned AI/ML leader and a sales executive, strengthening the team's ability to scale and differentiate."
+  ],
+  "score": 39
+}

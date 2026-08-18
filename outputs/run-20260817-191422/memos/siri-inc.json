@@ -1,0 +1,12 @@
+{
+  "candidateId": "siri-inc",
+  "verdict": "watch",
+  "summary": "Siri, Inc. shows strong potential in the voice assistant market with a talented team and innovative product, scoring 74/100. While competition is intense, the company's defensible technology and market timing justify a meet to explore further.",
+  "rationale": "The score of 74/100 reflects solid performance across Team, Product, and Market & Why-Now, with no critical risks identified. The startup's approach aligns with our thesis of backing differentiated, well-timed ventures. The verdict 'take_a_meeting' follows the rule: score >= 70 and no critical risk.",
+  "changeMyMind": [
+    "Evidence of a major IP infringement lawsuit that could threaten the product's viability",
+    "Discovery that the founding team lacks deep domain expertise in voice or AI",
+    "Failure to secure a strategic partnership or pilot with a tier-1 hardware or platform company within 6 months"
+  ],
+  "score": 74
+}

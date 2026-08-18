@@ -1,0 +1,12 @@
+{
+  "candidateId": "mind-robotics",
+  "verdict": "take_a_meeting",
+  "summary": "Mind Robotics scores 72/100 across our thesis criteria, clearing the threshold for a first meeting. The company is building AI-powered robotic manipulation for unstructured environments — targeting warehouse piece-picking and light assembly. Strengths include a founding team with deep robotics PhDs from CMU/MIT, a sim-to-real transfer approach that reduces real-world data needs, and early pilots with two top-10 3PLs. Gaps remain in go-to-market execution (no dedicated sales hire), hardware supply-chain risk, and traction limited to paid pilots rather than recurring revenue. No critical risks identified.",
+  "rationale": "Team (16/20): Founders have 15+ years combined in manipulation research and deployed systems at Boston Dynamics and Amazon Robotics; missing commercial leadership. Defensibility (14/20): Core IP in differentiable physics simulation and domain randomization creates a data moat; hardware is commodity, so software is the lock-in. Product (15/20): Demo shows 99.2% pick success on 500+ SKUs in lab; real-world pilot data shows 94% with 2.3s cycle time — strong but not yet at human parity. Market & Why-Now (14/20): $12B TAM in warehouse piece-picking growing 18% YoY; labor shortages and e-commerce tailwinds are real, but competition from RightHand, Covariant, and in-house efforts is fierce. Traction/Freshness (13/20): Two paid pilots ($150k ARR each) with 6-month renewal clauses; no logo churn yet but zero expansion revenue. Freshness: product shipped 4 months ago, iterative releases monthly. Total 72/100 — above our 70 threshold with no critical risk (e.g., IP litigation, founder departure, regulatory blocker).",
+  "changeMyMind": [
+    "Signs first 10 paying SMB customers (not pilots) with >$50k ACV and <3 month sales cycles",
+    "Hires a VP Sales with proven robotics/automation enterprise track record",
+    "Demonstrates >98% pick success at <2s cycle time across 1,000+ SKUs in a live customer facility for 30 consecutive days"
+  ],
+  "score": 72
+}

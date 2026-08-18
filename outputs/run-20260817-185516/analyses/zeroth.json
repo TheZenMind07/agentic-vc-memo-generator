@@ -1,0 +1,94 @@
+{
+  "candidateId": "zeroth",
+  "team": {
+    "summary": "Single founder Renjie Guo identified as CEO; no public prior startup exits or detailed technical background found.",
+    "founders": [
+      {
+        "name": "Renjie Guo",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": null,
+    "sourceUrls": []
+  },
+  "product": {
+    "plainLanguage": "Building robotics and AI hardware systems.",
+    "category": "Robotics / AI Hardware",
+    "sourceUrls": [
+      "https://zeroth0.com"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "Competes with well-funded robotics companies (e.g., Figure, Tesla Optimus, Apptronik) and industrial automation incumbents.",
+    "whyNow": "[inferred] Advances in foundation models for robotics, falling sensor costs, and increased venture appetite for physical AI.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Extremely early stage with no demonstrated product, customers, or technical milestones beyond fundraising.",
+      "severity": "critical"
+    },
+    {
+      "text": "Capital-intensive hardware development with long iteration cycles and supply chain dependencies.",
+      "severity": "high"
+    },
+    {
+      "text": "Intense competition from heavily funded players and incumbents with established distribution.",
+      "severity": "high"
+    },
+    {
+      "text": "Unclear defensibility: no proprietary data, workflow lock-in, or network effects described; likely reliance on horizontal platforms (NVIDIA, ROS).",
+      "severity": "high"
+    },
+    {
+      "text": "Single founder with no visible prior startup experience or domain operating track record.",
+      "severity": "medium"
+    }
+  ],
+  "score": 24,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Only one founder identified with no public prior exits, no demonstrated founder-market fit for robotics hardware, and no evidence of technical depth to own core model/integration layer."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No proprietary data, workflow lock-in, or network effects described; hardware + AI likely depends on horizontal platforms (NVIDIA, ROS) for differentiation; switching costs unclear."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is vague ('Robotics and AI hardware company'); no indication of AI-native agent, self-serve onboarding for SMBs, or clear one-sentence value proposition."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Vertical described only as 'robotics and AI hardware' — too broad for a credible wedge; no size hint, no stated why-now driver, and competitive landscape not addressed by the company."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Strong recent signal: $73.6M Series A raise indicates investor confidence and freshness; however, no evidence of paying customers, active usage, product launch, or community activity."
+    }
+  ],
+  "scoreRationale": "Zeroth shows a strong fundraising signal but lacks virtually all other diligence criteria: team depth, product clarity, market definition, and defensibility are all absent or extremely early. The large Series A may reflect investor bets on the founder or a stealth roadmap, but from an external perspective the company scores near the bottom on every dimension except traction freshness. High risk of capital-intensive hardware execution with no visible moat or wedge."
+}

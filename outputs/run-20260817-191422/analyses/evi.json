@@ -1,0 +1,86 @@
+{
+  "candidateId": "evi",
+  "team": {
+    "summary": "Founder is a British entrepreneur and computer scientist with a prior exit to Amazon, but the startup was founded in 2005 and acquired long ago; current team for a new venture is not described.",
+    "founders": [
+      {
+        "name": "William Tunstall-Pedoe",
+        "background": "British entrepreneur and computer scientist; founded True Knowledge/Evi, acquired by Amazon and contributed to Alexa; also founder and CEO of UnlikelyAI.",
+        "priorExits": true
+      }
+    ],
+    "technicalDepth": "Founder has deep technical background in AI and voice assistants, evidenced by building Evi and contributing to Amazon Alexa.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  "product": {
+    "plainLanguage": "UK voice assistant company acquired by Amazon.",
+    "category": "Voice assistant / AI agent",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] Competed with Siri, Google Assistant, and other voice assistants at the time.",
+    "whyNow": "[inferred] The acquisition by Amazon suggests the why-now was the rise of smart speakers and voice interfaces in the mid-2000s to 2010s.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  "risks": [
+    {
+      "text": "The startup was acquired over a decade ago; no current operating business or recent traction to evaluate.",
+      "severity": "critical"
+    },
+    {
+      "text": "No information on current team, product, or market for a new venture; the candidate appears to be a historical company, not a current investment opportunity.",
+      "severity": "critical"
+    }
+  ],
+  "score": 44,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founder has strong domain experience and a prior exit, but no current team or startup context is provided."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Historical product likely had proprietary data and workflow lock-in, but no evidence of current defensibility or network effects."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Product was a voice assistant (likely an AI agent), but no current product or self-serve onboarding described."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Market size and why-now are inferred from historical context; no current competitive landscape or wedge provided."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Traction is stale (acquisition in ~2012); no recent signals of paying customers, usage, or funding."
+    }
+  ],
+  "scoreRationale": "The candidate is a historical startup acquired by Amazon, not a current investment opportunity. Team has strong founder background, but all other criteria suffer from lack of current information and stale traction. Overall, this does not fit the thesis for a new investment."
+}

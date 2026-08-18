@@ -1,0 +1,315 @@
+[
+  {
+    "id": "walden-robotics",
+    "name": "Walden Robotics",
+    "website": null,
+    "oneLiner": "Humanoid robotics startup spun out of a Toyota robotics research lab.",
+    "founders": [
+      "Russ Tedrake",
+      "Ben Burchfiel",
+      "Kerri Fetzer-Borelli",
+      "Dave Johnson",
+      "Adrien Gaidon",
+      "Siyuan Feng",
+      "Rareș Ambruș"
+    ],
+    "teamSignal": "Russ Tedrake: Co-founder and CEO; MIT professor; formerly Senior Vice President of Large Behavior Models at Toyota Research Institute; public materials also describe him as a robotics and AI pioneer from Toyota Research Institute and MIT.; Ben Burchfiel: Co-founder and CTO; public materials describe him as a robotics/AI researcher from Toyota Research Institute and a Diffusion Policy contributor.; Kerri Fetzer-Borelli: Co-founder; public materials describe her as part of the Toyota Research Institute-backed founding team with operations background.; Dave Johnson: Co-founder and Chief Product Officer; public materials describe him as a product leader with experience at Draper Labs and Dexai Robotics; Boston Globe notes he sold Dexai Robotics to Sony.; Adrien Gaidon: Co-founder and Chief Strategy Officer; machine learning researcher/executive; public materials say he was at Toyota Research Institute and describes him as a robotics/AI researcher.; Siyuan Feng: Co-founder; public materials describe him as a robotics/AI researcher from Toyota Research Institute and part of the founding technical team.; Rareș Ambruș: Co-founder; public materials describe him as part of the founding AI team from Toyota Research Institute.",
+    "tractionSignal": {
+      "type": "launch",
+      "value": "Launched with approximately $300 million in funding and a $1.1 billion valuation",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation",
+      "date": "2026-07-15"
+    },
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation"
+    ]
+  },
+  {
+    "id": "lyte-ai",
+    "name": "Lyte AI",
+    "website": null,
+    "oneLiner": "Robotics startup focused on robot perception and understanding of the environment.",
+    "founders": [
+      "Alexander Shpunt",
+      "Arman Hajati",
+      "Yuval Gerson"
+    ],
+    "teamSignal": "Alexander Shpunt: Ex-Apple engineer; contributed to Face ID depth-sensing and perception technology. Other prior startups/exits: null. Technical depth: strong.; Arman Hajati: Ex-Apple engineer; contributed to Face ID depth-sensing and perception technology. Other prior startups/exits: null. Technical depth: strong.; Yuval Gerson: Ex-Apple engineer; contributed to Face ID depth-sensing and perception technology. Other prior startups/exits: null. Technical depth: strong.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $107 million at launch",
+      "sourceUrl": "https://siliconangle.com/2026/01/05/former-apple-face-id-engineers-launch-robotics-startup-lyte-107m-funding/",
+      "date": "2026-01-05"
+    },
+    "sourceUrls": [
+      "https://siliconangle.com/2026/01/05/former-apple-face-id-engineers-launch-robotics-startup-lyte-107m-funding/"
+    ]
+  },
+  {
+    "id": "mind-robotics",
+    "name": "Mind Robotics",
+    "website": "https://mindrobotics.com",
+    "oneLiner": "AI robotics startup and Rivian spinout.",
+    "founders": [
+      "RJ Scaringe"
+    ],
+    "teamSignal": "RJ Scaringe: Founder of Rivian; Mind Robotics is described as a Rivian spinoff/spin-out. Public coverage says he founded Mind Robotics in 2025 and that the company is built from his manufacturing and systems experience at Rivian. Publicly visible materials also describe his depth in batteries, actuators, motors, software, supply chain, and high-volume manufacturing.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Closed a $500 million Series A round",
+      "sourceUrl": "https://www.alleywatch.com/2026/04/global-startup-funding-top-largest-march-2026-vc/",
+      "date": "2026-04-21"
+    },
+    "sourceUrls": [
+      "https://www.alleywatch.com/2026/04/global-startup-funding-top-largest-march-2026-vc/",
+      "https://recablog.com/top-recently-opened-robotics-startups-in-2026/"
+    ]
+  },
+  {
+    "id": "generalist-ai",
+    "name": "Generalist AI",
+    "website": "https://generalistai.com",
+    "oneLiner": "AI-native robotics company.",
+    "founders": [
+      "Pete Florence",
+      "Andy Zeng",
+      "Andrew Barry"
+    ],
+    "teamSignal": "Pete Florence: Co-founder and CEO; former Google DeepMind robotics researcher. Reported as a former senior research scientist at DeepMind working on robotics and AI; TechCrunch noted he left Google to found Generalist AI. Public reports also describe the team as including people from OpenAI, Google DeepMind, and Boston Dynamics.; Andy Zeng: Co-founder and Chief Scientist; public reports describe him as a former Google DeepMind robotics researcher and part of the founding team with technical background from frontier AI labs.; Andrew Barry: Co-founder and CTO; public reports describe him as a former Boston Dynamics roboticist with technical depth in robotics and AI systems.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $400 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "https://www.alleywatch.com/2026/07/global-startup-funding-top-largest-june-2026-vc/"
+    ]
+  },
+  {
+    "id": "carbonsix",
+    "name": "CarbonSix",
+    "website": "https://carbon6robotics.com",
+    "oneLiner": "Robotics, AI, and hardware company.",
+    "founders": [
+      "Tae-yeon Terry Moon",
+      "Hunmin Cho",
+      "H.J. Terry Suh Ph.D."
+    ],
+    "teamSignal": "Tae-yeon Terry Moon: Co-Founder & CEO of CarbonSix; prior background not clearly specified in the gathered sources.; Hunmin Cho: Co-Founder & CPO of CarbonSix; leads product development strategy, but prior startups/exits were not clearly specified in the gathered sources.; H.J. Terry Suh Ph.D.: Co-Founder & CTO of CarbonSix; described as bringing recent AI advancements to real-world robotics problems, with strong technical depth, but prior startups/exits were not clearly specified in the gathered sources.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $40 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "luxonis",
+    "name": "Luxonis",
+    "website": "https://luxonis.com",
+    "oneLiner": "Computer vision and robotics company.",
+    "founders": [
+      "Brandon Gilles",
+      "Shawn McLaughlin",
+      "Martin Peterlin"
+    ],
+    "teamSignal": "Brandon Gilles: Founder/CEO of Luxonis; technical background in electrical and RF engineering; early career at Ubiquiti as a UniFi lead, with prior work in embedded systems and hardware/software for edge AI and computer vision.; Shawn McLaughlin: Referenced as a founder in third-party company profiles; no reliable public background signal found in the gathered results.; Martin Peterlin: Referenced as a founder in third-party company profiles; no reliable public background signal found in the gathered results.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $14 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "zeroth",
+    "name": "Zeroth",
+    "website": "https://zeroth0.com",
+    "oneLiner": "Robotics and AI hardware company.",
+    "founders": [
+      "Renjie Guo"
+    ],
+    "teamSignal": "Renjie Guo: Identified as Founder and CEO of Zeroth in a public profile; no clear prior startups or exits found in the gathered signals.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $73.6 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "mowito",
+    "name": "Mowito",
+    "website": "https://mowito.in",
+    "oneLiner": "Robotics and hardware startup.",
+    "founders": [
+      "Puru Rastogi",
+      "Adityanag Nagesh",
+      "Safar V"
+    ],
+    "teamSignal": "Puru Rastogi: Robotics engineer from Carnegie Mellon University; previously at Near Earth Autonomy; leads the technical team at Mowito.; Adityanag Nagesh: Ex-VP Hardware at Sensara; profile indicates prior startups founded and 20 years of industry experience.; Safar V: CTO; alumnus of IIT Madras.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $3 million in pre-seed funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "hive-autonomy",
+    "name": "HIVE Autonomy",
+    "website": "https://hiveautonomy.com",
+    "oneLiner": "Autonomy and robotics company.",
+    "founders": [
+      "Christoffer Jørgenvåg",
+      "Fredrik Bringager",
+      "Michael Gallagher"
+    ],
+    "teamSignal": "Christoffer Jørgenvåg: CEO/co-founder of HIVE Autonomy; public sources show him leading the company and building autonomous industrial machine technology, but no clearly verified prior startup or exit signal was found in the gathered results.; Fredrik Bringager: Co-founder and CCO at HIVE Autonomy; LinkedIn and event pages identify him as a co-founder with commercial leadership, but no clearly verified prior startup or exit signal was found in the gathered results.; Michael Gallagher: Chief Operational Officer at HIVE Autonomy; verified as part of the management team, but no clearly verified prior startup or exit signal was found in the gathered results.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised €13.1 million in seed funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "oxmiq-labs",
+    "name": "Oxmiq Labs",
+    "website": "https://oxmiq.com",
+    "oneLiner": "Deep-tech robotics and hardware company.",
+    "founders": [
+      "Raja Koduri"
+    ],
+    "teamSignal": "Raja Koduri: Founder & CEO of Oxmiq Labs; previously a senior GPU architect/executive at Intel and AMD. Public materials also note he founded Mihira with Shobu Yarlagadda and S.S. Rajamouli before focusing full-time on Oxmiq.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $35 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "layup-parts",
+    "name": "Layup Parts",
+    "website": "https://layupparts.com",
+    "oneLiner": "Robotics and hardware startup.",
+    "founders": [
+      "Zack Eakin",
+      "Hanno Kappen",
+      "Elisa Suarez"
+    ],
+    "teamSignal": "Zack Eakin: Co-founder and CEO of Layup Parts; previously a director of manufacturing engineering at Anduril Industries, responsible for mechanical design and development of flying drone products. Earlier reporting says he was an Ex-Anduril engineer and that Layup Parts was founded by former Boring Company colleagues.; Hanno Kappen: Co-founder and CTO; public profiles identify him as part of the founding team, but no reliable public source in the gathered results provides deeper background on prior startups or exits.; Elisa Suarez: Co-founder and COO; public profiles identify her as part of the founding team, but no reliable public source in the gathered results provides deeper background on prior startups or exits.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $42 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "foundation-alloy",
+    "name": "Foundation Alloy",
+    "website": "https://foundationalloy.com",
+    "oneLiner": "Materials and deep-tech company with robotics relevance.",
+    "founders": [
+      "Jake Guglin",
+      "Chris Schuh",
+      "Tim Rupert"
+    ],
+    "teamSignal": "Jake Guglin: CEO/co-founder of Foundation Alloy; previously held strategy and operations roles at Lightmatter, Blue Origin, and SpaceX, focused on manufacturing scale-up, procurement, and business operations; MBA from MIT and BA from Colgate University.; Chris Schuh: Scientific advisor/co-founder; MIT-connected materials scientist who developed core technology underlying the company.; Tim Rupert: Scientific advisor/co-founder; Director of the Hopkins Extreme Materials Institute at Johns Hopkins University; PhD in Materials Science and Engineering from MIT; research focuses on nanostructured metals and materials for extreme environments.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $22 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "podium-automation",
+    "name": "Podium Automation",
+    "website": "https://podiumautomation.com",
+    "oneLiner": "Industrial automation company.",
+    "founders": [
+      "Jamie Niu Serota",
+      "Jacob Buser"
+    ],
+    "teamSignal": "Jamie Niu Serota: Co-Founder & CEO; prior leadership in commercial strategy and business operations at Bowery Farming, Blue Origin, and Tesla. Public profiles also describe her as ex-Tesla and ex-Blue Origin.; Jacob Buser: Co-Founder & CTO; prior hardware engineering leadership at Bowery Farming and Turbo-Til Packaging. Public company bio shows technical/hardware depth.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $18 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "theker",
+    "name": "THEKER",
+    "website": "https://theker.ai",
+    "oneLiner": "AI-native robotics company.",
+    "founders": [
+      "Carla Gómez Cano",
+      "Jiaqiang Ye Zhu"
+    ],
+    "teamSignal": "Carla Gómez Cano: Co-founder of THEKER; described in coverage as a robotics and AI engineer, and co-leads the company with Jiaqiang Ye Zhu. Public sources do not show prior startup exits in the retrieved results.; Jiaqiang Ye Zhu: Co-founder of THEKER; described in coverage as an engineer / roboticist with Carla Gómez Cano. Public sources do not show prior startup exits in the retrieved results.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $85 million in Series A funding",
+      "sourceUrl": "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "date": "2026-07-31"
+    },
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  {
+    "id": "acumino",
+    "name": "Acumino",
+    "website": "https://acumino.ai",
+    "oneLiner": "AI, manufacturing, and robotics startup.",
+    "founders": [
+      "Patrick Jarvis",
+      "Tom White",
+      "Dr. Minas Liarokapis"
+    ],
+    "teamSignal": "Patrick Jarvis: Founder / CEO listed on Acumino’s team page; no prior startup or exit details found in the gathered sources.; Tom White: Founder / COO listed on Acumino’s team page; no prior startup or exit details found in the gathered sources.; Dr. Minas Liarokapis: Founder / CTO listed on Acumino’s team page; the company page and related profile identify him as a robotics/AI technical founder, but no prior startup or exit details were found in the gathered sources.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised $11.7 million in seed funding",
+      "sourceUrl": "https://growthlist.co/robotics-startups/",
+      "date": "2026-06-01"
+    },
+    "sourceUrls": [
+      "https://growthlist.co/robotics-startups/"
+    ]
+  }
+]

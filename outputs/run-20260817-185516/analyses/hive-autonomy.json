@@ -1,0 +1,104 @@
+{
+  "candidateId": "hive-autonomy",
+  "team": {
+    "summary": "Three founders (CEO, CCO, COO) leading an autonomy/robotics venture; no verified prior startup exits found in available sources.",
+    "founders": [
+      {
+        "name": "Christoffer Jørgenvåg",
+        "background": "CEO/co-founder of HIVE Autonomy; leading autonomous industrial machine technology development.",
+        "priorExits": false
+      },
+      {
+        "name": "Fredrik Bringager",
+        "background": "Co-founder and CCO at HIVE Autonomy; commercial leadership role.",
+        "priorExits": false
+      },
+      {
+        "name": "Michael Gallagher",
+        "background": "Chief Operational Officer at HIVE Autonomy; part of management team.",
+        "priorExits": false
+      }
+    ],
+    "technicalDepth": "[inferred] Likely strong technical depth given autonomy/robotics focus, but no specific details on in-house core model/integration layer available.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Develops autonomous industrial machine technology (robotics/autonomy).",
+    "category": "Industrial robotics / autonomy",
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": "[inferred] Industrial automation market, but no specific size hint provided.",
+    "competitiveLandscape": "[inferred] Likely competes with other industrial autonomy companies; no identifiable competitors or wedge stated.",
+    "whyNow": "[inferred] Potential drivers: advances in AI/robotics, labor shortages, but not articulated.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "No demonstrated founder-market fit or prior exit experience",
+      "severity": "high"
+    },
+    {
+      "text": "Defensibility unclear: no evidence of proprietary data, workflow lock-in, or switching costs",
+      "severity": "high"
+    },
+    {
+      "text": "Product description generic; no proof of AI-native agent, self-serve onboarding, or clear value proposition",
+      "severity": "medium"
+    },
+    {
+      "text": "Market size, why-now, and competitive positioning not articulated",
+      "severity": "medium"
+    },
+    {
+      "text": "Heavy reliance on recent seed funding; execution risk in capital-intensive robotics",
+      "severity": "medium"
+    }
+  ],
+  "score": 32,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders hold relevant titles but lack verified prior startup exits; technical depth and founder-market fit not evidenced."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No information on proprietary data, workflow lock-in, switching costs, or independence from horizontal platforms."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is vague; no evidence of AI-native agent, self-serve SMB onboarding, or clear one-sentence articulation."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical size hint, why-now driver, or competitive landscape provided."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Raised €13.1M seed funding (per fundedstartupsdaily.com), indicating strong recent investor confidence."
+    }
+  ],
+  "scoreRationale": "Overall low scores across team, defensibility, product, and market due to lack of verifiable details; traction is the only strong signal from the recent €13.1M seed raise."
+}

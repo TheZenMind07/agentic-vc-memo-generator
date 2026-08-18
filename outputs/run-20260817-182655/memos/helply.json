@@ -1,0 +1,12 @@
+{
+  "candidateId": "helply",
+  "verdict": "watch",
+  "summary": "Helply is an AI-powered customer support automation platform targeting SMBs and mid-market companies. The company scores 55/100 on our thesis rubric, driven by a credible founding team with relevant domain experience and a timely market entry as LLMs mature for support use cases. However, defensibility concerns around wrapper risk, early traction without clear product-market fit signals, and a crowded competitive landscape (Intercom Fin, Zendesk AI, Decagon, Sierra) keep conviction below the meeting threshold. Verdict: Watch — monitor for evidence of durable differentiation and repeatable enterprise sales motion.",
+  "rationale": "Team (12/20): Founders include a former senior engineer at a major helpdesk vendor and a repeat SaaS founder — strong domain knowledge but no prior exit. Early hires lean engineering; missing a proven GTM/sales leader. Defensibility (8/20): Core product is an LLM wrapper over existing helpdesk APIs with proprietary routing logic. Moat relies on data flywheel (ticket resolution data) and integration depth, but switching costs are low and incumbents are embedding similar AI natively. Product (11/20): Demo shows strong resolution rates on tier-1 tickets (~65% deflection) but struggles with complex multi-step workflows. Architecture is modern (RAG + fine-tuned classifiers), yet product breadth is narrow vs. incumbents' full suites. Market & Why-Now (14/20): SMB support automation is a $20B+ TAM accelerating with LLM maturity. Timing is right — buyers are budgeting for AI support now. However, budget consolidation favors incumbent platforms. Traction/Freshness (10/20): $180k ARR across 12 design partners (mostly pilot, not paid). 3-month pilot conversion rate unknown. No logo churn yet, but no expansion either. Freshness: launched 8 months ago; pace is steady but not breakout.",
+  "changeMyMind": [
+    "Signs first 10 paying SMB customers at $5k+ ACV with <60 day sales cycles",
+    "Hires a VP Sales with proven track record selling to support leaders at Intercom/Zendesk competitors",
+    "Demonstrates >80% ticket resolution on complex workflows (multi-system actions, approvals) in a live customer environment"
+  ],
+  "score": 55
+}

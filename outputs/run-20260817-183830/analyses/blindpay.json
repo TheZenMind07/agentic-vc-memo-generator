@@ -1,0 +1,109 @@
+{
+  "candidateId": "blindpay",
+  "team": {
+    "summary": "Four founders with fintech and blockchain background; YC W25 batch; team of 9.",
+    "founders": [
+      {
+        "name": "Bernardo Simonassi",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "João Borges",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Gabriel Lyra",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Gustavo Marinho",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Building a stablecoin payment API requires deep blockchain, cryptography, and financial infrastructure expertise.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Stablecoin API for global payments",
+    "category": "Fintech / Payments Infrastructure",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Global cross-border payments market is trillions of dollars; stablecoin settlement volume growing rapidly.",
+    "competitiveLandscape": "[inferred] Competitors include Circle (USDC), Stripe (crypto), Bridge, and other stablecoin payment APIs.",
+    "whyNow": "[inferred] Stablecoin adoption accelerating due to regulatory clarity, lower transaction costs, and demand for instant global settlement.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Regulatory uncertainty around stablecoins and money transmission licenses across jurisdictions",
+      "severity": "high"
+    },
+    {
+      "text": "Dependence on third-party stablecoin issuers (e.g., Circle, Tether) and blockchain networks",
+      "severity": "medium"
+    },
+    {
+      "text": "Competition from well-funded incumbents (Stripe, Circle) and other crypto payment startups",
+      "severity": "medium"
+    },
+    {
+      "text": "Technical complexity of maintaining multi-chain, multi-currency infrastructure",
+      "severity": "low"
+    }
+  ],
+  "score": 65,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Four technical founders with apparent fintech/blockchain domain fit; YC W25 acceptance signals strong founder quality; team of 9 indicates early execution capacity. Prior exits unknown."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Potential workflow lock-in via API integration and multi-chain abstraction; switching costs moderate once developers embed the API. No proprietary data moat yet. Dependence on external stablecoin issuers and blockchains limits vertical control."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Not an AI-native agent; it's a traditional API product. Self-serve onboarding for developers likely. Clear one-sentence value prop. Scores low on AI-agent criterion but meets other product criteria."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (stablecoin payments) with massive TAM. Strong why-now: stablecoin adoption inflection, regulatory progress, developer demand for programmable money. Clear competitors and wedge (developer-first API)."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch (very recent) is a strong fresh signal. Team size 9 suggests post-formation momentum. No public data on paying customers, revenue, or active usage yet."
+    }
+  ],
+  "scoreRationale": "BlindPay shows strong team and market timing with a clear wedge in stablecoin payments. Defensibility is moderate due to reliance on external protocols. Product is not AI-native, which lowers its score per the rubric's AI-agent emphasis. Traction is early but fresh with YC acceptance. Overall, a promising early-stage fintech infrastructure play."
+}

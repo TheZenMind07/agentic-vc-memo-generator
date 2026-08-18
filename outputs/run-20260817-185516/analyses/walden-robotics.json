@@ -1,0 +1,128 @@
+{
+  "candidateId": "walden-robotics",
+  "team": {
+    "summary": "Founding team includes world-class robotics/AI researchers from Toyota Research Institute and MIT, led by Russ Tedrake (MIT professor, former TRI SVP of Large Behavior Models). Strong founder-market fit for humanoid robotics, deep technical expertise in diffusion policies and large behavior models, and prior exit experience (Dave Johnson sold Dexai Robotics to Sony).",
+    "founders": [
+      {
+        "name": "Russ Tedrake",
+        "background": "MIT professor; Co-founder and CEO; formerly Senior Vice President of Large Behavior Models at Toyota Research Institute; robotics and AI pioneer.",
+        "priorExits": null
+      },
+      {
+        "name": "Ben Burchfiel",
+        "background": "Co-founder and CTO; robotics/AI researcher from Toyota Research Institute; Diffusion Policy contributor.",
+        "priorExits": null
+      },
+      {
+        "name": "Kerri Fetzer-Borelli",
+        "background": "Co-founder; part of the Toyota Research Institute-backed founding team with operations background.",
+        "priorExits": null
+      },
+      {
+        "name": "Dave Johnson",
+        "background": "Co-founder and Chief Product Officer; product leader with experience at Draper Labs and Dexai Robotics; sold Dexai Robotics to Sony.",
+        "priorExits": true
+      },
+      {
+        "name": "Adrien Gaidon",
+        "background": "Co-founder and Chief Strategy Officer; machine learning researcher/executive; formerly at Toyota Research Institute.",
+        "priorExits": null
+      },
+      {
+        "name": "Siyuan Feng",
+        "background": "Co-founder; robotics/AI researcher from Toyota Research Institute; part of the founding technical team.",
+        "priorExits": null
+      },
+      {
+        "name": "Rareș Ambruș",
+        "background": "Co-founder; part of the founding AI team from Toyota Research Institute.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Team includes pioneers in diffusion policy, large behavior models, and robot learning; capable of building core models and integration layers in-house.",
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Walden Robotics builds humanoid robots powered by advanced AI models (e.g., diffusion policies) spun out of Toyota Research Institute, targeting automation of physical tasks.",
+    "category": "Humanoid robotics / Embodied AI",
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Humanoid robotics market projected to reach tens of billions by 2030, driven by labor shortages and AI advances.",
+    "competitiveLandscape": "Competes with Figure, Tesla Optimus, Agility Robotics, Apptronik, and other well-funded humanoid startups.",
+    "whyNow": "Advances in diffusion policies and large behavior models, falling hardware costs, and labor shortages create a window for commercial humanoid robots.",
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2026-07-15/toyota-backed-robotics-startup-walden-launches-with-1-1-billion-valuation"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Extremely high capital intensity for hardware development, manufacturing, and deployment.",
+      "severity": "high"
+    },
+    {
+      "text": "Long time to revenue; requires solving both AI and complex mechanical/electrical integration.",
+      "severity": "high"
+    },
+    {
+      "text": "Intense competition from deeply pocketed players (Figure, Tesla, etc.) and potential IP disputes.",
+      "severity": "medium"
+    },
+    {
+      "text": "Regulatory and safety hurdles for deploying humanoid robots in human environments.",
+      "severity": "medium"
+    },
+    {
+      "text": "Dependence on continued AI research breakthroughs (e.g., diffusion policy scaling) for differentiation.",
+      "severity": "medium"
+    }
+  ],
+  "score": 84,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Exceptional founder-market fit: world-class robotics/AI researchers from TRI/MIT led by Russ Tedrake. Deep technical depth to own core models (diffusion policy, large behavior models). Prior exit experience (Dave Johnson sold Dexai to Sony)."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary research (diffusion policy, large behavior models) from TRI provides algorithmic moat; vertical focus on humanoid robotics creates workflow lock-in potential. Not dependent on a single horizontal platform. Early stage, so switching costs/network effects not yet realized."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent (humanoid robot takes physical actions end-to-end). Clear one-sentence articulation. However, self-serve onboarding for SMBs is not applicable (industrial/enterprise hardware with heavy implementation)."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (humanoid robotics) with credible large market potential. Why-now drivers: diffusion policy breakthroughs, hardware cost declines, labor shortages. Identifiable competitors and a wedge via TRI research IP."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Launched with ~$300M funding and $1.1B valuation (per Bloomberg, July 2025). Strong fresh signal of investor confidence and capital to execute."
+    }
+  ],
+  "scoreRationale": "Walden Robotics scores highly on team (5/5) and traction (5/5), with strong defensibility (4/5) and market timing (4/5). Product score (3/5) reflects the inherent hardware complexity and lack of SMB self-serve, which is typical for deep-tech robotics. Weighted composite indicates a top-tier deep-tech opportunity with exceptional talent and capital, but high execution risk."
+}

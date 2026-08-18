@@ -1,0 +1,12 @@
+{
+  "candidateId": "zeroth",
+  "verdict": "pass",
+  "summary": "Zeroth (zeroth0.com) scores 24/100 across our investment thesis criteria. The startup shows insufficient evidence of a strong team, defensible technology, product-market fit, or meaningful traction. At this stage, the opportunity does not meet our threshold for further engagement.",
+  "rationale": "Team: No visible track record of the founders in relevant domains; LinkedIn and public profiles suggest early-career or first-time founders without prior exits or deep technical expertise. Defensibility: No patents, proprietary data, or network effects disclosed; the product appears to be a thin wrapper on existing LLMs with low switching costs. Product: The demo shows a generic AI assistant interface without differentiated workflows or vertical focus; user feedback loops and iteration velocity are unclear. Market & Why-Now: Targeting a crowded horizontal AI productivity space with no clear wedge; timing argument relies on generic AI tailwinds rather than a specific regulatory, platform, or behavioral shift. Traction/Freshness: No public metrics (users, revenue, retention); website traffic appears minimal; no case studies or reference customers. Overall, the score reflects a pre-product, pre-traction concept with high execution risk and low differentiation.",
+  "changeMyMind": [
+    "Signs first 10 paying SMB customers with >$500/mo ARPU and <3 month payback",
+    "Hires a founding engineer with prior ML infrastructure experience at a top-tier lab (e.g., Google Brain, OpenAI, Anthropic)",
+    "Publishes a technical whitepaper demonstrating a novel architecture that reduces inference cost by >50% vs. current SOTA"
+  ],
+  "score": 24
+}

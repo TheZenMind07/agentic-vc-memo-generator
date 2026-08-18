@@ -1,0 +1,12 @@
+{
+  "candidateId": "waveforms-ai",
+  "verdict": "watch",
+  "summary": "WaveForms AI is an early-stage startup aiming to apply generative AI to waveform-based data (e.g., audio, radar, LIDAR, seismic) for commercial and industrial pattern recognition. The team is technically strong but lacks commercial experience, defensibility is uncertain due to fast-moving open-source models, product is pre-MVP, and market timing is early but plausible. Traction is nil. Overall score 50/100 — watch per the rubric.",
+  "rationale": "Score breakdown: Team (6/10) — PhD founders with signal processing + AI backgrounds, but no startup or sales experience. Defensibility (4/10) — relies on proprietary fine-tuning of open-source models; hard to protect vs. foundation model updates. Product (5/10) — idea-stage, no prototype shown. Market & Why-Now (7/10) — emerging demand for AI in niche waveform domains (e.g., predictive maintenance, defense), but adoption cycles are long. Traction (3/10) — zero users or pilots, no pre-seed funding yet. Total = 50/100. Verdict rule: score >= 50 with or without critical risk => watch. Main concerns: team lacks go-to-market skills; IP moat is weak; product is vaporware. The thesis supports backing high-upside technical founders, but execution risk is high without commercial validation.",
+  "changeMyMind": [
+    "First paid pilot with an industrial customer (e.g., manufacturing or defense) demonstrating intent to adopt.",
+    "Hire a head of business development or seasoned advisor with enterprise sales experience.",
+    "Release a working MVP or demo that achieves >95% accuracy on a benchmark waveform dataset."
+  ],
+  "score": 50
+}

@@ -1,0 +1,12 @@
+{
+  "candidateId": "walden-robotics",
+  "verdict": "take_a_meeting",
+  "summary": "Walden Robotics scores 84/100 across our thesis criteria, driven by a world-class founding team with deep robotics and logistics expertise, a defensible hardware-software platform for autonomous warehouse navigation, a massive and accelerating market in warehouse automation, and early traction with two paid pilots at Fortune 500 distributors. No critical risks identified; the company is ready for a deep-dive partnership discussion.",
+  "rationale": "Team (20/20): Founders include a former Boston Dynamics lead roboticist and a ex-Amazon Robotics product manager; complemented by 3 PhDs in computer vision and control systems. Defensibility (18/20): Patented sensor-fusion stack and fleet orchestration software create high switching costs; hardware design protected by 7 utility patents. Product (16/20): MVP deployed in two live warehouses achieving 99.2% navigation accuracy and 30% labor reduction; modular architecture enables rapid customization. Market & Why-Now (15/20): $45B warehouse automation market growing 14% CAGR; labor shortages and e-commerce surge create urgent demand for flexible automation. Traction/Freshness (15/20): $1.2M ARR from two paid pilots signed in last 6 months; pipeline of 12 qualified enterprise prospects; product shipped v1.0 three months ago.",
+  "changeMyMind": [
+    "Fails to convert either pilot into a multi-site expansion contract within 9 months",
+    "Key technical co-founder departs before Series A close",
+    "Regulatory safety certification (ANSI/RIA R15.08) delayed beyond Q3 2025"
+  ],
+  "score": 84
+}

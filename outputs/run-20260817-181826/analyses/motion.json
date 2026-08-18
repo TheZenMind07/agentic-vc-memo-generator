@@ -1,0 +1,112 @@
+{
+  "candidateId": "motion",
+  "team": {
+    "summary": "Four co-founders with YC W20 experience; CEO Harry Qi has venture/angel background, COO Ethan Yu brings quantitative trading expertise, CTO Chander Ramesh implies technical leadership, but no founder has a prior exit or deep vertical experience in AI agents for SMBs.",
+    "founders": [
+      {
+        "name": "Harry Qi",
+        "background": "Co-founder and CEO of Motion; YC W20; previously associated with Pioneer Fund as LP/Venture Partner and active angel investor.",
+        "priorExits": false
+      },
+      {
+        "name": "Ethan Yu",
+        "background": "Co-founder and COO of Motion; previously a quantitative trader at DRW and Citadel; YC W20.",
+        "priorExits": false
+      },
+      {
+        "name": "Omid Rooholfada",
+        "background": "Co-founder of Motion; no further background details found in sources.",
+        "priorExits": null
+      },
+      {
+        "name": "Chander Ramesh",
+        "background": "Co-founder and CTO of Motion; technical depth implied by CTO role, but prior startups/exits not found.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "CTO in place suggests in-house engineering capability, but no public evidence of owning core model/integration layer; likely relies on third-party LLM APIs.",
+    "sourceUrls": [
+      "https://www.linkedin.com/posts/seabookchen_aiagents-smbtech-startupfunding-activity-7371362161572589569-wauc",
+      "https://www.vcpedia.com/startups/3459"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Motion is an AI work platform that has added AI agents aimed at SMBs, presumably to automate tasks end-to-end rather than just assist.",
+    "category": "AI productivity / AI agent platform for SMBs",
+    "sourceUrls": [
+      "https://www.linkedin.com/posts/seabookchen_aiagents-smbtech-startupfunding-activity-7371362161572589569-wauc",
+      "https://www.vcpedia.com/startups/3459"
+    ]
+  },
+  "market": {
+    "sizeHint": "SMB productivity software market is large (hundreds of billions globally), but no specific TAM figure provided.",
+    "competitiveLandscape": "Crowded: Notion AI, ClickUp, Asana, Monday.com, and numerous vertical AI agent startups targeting SMB workflows.",
+    "whyNow": "LLM cost/performance improvements enable affordable agentic workflows; SMBs increasingly open to AI automation.",
+    "sourceUrls": [
+      "https://www.linkedin.com/posts/seabookchen_aiagents-smbtech-startupfunding-activity-7371362161572589569-wauc",
+      "https://www.vcpedia.com/startups/3459"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Highly competitive market with well-funded incumbents adding AI agents",
+      "severity": "high"
+    },
+    {
+      "text": "Dependence on third-party LLM providers for core intelligence",
+      "severity": "medium"
+    },
+    {
+      "text": "Unproven product differentiation and switching costs for SMBs",
+      "severity": "high"
+    },
+    {
+      "text": "Limited evidence of proprietary data or workflow lock-in",
+      "severity": "medium"
+    }
+  ],
+  "score": 39,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have YC experience and strong individual backgrounds (quant, venture), but lack prior exits and direct domain expertise in AI agents for SMBs. Technical depth is implied but not demonstrated."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No rating provided by model"
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is clear; AI agents suggest action-oriented product; self-serve SMB onboarding plausible but unconfirmed."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Large SMB productivity market; why-now driven by LLM advances; wedge is AI agents for SMBs, but competitive landscape is intense."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "$38M Series C led by Scale Venture Partners is a strong recent signal; however, no public data on paying customers, active usage, or community engagement."
+    }
+  ],
+  "scoreRationale": "Motion shows promising funding traction and a credible team pedigree, but scores low on defensibility and only modestly on product differentiation and market wedge. The overall profile suggests a venture-backed startup in a crowded space with unproven moats."
+}

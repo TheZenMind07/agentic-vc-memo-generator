@@ -1,0 +1,41 @@
+[
+  {
+    "id": "lindy",
+    "name": "Lindy",
+    "website": "https://www.lindy.ai",
+    "oneLiner": "AI agent platform for SMBs that lets users build and run chat-driven automations without coding.",
+    "founders": [
+      "Flo Crivello"
+    ],
+    "teamSignal": "Flo Crivello: Founder and CEO of Lindy; previously founded Teamflow, worked as a product manager at Uber, and has a software engineering background. Source indicates he started Lindy after Teamflow and describes him as technically deep.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Listed among SMB-focused AI agent platforms; pricing shown as free, paid from $49.99/mo.",
+      "sourceUrl": "https://arahi.ai/blog/best-ai-agents-for-business",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://arahi.ai/blog/best-ai-agents-for-business",
+      "https://www.siit.io/blog/best-ai-agent-platforms-small-business"
+    ]
+  },
+  {
+    "id": "helply",
+    "name": "Helply",
+    "website": "https://helply.com",
+    "oneLiner": "AI helpdesk and support agent platform for small B2B SaaS teams.",
+    "founders": [
+      "Tom Morkes"
+    ],
+    "teamSignal": "Tom Morkes: Co-founder/COO at Helply; his public profile describes him as a 3x founder, West Point grad, and someone who led GTM for hundreds of launches generating millions.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Described as the best fit for small B2B SaaS support teams and highlighted for free unlimited-seat helpdesk plus outcome-based AI pricing.",
+      "sourceUrl": "https://helply.com/blog/15-best-ai-agents-for-small-business",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://helply.com/blog/15-best-ai-agents-for-small-business"
+    ]
+  }
+]

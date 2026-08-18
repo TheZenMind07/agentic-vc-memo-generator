@@ -1,0 +1,98 @@
+{
+  "candidateId": "snips",
+  "team": {
+    "summary": "Founders have strong technical depth (PhD-level in mathematics/ML) and Rand Hindi has prior startup experience and an exit (Snips acquired by Sonos). However, Mael Primet and Michael Fester lack clear prior startup or exit signals. Overall founder-market fit is moderate for an edge-based voice solution given their deep tech background.",
+    "founders": [
+      {
+        "name": "Rand Hindi",
+        "background": "Co-founder and CEO; deeptech entrepreneur/investor, former CEO of Hinran, co-founder of PlanetUltra (French social network). Prior startup experience; after Snips was acquired by Sonos, founded Zama.",
+        "priorExits": true
+      },
+      {
+        "name": "Mael Primet",
+        "background": "Co-founder and CTO; mathematician, PhD-level technical co-founder. No clear prior startup or exit signal found.",
+        "priorExits": null
+      },
+      {
+        "name": "Michael Fester",
+        "background": "Co-founder; pure mathematics student at Cambridge University, one of three PhD founders. No clear prior startup or exit signal found.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "High; all three founders have PhD-level backgrounds in mathematics/ML, enabling ownership of core model/integration layer.",
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Edge-based private voice solution for OEMs.",
+    "category": "Edge AI / Voice Assistant",
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Product is a B2B OEM solution, not a self-serve SMB product; likely requires heavy sales/implementation.",
+      "severity": "high"
+    },
+    {
+      "text": "Founded in 2013; traction signal is stale (funding raised years ago, no recent active usage or paying customer data).",
+      "severity": "high"
+    },
+    {
+      "text": "No clear defensibility beyond edge privacy; potential dependence on horizontal platforms (e.g., Sonos acquisition suggests platform lock-in risk).",
+      "severity": "medium"
+    }
+  ],
+  "score": 41,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong technical depth and one founder with prior exit, but two founders lack startup/exit signal; founder-market fit is moderate for edge voice."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Edge privacy provides some differentiation, but no evidence of proprietary data, network effects, or workflow lock-in; risk of dependence on OEM partners."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent? Unclear if end-to-end action; not self-serve for SMBs (OEM-focused); one-liner is clear but not action-oriented."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No credible size hint, no why-now driver identified, no competitive landscape provided."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only stale signal: founded 2013, $18M funding; no recent paying customers, active usage, or launch activity."
+    }
+  ],
+  "scoreRationale": "The startup shows strong technical depth but lacks recent traction, clear market sizing, and product-market fit for the stated thesis. Defensibility is weak and the product is not self-serve. Overall, it does not score well against the rubric."
+}

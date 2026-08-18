@@ -1,0 +1,94 @@
+{
+  "candidateId": "oxmiq-labs",
+  "team": {
+    "summary": "Founded by Raja Koduri, a veteran GPU architect and executive with leadership roles at Intel and AMD. Prior startup experience includes founding Mihira. Strong technical depth in hardware/silicon, but direct robotics domain experience is less documented.",
+    "founders": [
+      {
+        "name": "Raja Koduri",
+        "background": "Former senior GPU architect/executive at Intel and AMD; founded Mihira with Shobu Yarlagadda and S.S. Rajamouli.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Exceptional — deep expertise in GPU architecture, silicon design, and hardware engineering from Intel/AMD leadership roles.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] A deep-tech robotics and hardware company; specific product functionality not publicly described beyond the one-liner.",
+    "category": "Robotics / Hardware",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "High technical and execution risk in deep-tech robotics/hardware with unproven product-market fit.",
+      "severity": "high"
+    },
+    {
+      "text": "Limited public information on defensibility (IP, data moats, switching costs).",
+      "severity": "medium"
+    },
+    {
+      "text": "Dependence on continued capital intensity; $35M Series A may not suffice for hardware scaling.",
+      "severity": "medium"
+    },
+    {
+      "text": "Founder's robotics-specific experience unclear; team may lack domain-specific operational experience.",
+      "severity": "medium"
+    }
+  ],
+  "score": 50,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founder has exceptional technical depth (GPU architecture at Intel/AMD) and prior startup experience (Mihira). Strong founder-market fit for deep-tech hardware, though robotics-specific experience is less evident."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No public evidence of proprietary data, workflow lock-in, network effects, or IP portfolio. Deep-tech hardware may yield patents, but dependence on single platform and switching costs are unknown."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is vague; no demonstration of AI-native agent, self-serve onboarding, or clear product articulation. Likely early-stage hardware development with no user-facing product yet."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Broad 'robotics and hardware' vertical lacks specific size hint, why-now driver (e.g., LLM cost collapse, new APIs), identifiable competitors, or stated wedge strategy."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Recent $35M Series A funding signals investor confidence and provides runway. However, no public signals of paying customers, active usage, product launch, or community engagement (HN/GitHub)."
+    }
+  ],
+  "scoreRationale": "Oxmiq Labs benefits from a world-class founder with deep hardware expertise and fresh capital, but scores low on product clarity, market specificity, and demonstrable defensibility. The investment thesis emphasizes AI-native agents, vertical SaaS workflows, and self-serve SMB onboarding — none of which are evidenced here. The company appears to be a pre-product deep-tech hardware play, which falls outside the thesis sweet spot."
+}

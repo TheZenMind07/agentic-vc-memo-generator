@@ -1,0 +1,12 @@
+{
+  "candidateId": "mowito",
+  "verdict": "pass",
+  "summary": "Mowito scores 45/100 — below the 50 threshold for a watch. The team shows domain grit but lacks go-to-market DNA; product is a thin marketplace wrapper with no proprietary tech; defensibility is low in a fragmented, low-margin services market; traction is early with <₹50L ARR and high churn; why-now narrative (urban landscaping demand) is real but not unique to Mowito.",
+  "rationale": "Team (10/25): Founders have ops experience in facilities management but zero prior venture-scale sales or product leadership. No key hires in growth or engineering. Defensibility (5/20): Pure play marketplace with no data moat, switching costs, or brand lock-in; supply side (gardeners) is commoditized and multi-homes. Product (10/20): Basic booking/payment flow; no workflow SaaS for providers, no IoT/routing optimization, no consumer subscription tier. Market & Why-Now (10/20): ₹2,000Cr+ addressable urban landscaping market growing 15% YoY, but tailwinds (urbanization, dual-income households) benefit all players equally — no timing advantage. Traction / Freshness (10/15): ~200 active providers, 1,200 households served in 18 months; ARR ~₹40L, MoM growth <5%, repeat rate <30%. Unit economics negative (CAC > LTV). Freshness penalty: no material product or GTM evolution in last 6 months.",
+  "changeMyMind": [
+    "Signs 50+ paying residential communities (RWAs) on annual contracts with >60% renewal",
+    "Launches provider SaaS (scheduling, invoicing, inventory) and onboards 200+ gardeners as paying SaaS users",
+    "Hires a VP Growth with proven marketplace scale (e.g., UrbanCompany, NoBroker) and demonstrates 3x CAC:LTV improvement in 2 quarters"
+  ],
+  "score": 45
+}

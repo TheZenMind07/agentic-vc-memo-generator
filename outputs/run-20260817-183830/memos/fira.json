@@ -1,0 +1,11 @@
+{
+  "candidateId": "fira",
+  "verdict": "pass",
+  "summary": "Unable to produce a recommendation (model failure).",
+  "rationale": "Recommendation failed: LLM call failed: Cannot read properties of undefined (reading '0')",
+  "changeMyMind": [
+    "Any usable analysis data",
+    "A successful re-run of the analysis stage"
+  ],
+  "score": null
+}

@@ -1,0 +1,12 @@
+{
+  "candidateId": "soundhound",
+  "verdict": "watch",
+  "summary": "SoundHound is a voice AI platform with a strong technical team and a large addressable market, but its product-market fit remains unproven at scale, and traction is moderate at best.",
+  "rationale": "The company scores 59/100 based on the rubric: Team is strong with deep audio AI expertise, but lacks commercial leadership; Defensibility is medium via patents but faces competition from big tech; Product is solid but has limited differentiation; Market is huge with 'voice-first' trend, but Why-Now is unclear as adoption lags; Traction is decent (some enterprise pilots) but not yet scalable. The score falls in the 50-69 range, so the verdict is 'watch' per the rule: score >= 50 leads to watch. No critical risk is identified, but lack of proven GTM traction prevents a higher rating.",
+  "changeMyMind": [
+    "Signs first 10 paying enterprise customers with recurring revenue contracts",
+    "Hires a VP of Sales from a successful SaaS company",
+    "Demonstrates a clear path to profitability with unit economics improving quarter over quarter"
+  ],
+  "score": 59
+}

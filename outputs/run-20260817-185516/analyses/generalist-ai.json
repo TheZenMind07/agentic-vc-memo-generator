@@ -1,0 +1,108 @@
+{
+  "candidateId": "generalist-ai",
+  "team": {
+    "summary": "Founding team comprises former Google DeepMind robotics researchers (Pete Florence, Andy Zeng) and a former Boston Dynamics roboticist (Andrew Barry), providing exceptional technical depth in AI and robotics.",
+    "founders": [
+      {
+        "name": "Pete Florence",
+        "background": "Former Senior Research Scientist at Google DeepMind, robotics and AI",
+        "priorExits": null
+      },
+      {
+        "name": "Andy Zeng",
+        "background": "Former Google DeepMind robotics researcher",
+        "priorExits": null
+      },
+      {
+        "name": "Andrew Barry",
+        "background": "Former Boston Dynamics roboticist",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Deep expertise in robotics foundation models and AI from frontier labs (DeepMind, Boston Dynamics).",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "https://www.alleywatch.com/2026/07/global-startup-funding-top-largest-june-2026-vc/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Building AI-native robotics systems, likely general-purpose robots powered by foundation models.",
+    "category": "Robotics / AI foundation models",
+    "sourceUrls": [
+      "https://generalistai.com",
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "https://www.alleywatch.com/2026/07/global-startup-funding-top-largest-june-2026-vc/"
+    ]
+  },
+  "market": {
+    "sizeHint": "Global robotics market projected to reach $200B+ by 2030; general-purpose robotics is a nascent but high-potential segment.",
+    "competitiveLandscape": "Competes with companies like Figure AI, Covariant, Skild AI, and Tesla Optimus in humanoid/general-purpose robotics.",
+    "whyNow": "Convergence of large language model architectures with robotics (e.g., vision-language-action models), falling compute costs, and availability of large-scale robotic datasets.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/",
+      "https://www.alleywatch.com/2026/07/global-startup-funding-top-largest-june-2026-vc/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "High capital intensity and long development cycles for hardware + AI integration",
+      "severity": "high"
+    },
+    {
+      "text": "Unproven commercial demand for general-purpose robots vs. specialized automation",
+      "severity": "medium"
+    },
+    {
+      "text": "Dependence on continued advances in foundation model capabilities for robotics",
+      "severity": "medium"
+    },
+    {
+      "text": "Talent retention in highly competitive AI/robotics labor market",
+      "severity": "low"
+    }
+  ],
+  "score": 70,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Exceptional founder-market fit and technical depth from DeepMind and Boston Dynamics; prior startup/exit experience not publicly documented."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary models and data likely but unproven; no clear vertical workflow lock-in or network effects yet; not dependent on a single horizontal platform."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent (robotics) fits criteria; self-serve onboarding unlikely for hardware; one-liner is clear but vague on specific product."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Large TAM but broad vertical; why-now drivers present (foundation models for robotics); competitors identifiable but wedge not articulated."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "$400M Series A in June 2026 signals strong investor conviction and freshness; no public data on paying customers or active usage yet."
+    }
+  ],
+  "scoreRationale": "Generalist AI boasts a world-class founding team from DeepMind and Boston Dynamics, giving it strong technical credentials in the hot area of foundation models for robotics. The $400M Series A provides ample runway and validates investor interest. However, the company is pre-product with no demonstrated commercial traction, vertical focus, or defensible moat beyond team expertise. The product is likely hardware-intensive, limiting self-serve SMB adoption. Market potential is large but competitive, and the specific wedge remains unclear. Overall, a high-potential but early-stage bet on general-purpose robotics."
+}

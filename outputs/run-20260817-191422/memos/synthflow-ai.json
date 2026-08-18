@@ -1,0 +1,12 @@
+{
+  "candidateId": "synthflow-ai",
+  "verdict": "watch",
+  "summary": "Synthflow AI is a promising startup in the AI voice agent space, but it scores 59/100, placing it in the 'watch' category. The company has a strong product-market fit in the SMB segment, but concerns around team depth, defensibility, and market competition prevent a higher score.",
+  "rationale": "The score of 59/100 reflects a balanced view: the product is well-received and the timing is right for AI voice agents, but the team lacks deep domain expertise, defensibility is weak due to low barriers to entry, and traction is moderate. The market is growing fast, but competition is intense. The verdict 'watch' is appropriate as the company shows potential but has not yet de-risked key areas.",
+  "changeMyMind": [
+    "Hire a VP of Sales with enterprise experience to show go-to-market maturity.",
+    "Secure a patent or exclusive partnership to improve defensibility.",
+    "Reach $1M ARR with a clear path to profitability."
+  ],
+  "score": 59
+}

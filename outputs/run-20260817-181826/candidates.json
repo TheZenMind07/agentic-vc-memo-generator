@@ -1,0 +1,44 @@
+[
+  {
+    "id": "enso",
+    "name": "Enso",
+    "website": "https://enso.bot",
+    "oneLiner": "Guided AI agents and Service-as-a-Software for SMBs, with agents trained on domain-specific best practices across many industries.",
+    "founders": [
+      "Mickey Haslavsky"
+    ],
+    "teamSignal": "Mickey Haslavsky: Founder and CEO of Enso; previously co-founded RapidAPI. Public profiles also describe him as an investor and Forbes 30 Under 30 alumnus.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised a $6 million seed round led by NFX",
+      "sourceUrl": "https://www.calcalistech.com/ctechnews/article/b1tqlbcvr",
+      "date": "2024-07-09"
+    },
+    "sourceUrls": [
+      "https://www.calcalistech.com/ctechnews/article/b1tqlbcvr"
+    ]
+  },
+  {
+    "id": "motion",
+    "name": "Motion",
+    "website": "https://www.usemotion.com",
+    "oneLiner": "An AI work platform that has expanded into AI agents for SMBs.",
+    "founders": [
+      "Harry Qi",
+      "Ethan Yu",
+      "Omid Rooholfada",
+      "Chander Ramesh"
+    ],
+    "teamSignal": "Harry Qi: Co-founder and CEO of Motion; YC W20; previously associated with Pioneer Fund as LP/Venture Partner and active angel investor. No prior startup exit found in the gathered sources.; Ethan Yu: Co-founder and COO of Motion; previously a quantitative trader at DRW and Citadel; YC W20. No prior startup exit found in the gathered sources.; Omid Rooholfada: Co-founder of Motion; background details beyond co-founding Motion were not found in the gathered sources.; Chander Ramesh: Co-founder and CTO of Motion; technical depth implied by CTO role, but prior startups/exits were not found in the gathered sources.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Raised a $38 million Series C led by Scale Venture Partners",
+      "sourceUrl": "https://www.linkedin.com/posts/seabookchen_aiagents-smbtech-startupfunding-activity-7371362161572589569-wauc",
+      "date": "2025-09-10"
+    },
+    "sourceUrls": [
+      "https://www.linkedin.com/posts/seabookchen_aiagents-smbtech-startupfunding-activity-7371362161572589569-wauc",
+      "https://www.vcpedia.com/startups/3459"
+    ]
+  }
+]

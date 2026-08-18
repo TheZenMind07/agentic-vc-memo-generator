@@ -1,0 +1,108 @@
+{
+  "candidateId": "carbonsix",
+  "team": {
+    "summary": "Founding team includes CEO Tae-yeon Terry Moon, CPO Hunmin Cho, and CTO H.J. Terry Suh Ph.D. CTO brings AI expertise to robotics; however, prior startup/exit experience and specific domain operating experience are not publicly documented.",
+    "founders": [
+      {
+        "name": "Tae-yeon Terry Moon",
+        "background": "Co-Founder & CEO of CarbonSix; prior background not clearly specified in the gathered sources.",
+        "priorExits": null
+      },
+      {
+        "name": "Hunmin Cho",
+        "background": "Co-Founder & CPO of CarbonSix; leads product development strategy, but prior startups/exits were not clearly specified in the gathered sources.",
+        "priorExits": null
+      },
+      {
+        "name": "H.J. Terry Suh Ph.D.",
+        "background": "Co-Founder & CTO of CarbonSix; described as bringing recent AI advancements to real-world robotics problems, with strong technical depth, but prior startups/exits were not clearly specified in the gathered sources.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] CTO holds a Ph.D. and focuses on applying AI to robotics, suggesting strong technical depth in AI/robotics integration, but no public evidence of owning core model/integration layer in-house.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] CarbonSix develops robotics hardware and AI systems, but the one-liner 'Robotics, AI, and hardware company' does not specify a concrete product or use case.",
+    "category": "[inferred] Robotics / AI Hardware",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] No specific market size hint provided; robotics hardware is a broad vertical.",
+    "competitiveLandscape": "[inferred] No identifiable competitors or wedge stated.",
+    "whyNow": "[inferred] No explicit why-now driver mentioned (e.g., LLM cost collapse, new APIs).",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Lack of public information on product specifics, making it difficult to assess product-market fit and defensibility.",
+      "severity": "high"
+    },
+    {
+      "text": "Founder backgrounds not clearly documented; unknown prior startup/exit experience.",
+      "severity": "medium"
+    },
+    {
+      "text": "Generic one-liner suggests unclear value proposition and potential lack of focus.",
+      "severity": "medium"
+    },
+    {
+      "text": "Dependence on hardware manufacturing and supply chain risks.",
+      "severity": "medium"
+    },
+    {
+      "text": "Early stage with only funding traction; no evidence of paying customers or product usage.",
+      "severity": "high"
+    }
+  ],
+  "score": 32,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders include a PhD CTO with AI/robotics expertise, but no documented prior startup exits or deep domain operating experience; founder-market fit unclear."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data, workflow lock-in, switching costs, or network effects; generic description suggests potential thin wrapper risk."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is vague; no evidence of AI-native agent, self-serve onboarding, or clear articulation of product functionality."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical, market size hint, why-now driver, or competitive landscape articulated."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Raised $40M Series A (per fundedstartupsdaily.com), indicating strong investor confidence and recent capital; however, no public signals of paying customers, active usage, or community engagement."
+    }
+  ],
+  "scoreRationale": "CarbonSix shows a strong funding signal ($40M Series A) but lacks public evidence across all other thesis criteria: team backgrounds are opaque, product is undefined, defensibility is unproven, and market positioning is absent. The high capital raise suggests investor conviction, but without visible product, traction, or moat, the investment thesis cannot be validated from available data."
+}

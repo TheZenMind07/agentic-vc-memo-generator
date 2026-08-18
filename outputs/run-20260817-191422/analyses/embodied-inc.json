@@ -1,0 +1,87 @@
+{
+  "candidateId": "embodied-inc",
+  "team": {
+    "summary": "Founders have deep robotics and AI expertise, strong founder-market fit for embodied AI, but no prior startup exit.",
+    "founders": [
+      {
+        "name": "Paolo Pirjanian",
+        "background": "Former CTO of iRobot; lifelong roboticist; founder and CEO of Embodied.",
+        "priorExits": false
+      },
+      {
+        "name": "Maja Matarić",
+        "background": "Professor at USC in computer science, neuroscience, and pediatrics; co-founded Embodied.",
+        "priorExits": false
+      }
+    ],
+    "technicalDepth": "High - both founders have deep technical expertise in robotics and AI, capable of owning core model/integration layer.",
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  "product": {
+    "plainLanguage": "No product information available.",
+    "category": null,
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "No product or market information available; cannot assess defensibility, product, or market fit.",
+      "severity": "critical"
+    },
+    {
+      "text": "No evidence of prior startup exits; team may lack commercial scaling experience.",
+      "severity": "medium"
+    }
+  ],
+  "score": 20,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit and technical depth for embodied AI, but no prior startup exit and limited information on broader team."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No information available to assess defensibility."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "No product description or evidence available."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No market size, competitors, or why-now driver provided."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only signal is backing by Amazon Alexa Fund; no paying customers, active usage, or recent launch data."
+    }
+  ],
+  "scoreRationale": "The startup has a strong founding team with deep technical expertise in robotics and AI, but lacks any product, market, or traction information beyond a single investor mention. The overall assessment is severely limited by missing data, resulting in low scores for most criteria."
+}

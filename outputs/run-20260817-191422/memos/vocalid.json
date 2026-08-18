@@ -1,0 +1,12 @@
+{
+  "candidateId": "vocalid",
+  "verdict": "pass",
+  "summary": "VocaliD scores 24/100, well below the threshold for consideration. The startup lacks a clear product-market fit, defensible technology, and traction, with significant risks across all evaluation criteria.",
+  "rationale": "The score of 24/100 reflects critical weaknesses across all five thesis criteria. Team: No evidence of domain expertise or relevant experience. Defensibility: No proprietary technology or IP; likely easily replicable. Product: Unclear value proposition and no differentiation. Market & Why-Now: Market need is unsubstantiated; timing seems premature. Traction / Freshness: Zero traction, no users, revenue, or partnerships. These deficiencies collectively indicate a high-risk venture with no near-term path to viability, warranting a pass per the verdict rule (score < 50).",
+  "changeMyMind": [
+    "Demonstrate a working prototype with at least 100 active users or paying customers within a niche segment.",
+    "Hire a seasoned CTO with a track record in speech synthesis or AI to address defensibility concerns.",
+    "Secure a strategic partnership with a major accessibility platform (e.g., Apple, Google) to validate market need and distribution."
+  ],
+  "score": 24
+}

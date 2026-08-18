@@ -1,0 +1,11 @@
+{
+  "candidateId": "murf-ai",
+  "verdict": "pass",
+  "summary": "Unable to produce a recommendation (model failure).",
+  "rationale": "Recommendation failed: LLM call failed after retries",
+  "changeMyMind": [
+    "Any usable analysis data",
+    "A successful re-run of the analysis stage"
+  ],
+  "score": null
+}

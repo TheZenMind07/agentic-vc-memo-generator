@@ -1,0 +1,95 @@
+{
+  "candidateId": "mind-robotics",
+  "team": {
+    "summary": "RJ Scaringe founded Rivian (EV manufacturer, IPO) and launched Mind Robotics in 2025 as a spinout leveraging deep manufacturing, battery, actuator, motor, software, and supply-chain expertise. Strong founder-market fit for complex hardware/software robotics; proven prior exit and technical depth across the full stack.",
+    "founders": [
+      {
+        "name": "RJ Scaringe",
+        "background": "Founder and CEO of Rivian Automotive; deep experience in batteries, actuators, motors, software, supply chain, and high-volume manufacturing.",
+        "priorExits": true
+      }
+    ],
+    "technicalDepth": "Full-stack hardware/software: battery systems, actuators, motors, embedded software, supply chain, and high-volume manufacturing — all built in-house at Rivian.",
+    "sourceUrls": [
+      "https://www.alleywatch.com/2026/04/global-startup-funding-top-largest-march-2026-vc/",
+      "https://recablog.com/top-recently-opened-robotics-startups-in-2026/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI-powered robotics platform (hardware + software) spun out of Rivian; details on form factor, use case, or autonomy level not publicly disclosed.",
+    "category": "AI robotics / embodied AI",
+    "sourceUrls": [
+      "https://recablog.com/top-recently-opened-robotics-startups-in-2026/"
+    ]
+  },
+  "market": {
+    "sizeHint": "Global robotics market projected >$200B by 2030; specific vertical (industrial, logistics, consumer) not stated.",
+    "competitiveLandscape": "Competes with well-capitalized embodied AI players (Figure, Tesla Optimus, Apptronik, 1X, Sanctuary AI) and industrial automation incumbents (ABB, Fanuc, KUKA). Wedge unspecified.",
+    "whyNow": "[inferred] Convergence of LLM/visual-language model advances, falling compute/sensor costs, and Scaringe's manufacturing supply-chain access enables vertical integration at scale.",
+    "sourceUrls": [
+      "https://recablog.com/top-recently-opened-robotics-startups-in-2026/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Hardware execution risk: scaling complex electromechanical systems to high volume is notoriously capital- and time-intensive.",
+      "severity": "high"
+    },
+    {
+      "text": "Undefined product wedge: no public clarity on target vertical, form factor, or go-to-market motion.",
+      "severity": "high"
+    },
+    {
+      "text": "Intense competition from deep-pocketed rivals (Figure, Tesla, Big Tech) and established industrial automation vendors.",
+      "severity": "medium"
+    },
+    {
+      "text": "Capital intensity: $500M Series A helps but robotics R&D + manufacturing capex burn rates are extreme; follow-on funding risk if milestones slip.",
+      "severity": "medium"
+    }
+  ],
+  "score": 72,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Exceptional founder-market fit (Rivian founder applying manufacturing/actuator/battery/software expertise to robotics), deep technical ownership of full stack, and proven prior exit (Rivian IPO)."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Potential for proprietary hardware/software integration and manufacturing know-how from Rivian heritage, but no public evidence of vertical data lock-in, network effects, or switching costs yet. Not a thin LLM wrapper, but moat remains unproven."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Likely AI-native embodied agent (physical action), but no self-serve SMB onboarding (hardware robotics targets enterprise/industrial), and one-liner lacks clarity on specific function or user."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Massive TAM but vertical unspecified; why-now drivers (AI model advances, sensor/compute cost curves, Rivian supply-chain access) are credible but not uniquely articulated; competitive landscape crowded with no stated wedge."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "$500M Series A closed March 2026 (per AlleyWatch) is an exceptionally strong, recent capital signal for a 2025-founded company."
+    }
+  ],
+  "scoreRationale": "Team and traction are world-class (5/5 each), reflecting Scaringe's track record and a historic Series A. Defensibility and market are middling (3/5) due to early stage and lack of vertical specificity. Product scores low (2/5) because hardware robotics cannot be self-serve SMB and the public description is vague. Weighted composite reflects a high-conviction bet on founder ability to execute a capital-intensive, undefined roadmap."
+}

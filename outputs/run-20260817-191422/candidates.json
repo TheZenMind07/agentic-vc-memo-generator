@@ -1,0 +1,307 @@
+[
+  {
+    "id": "wispr-flow",
+    "name": "Wispr Flow",
+    "website": "https://wisprflow.ai",
+    "oneLiner": "AI dictation and voice assistant app.",
+    "founders": [
+      "Tanay Kothari",
+      "Sahaj Garg"
+    ],
+    "teamSignal": "Tanay Kothari: Co-founder and CEO of Wispr Flow; four-time founder; previously founded FeatherX, an AI personalization startup for online stores, and built Convert, a music platform with 2.5M organic monthly users. He is described as technically strong and has led engineering at prior startup(s).; Sahaj Garg: Co-founder and CTO of Wispr Flow; previously the fifth employee and AI team lead at Luminous Computing, a deep-tech photonic hardware startup.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "$30M Series A led by Menlo Ventures",
+      "sourceUrl": "https://theaiinsider.tech/2025/06/27/wispr-flow-raises-30m-series-a-to-expand-ai-voice-assistant-platform/",
+      "date": "2025-06-27"
+    },
+    "sourceUrls": [
+      "https://theaiinsider.tech/2025/06/27/wispr-flow-raises-30m-series-a-to-expand-ai-voice-assistant-platform/"
+    ]
+  },
+  {
+    "id": "synthflow-ai",
+    "name": "Synthflow AI",
+    "website": "https://synthflow.ai",
+    "oneLiner": "AI voice assistants for SMEs.",
+    "founders": [
+      "Hakob Astabatsyan",
+      "Albert Astabatsyan",
+      "Sassun Mirzakhan-Saky"
+    ],
+    "teamSignal": "Hakob Astabatsyan: Co-founder and CEO of Synthflow AI; previously worked in strategy consulting at BCG and venture building at Rocket Internet. Also listed as co-founder of Stack3 (2022-2023).; Albert Astabatsyan: Co-founder and Chief Product Officer of Synthflow AI; public signal in company materials and coverage identifies him as a co-founder, but no stronger public background signal was found in the gathered sources.; Sassun Mirzakhan-Saky: Co-founder and Chief Technology Officer of Synthflow AI; company materials describe him as leading engineering and technology strategy, with focus on telephony, testing, and orchestration infrastructure for enterprise voice AI.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "$7.4M seed funding",
+      "sourceUrl": "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes",
+      "date": "2026-04-24"
+    },
+    "sourceUrls": [
+      "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes"
+    ]
+  },
+  {
+    "id": "skit-ai",
+    "name": "Skit.ai",
+    "website": "https://skit.ai",
+    "oneLiner": "Voice AI SaaS for contact centers and customer experience automation.",
+    "founders": [
+      "Sourabh Gupta",
+      "Akshay Deshraj"
+    ],
+    "teamSignal": "Sourabh Gupta: Co-founder and CEO of Skit.ai; founded the company in 2016 with Akshay Deshraj after graduating from IIT Roorkee; listed as Forbes 30U30 in LinkedIn bio.; Akshay Deshraj: Co-founder and CTO of Skit.ai; co-founded the company in 2016 with Sourabh Gupta; described by WestBridge as CTO/co-founder, indicating technical depth.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Founded in 2016; reached Series B in 2021 and serves 60+ enterprises.",
+      "sourceUrl": "https://westbridgecap.com/portfolio/skit-ai",
+      "date": "2021"
+    },
+    "sourceUrls": [
+      "https://westbridgecap.com/portfolio/skit-ai",
+      "https://westbridgecap.com/people/founder/akshay-deshraj"
+    ]
+  },
+  {
+    "id": "senstone",
+    "name": "Senstone",
+    "website": "https://senstone.io",
+    "oneLiner": "Personal voice assistant for dictating ideas and notes.",
+    "founders": [
+      "Nazar Fedorchuk",
+      "Markiyan Matsekh"
+    ],
+    "teamSignal": "Nazar Fedorchuk: Founder and CEO of Senstone; the company states he founded Senstone in 2016 and he has a legal/entrepreneurial background noted in public profiles. The company press kit and site identify him as founder and CEO.; Markiyan Matsekh: Joined the team as a technical co-founder in the early years; described publicly as a tech and marketing geek with wearable-tech experience and responsibility for reinforcing the technical side. He later left the startup by mutual decision in 2019.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Kickstarter and HAX SOSV backed company.",
+      "sourceUrl": "https://www.f6s.com/company/senstone",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.f6s.com/company/senstone"
+    ]
+  },
+  {
+    "id": "caddy",
+    "name": "Caddy",
+    "website": null,
+    "oneLiner": null,
+    "founders": [
+      "Connor Waslo",
+      "Rajiv Sancheti"
+    ],
+    "teamSignal": "Connor Waslo: Co-founder of Caddy; previously led product for Loom's AI Suite and Monetization team. Indicates strong technical/product depth in AI workflow software.; Rajiv Sancheti: Co-founder of Caddy; previously led design for Loom’s AI suite and worked at Airbnb and KP Fellows. Indicates product/design depth, but not a clearly technical engineering background from the public signal.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Y Combinator Fall 2025 batch; private beta.",
+      "sourceUrl": "https://startupintros.com/orgs/caddy",
+      "date": "2025"
+    },
+    "sourceUrls": [
+      "https://startupintros.com/orgs/caddy"
+    ]
+  },
+  {
+    "id": "kalpa-labs",
+    "name": "Kalpa Labs",
+    "website": null,
+    "oneLiner": null,
+    "founders": [
+      "Prashant Shishodia",
+      "Gautam Jha"
+    ],
+    "teamSignal": "Prashant Shishodia: Co-founder and CEO. Public profiles describe him as having led full-stack ML on Google Assistant and worked on scaling smaller Gemini variants to billions of queries per month. LinkedIn also lists him as CEO & Founder at Kalpa Labs (YC F25) and previously at Google.; Gautam Jha: Co-founder and CTO. Public profiles describe him as previously building low-latency systems in high-frequency trading; Forbes Councils describes him as co-founder and CTO at Kalpa Labs focused on generalist speech systems.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "$500K seed funding",
+      "sourceUrl": "https://startupintros.com/orgs/kalpa-labs",
+      "date": "2025"
+    },
+    "sourceUrls": [
+      "https://startupintros.com/orgs/kalpa-labs"
+    ]
+  },
+  {
+    "id": "soundhound",
+    "name": "SoundHound",
+    "website": "https://soundhound.com",
+    "oneLiner": "Voice assistant and voice AI platform.",
+    "founders": [
+      "Keyvan Mohajer",
+      "James Hom",
+      "Majid Emami"
+    ],
+    "teamSignal": "Keyvan Mohajer: Co-founder and CEO; PhD in Electrical Engineering from Stanford University. Public profile describes him as a serial entrepreneur with prior software ventures before SoundHound, but the specific prior startups/exits are not clearly documented in the verified source set.; James Hom: Co-founder and Chief Product Officer; earned a Bachelor’s Degree in Computer Science from Stanford University. No clearly verified prior startup/exit history found in the source set.; Majid Emami: Co-founder and Chief Science Officer / SVP Engineering; PhD in Electrical Engineering from Stanford University. Public profile highlights deep technical work in speech recognition and machine learning, but no clearly verified prior startup/exit history found in the source set.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Raised over $200M in venture capital funding.",
+      "sourceUrl": "https://voicebot.ai/the-top-visionaries-in-voice-2019/",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  {
+    "id": "vocalid",
+    "name": "VocaliD",
+    "website": null,
+    "oneLiner": "Voice prostheses for people who cannot speak in their own voices.",
+    "founders": [
+      "Rupal Patel"
+    ],
+    "teamSignal": "Rupal Patel: Speech scientist, professor at Northeastern University, founder and CEO of VocaliD; publicly described as having extensive research depth in speech motor control and assistive communication technology, with over 50 peer-reviewed publications and more than $5M in research funding.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Founded in 2014.",
+      "sourceUrl": "https://voicebot.ai/the-top-visionaries-in-voice-2019/",
+      "date": "2014"
+    },
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  {
+    "id": "snips",
+    "name": "Snips",
+    "website": null,
+    "oneLiner": "Edge-based private voice solution for OEMs.",
+    "founders": [
+      "Rand Hindi",
+      "Mael Primet",
+      "Michael Fester"
+    ],
+    "teamSignal": "Rand Hindi: Co-founder and CEO; described as a deeptech entrepreneur/investor, former CEO of Hinran, and co-founder of PlanetUltra, a French social network. Before Snips, he had prior startup experience and later founded Zama after Snips was acquired by Sonos.; Mael Primet: Co-founder and CTO; described as a mathematician and PhD-level technical co-founder. No clear prior startup or exit signal found in the gathered sources.; Michael Fester: Co-founder; described as a pure mathematics student at Cambridge University and one of the three PhD founders. No clear prior startup or exit signal found in the gathered sources.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Founded in 2013 and raised over $18M in funding.",
+      "sourceUrl": "https://voicebot.ai/the-top-visionaries-in-voice-2019/",
+      "date": "2013"
+    },
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  {
+    "id": "viv-labs",
+    "name": "Viv Labs",
+    "website": null,
+    "oneLiner": "Artificial intelligence assistant company.",
+    "founders": [
+      "Dag Kittlaus",
+      "Adam Cheyer",
+      "Chris Brigham"
+    ],
+    "teamSignal": "Dag Kittlaus: Co-founder and CEO; previously a creator of Apple Siri. Public sources describe him as a founder of multiple companies, with prior startup experience and an AI/product background.; Adam Cheyer: Co-founder and VP Engineering; previously a creator of Apple Siri. Strong technical depth in AI and engineering.; Chris Brigham: Co-founder and Chief Architect; previously worked on Siri. Technical cofounder with architecture/engineering background.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Acquired by Samsung in 2016.",
+      "sourceUrl": "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/",
+      "date": "2016"
+    },
+    "sourceUrls": [
+      "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/"
+    ]
+  },
+  {
+    "id": "siri-inc",
+    "name": "Siri, Inc.",
+    "website": null,
+    "oneLiner": "Voice assistant technology company later acquired by Apple.",
+    "founders": [
+      "Dag Kittlaus",
+      "Adam Cheyer",
+      "Tom Gruber"
+    ],
+    "teamSignal": "Dag Kittlaus: Co-founded Siri Inc. after being brought in by SRI to commercialize the technology; later known for leading Siri and other AI assistant ventures.; Adam Cheyer: Computer scientist and engineer from SRI International; helped create Siri’s original technology and later co-founded other AI/startup efforts including Change.org and Viv Labs.; Tom Gruber: Computer scientist and entrepreneur; co-founded Siri Inc. and had technical/product design leadership, with prior work in knowledge sharing and collective intelligence.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Co-founded by Stanford Research Institute cohorts; later became part of Apple Siri.",
+      "sourceUrl": "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.bigspeak.com/cheyer-kittlaus-siri-viv/"
+    ]
+  },
+  {
+    "id": "evi",
+    "name": "Evi",
+    "website": null,
+    "oneLiner": "UK voice assistant company acquired by Amazon.",
+    "founders": [
+      "William Tunstall-Pedoe"
+    ],
+    "teamSignal": "William Tunstall-Pedoe: British entrepreneur and computer scientist; founded True Knowledge/Evi, which was acquired by Amazon and later contributed to Amazon Alexa. He is also the founder and CEO of UnlikelyAI.",
+    "tractionSignal": {
+      "type": "other",
+      "value": "Founded in 2005 and acquired by Amazon.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Alexa",
+      "date": "2005"
+    },
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  {
+    "id": "mara",
+    "name": "MARA",
+    "website": null,
+    "oneLiner": null,
+    "founders": [
+      "Danilo Mansano",
+      "Ariel Lambrecht"
+    ],
+    "teamSignal": "Danilo Mansano: Co-founded MARA in October 2021; prior background not clearly stated in the retrieved source.; Ariel Lambrecht: Co-founded MARA in October 2021; previously co-founded 99, a Brazilian mobility startup acquired by Didi for $600 million in 2018.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Backed by Amazon Alexa Fund",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Alexa",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  {
+    "id": "embodied-inc",
+    "name": "Embodied Inc.",
+    "website": null,
+    "oneLiner": null,
+    "founders": [
+      "Paolo Pirjanian",
+      "Maja Matarić"
+    ],
+    "teamSignal": "Paolo Pirjanian: Former CTO of iRobot; lifelong roboticist; founder and CEO of Embodied.; Maja Matarić: Professor at USC in computer science, neuroscience, and pediatrics; co-founded Embodied.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Backed by Amazon Alexa Fund",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Alexa",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  },
+  {
+    "id": "kitt-ai",
+    "name": "kitt.ai",
+    "website": null,
+    "oneLiner": null,
+    "founders": [
+      "Xuchen Yao",
+      "Guoguo Chen",
+      "Kenji Sagae"
+    ],
+    "teamSignal": "Xuchen Yao: Johns Hopkins University PhD in computer science; previously in the AI2 incubator; later co-founded Seasalt.ai.; Guoguo Chen: Deep learning and speech recognition expert; created the OK Google hotword detection prototype for Android; Johns Hopkins PhD in electrical engineering.; Kenji Sagae: Former USC professor of natural language processing; expert in natural language parsing and dialogue systems.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "Backed by Amazon Alexa Fund",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_Alexa",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://en.wikipedia.org/wiki/Amazon_Alexa"
+    ]
+  }
+]

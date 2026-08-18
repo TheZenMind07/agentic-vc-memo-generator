@@ -1,0 +1,90 @@
+{
+  "candidateId": "vocalid",
+  "team": {
+    "summary": "Rupal Patel is a speech scientist and professor with deep research expertise in speech motor control and assistive communication, but lacks prior startup exit experience. The team appears to be a solo founder with academic rather than commercial background.",
+    "founders": [
+      {
+        "name": "Rupal Patel",
+        "background": "Speech scientist, professor at Northeastern University, founder and CEO of VocaliD; over 50 peer-reviewed publications and more than $5M in research funding.",
+        "priorExits": false
+      }
+    ],
+    "technicalDepth": "High technical depth in speech science and assistive communication technology, but unclear if the core model/integration layer is owned in-house or relies on external platforms.",
+    "sourceUrls": [
+      "https://voicebot.ai/the-top-visionaries-in-voice-2019/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Voice prostheses for people who cannot speak in their own voices.",
+    "category": "Assistive communication / voice prosthetics",
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Founded in 2014; traction signal is stale with no recent evidence of paying customers, active usage, or funding.",
+      "severity": "critical"
+    },
+    {
+      "text": "Solo founder with academic background; no prior startup or exit experience.",
+      "severity": "medium"
+    },
+    {
+      "text": "Product category (voice prostheses) may require heavy sales/implementation and regulatory hurdles, not self-serve for SMBs.",
+      "severity": "high"
+    },
+    {
+      "text": "No information on defensibility: unclear if proprietary data, workflow lock-in, or network effects exist.",
+      "severity": "high"
+    }
+  ],
+  "score": 24,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founder has strong domain expertise and technical depth in speech science, but lacks startup/exit experience and is a solo founder. Founder-market fit is moderate; technical depth is high but commercial execution is unproven."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data, workflow lock-in, switching costs, or network effects. Unclear if the solution is more than a thin application layer. Dependence on external platforms is unknown."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Voice prostheses likely require clinical implementation and are not self-serve for SMBs. Unclear if AI-native agent or copilot. One-liner is clear but product category suggests heavy sales cycle."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No credible size hint, why-now driver, or competitive landscape provided. No information on competitors or wedge."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 0,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Founded in 2014 with no recent signal of paying customers, active usage, funding, or community activity. Signal is stale and not fresh."
+    }
+  ],
+  "scoreRationale": "The startup shows strong academic founder expertise but lacks commercial traction, defensibility, and market clarity. The product is not self-serve and the traction is stale (founded 2014 with no recent signals). Overall, the startup does not align with the thesis criteria."
+}

@@ -1,0 +1,101 @@
+{
+  "candidateId": "vantel",
+  "team": {
+    "summary": "Vantel is a Y Combinator W25 startup with a team of 5, founded by Love Redin and Ulme Wennberg, building an AI platform for commercial insurance brokerages.",
+    "founders": [
+      {
+        "name": "Love Redin",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Ulme Wennberg",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": null,
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel",
+      "https://vantel.com/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI platform that helps commercial insurance brokerages automate and enhance their operations using artificial intelligence.",
+    "category": "Insurtech / AI for Insurance",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel",
+      "https://vantel.com/"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Commercial insurance brokerage market is large; US commercial insurance premiums exceed $300B annually.",
+    "competitiveLandscape": "[inferred] Competes with other AI-driven insurtech startups and legacy software vendors.",
+    "whyNow": "[inferred] LLM cost collapse enables affordable AI automation for document-heavy insurance workflows; vertical data availability increasing.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Dependence on third-party LLM providers may limit defensibility and margin",
+      "severity": "medium"
+    },
+    {
+      "text": "Long sales cycles in commercial insurance may slow adoption",
+      "severity": "medium"
+    },
+    {
+      "text": "Competition from well-funded incumbents and other AI startups",
+      "severity": "high"
+    },
+    {
+      "text": "Regulatory compliance in insurance may require significant effort",
+      "severity": "medium"
+    }
+  ],
+  "score": 55,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "YC W25 acceptance indicates baseline founder quality; team of 5 suggests early stage. Limited public info on founder backgrounds, prior exits, or technical depth specific to insurance AI."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Early stage; unclear proprietary data or workflow lock-in. Risk of being a thin LLM wrapper without vertical-specific data moat."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner clearly articulates value. Unclear if AI-native agent (end-to-end action) vs copilot. Self-serve onboarding for SMBs may not fit commercial brokerages (mid-market)."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (commercial insurance brokerages) with large TAM. Why-now drivers present (LLM cost collapse). Competitive landscape emerging but wedge identifiable."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch provides fresh signal (2025). No public data on paying customers, revenue, or active usage yet."
+    }
+  ],
+  "scoreRationale": "Vantel shows promise with YC backing and a clear vertical focus, but is very early with limited public evidence on team depth, product differentiation, and traction. Scores reflect baseline potential tempered by lack of verifiable signals."
+}

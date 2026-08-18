@@ -1,0 +1,113 @@
+{
+  "candidateId": "retell-ai",
+  "team": {
+    "summary": "Strong team with deep technical and product experience from ByteDance, Google, and Meta. Founders have relevant background in AI, speech/language tech, and ads engineering. No explicit prior startup exits mentioned.",
+    "founders": [
+      {
+        "name": "Bing Wu",
+        "background": "Co-founder and CEO; previously product manager at ByteDance/TikTok building AI features.",
+        "priorExits": null
+      },
+      {
+        "name": "Zexia Zhang",
+        "background": "Co-founder and CTO; Google alum with work in speech/language tech and NLP.",
+        "priorExits": null
+      },
+      {
+        "name": "Todd Li",
+        "background": "Co-founder and President; repeat founder and ex-Google Ads engineer.",
+        "priorExits": true
+      },
+      {
+        "name": "Weijia Yu",
+        "background": "Co-founder; ex-Meta product lead / tech lead.",
+        "priorExits": null
+      },
+      {
+        "name": "Evie Wang",
+        "background": "Co-founder; ex-ByteDance product designer.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "High; CTO has speech/language tech background, President is ex-Google Ads engineer, CEO built AI features at ByteDance.",
+    "sourceUrls": [
+      "https://retellai.com",
+      "https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-retell-ai-145200025.html"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Voice agent platform for automating tier-one call center calls with AI voice agents.",
+    "category": "AI voice agent platform for call centers",
+    "sourceUrls": [
+      "https://retellai.com",
+      "https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-retell-ai-145200025.html"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Large market; call center industry is multi-billion dollar globally, but no specific size given.",
+    "competitiveLandscape": "[inferred] Competitors include other AI voice agent platforms like ElevenLabs, PlayAI, and others; Retell AI claims to be fastest-growing.",
+    "whyNow": "LLM cost collapse and advances in speech AI enabling real-time voice agents; vertical data availability for call center use cases.",
+    "sourceUrls": [
+      "https://finance.yahoo.com/technology/ai/articles/voice-ai-startup-retell-ai-145200025.html",
+      "https://www.f6s.com/companies/voice-ai/mo"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Dependence on third-party LLMs and speech APIs could reduce defensibility if competitors use same underlying models.",
+      "severity": "medium"
+    },
+    {
+      "text": "No explicit mention of proprietary data or workflow lock-in; risk of being a thin wrapper.",
+      "severity": "medium"
+    },
+    {
+      "text": "Competitive market with many AI voice agent startups; differentiation may erode over time.",
+      "severity": "high"
+    }
+  ],
+  "score": 70,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit with relevant big-tech experience in AI, speech, and ads. Technical depth is high. No confirmed prior exits for most founders, but Todd Li is a repeat founder."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No clear proprietary data or workflow lock-in mentioned. Likely relies on third-party LLMs and speech APIs, making it a potential thin wrapper. Switching costs may be low for customers."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent that takes actions end-to-end (voice calls). Self-serve onboarding likely for SMBs. One-liner is clear and concise."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (call centers) with large addressable market. Why-now is strong due to LLM cost collapse and speech AI advances. Competitors exist but wedge is speed/growth."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Reported 40 million monthly calls and described as fastest-growing. Signal is recent and strong, though source is a press article."
+    }
+  ],
+  "scoreRationale": "Retell AI has a strong team and product with clear traction in a large market, but defensibility is a concern due to potential reliance on third-party models. Overall a promising investment candidate."
+}

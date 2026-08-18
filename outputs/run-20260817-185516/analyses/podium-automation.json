@@ -1,0 +1,91 @@
+{
+  "candidateId": "podium-automation",
+  "team": {
+    "summary": "Founders have deep domain experience in industrial automation, manufacturing, and vertical farming from Tesla, Blue Origin, Bowery Farming, and Turbo-Til Packaging. CEO brings commercial strategy and business operations; CTO brings hardware engineering leadership.",
+    "founders": [
+      {
+        "name": "Jamie Niu Serota",
+        "background": "Co-Founder & CEO; prior leadership in commercial strategy and business operations at Bowery Farming, Blue Origin, and Tesla.",
+        "priorExits": null
+      },
+      {
+        "name": "Jacob Buser",
+        "background": "Co-Founder & CTO; prior hardware engineering leadership at Bowery Farming and Turbo-Til Packaging.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "CTO has hardware engineering leadership experience; team likely owns integration layer in-house given industrial automation focus.",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] Industrial automation solutions combining hardware and software for manufacturing/warehousing.",
+    "category": "[inferred] Industrial automation / robotics",
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": "[inferred] Global industrial automation market estimated at $200B+.",
+    "competitiveLandscape": "[inferred] Competitors include established players like Fanuc, ABB, KUKA, and emerging robotics startups.",
+    "whyNow": "[inferred] Labor shortages, advances in AI/robotics, and supply chain reshoring drive demand.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "High capital intensity and long sales cycles typical of industrial automation.",
+      "severity": "high"
+    },
+    {
+      "text": "Dependence on hardware supply chain and component availability.",
+      "severity": "medium"
+    },
+    {
+      "text": "Unclear differentiation in a crowded market with well-funded incumbents and startups.",
+      "severity": "medium"
+    }
+  ],
+  "score": 61,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit with direct experience in relevant verticals (Tesla, Blue Origin, Bowery Farming). Technical depth anchored by CTO's hardware engineering leadership. Domain operating experience at top-tier companies, though no prior exits reported."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Industrial automation typically yields high switching costs once deployed, and proprietary hardware/software integration can create lock-in. However, no evidence yet of proprietary data moat, network effects, or independence from horizontal platforms."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is generic ('Industrial automation company'). Likely not an AI-native software agent but a hardware/software system. Onboarding almost certainly requires heavy sales/implementation, not self-serve for SMBs."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Vertical not specified beyond broad industrial automation. Why-now drivers (labor shortages, AI/robotics advances) are plausible but not articulated by the company. Competitive landscape and wedge are unknown."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Raised $18M Series A, a strong live signal of investor confidence and capital to execute. Signal appears recent (source is a funding news site), though exact date and post-funding metrics (customers, revenue) are unavailable."
+    }
+  ],
+  "scoreRationale": "Strong team with relevant domain experience and recent Series A funding, but product and market positioning remain vague; defensibility plausible but unproven."
+}

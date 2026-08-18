@@ -1,0 +1,108 @@
+{
+  "source": {
+    "type": "topic",
+    "query": "Voice Assistant"
+  },
+  "thesis": {
+    "source": "default"
+  },
+  "analysis": {
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "requireCitations": true,
+    "rubric": {
+      "criteria": [
+        {
+          "key": "team",
+          "label": "Team",
+          "weight": 0.3,
+          "successCriteria": [
+            "Founder-market fit for the stated vertical",
+            "Technical depth to own the core model/integration layer in-house",
+            "Prior startup/exit or domain operating experience"
+          ],
+          "scale": 5
+        },
+        {
+          "key": "moat",
+          "label": "Defensibility",
+          "weight": 0.25,
+          "successCriteria": [
+            "Proprietary data or workflow lock-in in a specific vertical",
+            "Switching costs or network effects, not just a thin LLM wrapper",
+            "No dependence on a single horizontal platform for differentiation"
+          ],
+          "scale": 5
+        },
+        {
+          "key": "product",
+          "label": "Product",
+          "weight": 0.2,
+          "successCriteria": [
+            "AI-native agent (takes an action end-to-end), not a copilot",
+            "Self-serve onboarding for SMBs (no heavy sales/implementation)",
+            "Clearly articulates what it does in one sentence"
+          ],
+          "scale": 5
+        },
+        {
+          "key": "market",
+          "label": "Market & Why-Now",
+          "weight": 0.15,
+          "successCriteria": [
+            "Specific vertical with a credible size hint",
+            "Why-now driver (LLM cost collapse, vertical data availability, new API)",
+            "Identifiable competitors and a stated wedge"
+          ],
+          "scale": 5
+        },
+        {
+          "key": "traction",
+          "label": "Traction / Freshness",
+          "weight": 0.1,
+          "successCriteria": [
+            "Live signal: paying customers, active usage, funding, launch, HN/GitHub activity",
+            "Signal is recent (freshness), not stale"
+          ],
+          "scale": 5
+        }
+      ]
+    }
+  },
+  "llm": {
+    "baseUrl": "https://openrouter.ai/api/v1",
+    "apiKeyEnv": "OPENROUTER_API_KEY",
+    "searchModel": "perplexity/sonar",
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free"
+  },
+  "trail": {
+    "enabled": true,
+    "specs": {
+      "write": true,
+      "perStage": true
+    },
+    "journal": {
+      "write": true,
+      "level": "standard",
+      "includePrompts": true,
+      "includeFailures": true,
+      "includeAttribution": true
+    },
+    "prompts": {
+      "write": true,
+      "includeTemplates": true,
+      "includeRationale": true
+    },
+    "decisions": {
+      "write": true,
+      "autoCapture": true
+    },
+    "commits": "atomic"
+  },
+  "sourcing": {
+    "targetCandidates": 15
+  },
+  "output": {
+    "format": "text"
+  },
+  "concurrency": 4
+}

@@ -1,0 +1,12 @@
+{
+  "candidateId": "fira",
+  "verdict": "pass",
+  "summary": "Fira scores 35/100 — well below the 50 threshold. The product (AI research agent for analysts) shows early promise but lacks defensibility, traction, and a clear why-now. Team is thin, GTM undefined, and no revenue signals. Pass for now.",
+  "rationale": "Team: Founder-only, no prior exits or deep domain hires; no sales/GTM leadership. Defensibility: Wrapper on LLMs with no proprietary data moat, no network effects, low switching costs. Product: Demo looks polished but undifferentiated vs. Perplexity, Glean, or custom RAG; no published benchmarks or evals. Market & Why-Now: TAM exists (equity research, corp dev), but budget owners unclear and procurement cycles long; no regulatory tailwind or platform shift unique to Fira. Traction/Freshness: Zero public customers, no ARR, no pilot logos, waitlist only. Freshness penalty: site launched <6 months ago but no velocity signals. Critical risks: single-founder execution risk, commoditized AI layer, zero go-to-market proof. Score reflects weak across all five pillars.",
+  "changeMyMind": [
+    "Signs first 5 paying enterprise customers (ARR > $50k) with named logos",
+    "Hires a VP Sales or Head of GTM with fintech/enterprise software track record",
+    "Publishes third-party benchmark showing >30% time savings vs. manual research workflows"
+  ],
+  "score": 35
+}

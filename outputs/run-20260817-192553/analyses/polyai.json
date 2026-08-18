@@ -1,0 +1,102 @@
+{
+  "candidateId": "polyai",
+  "team": {
+    "summary": "Founders have deep technical expertise in conversational AI from Cambridge and prior startup experience (VocalIQ acquired by Apple). Strong founder-market fit for call center AI.",
+    "founders": [
+      {
+        "name": "Nikola Mrkšić",
+        "background": "Co-founder and CEO. Previously first engineer at Apple-acquired VocalIQ; Cambridge conversational AI researcher; PhD from University of Cambridge.",
+        "priorExits": true
+      },
+      {
+        "name": "Shawn Wen",
+        "background": "Co-founder and CTO. University of Cambridge / Machine Intelligence Lab researcher; conversational AI specialist.",
+        "priorExits": null
+      },
+      {
+        "name": "Eddy Su",
+        "background": "Co-founder and SVP Engineering. Cambridge Machine Intelligence Lab researcher; engineering-focused technical depth.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "High - all founders have research and engineering backgrounds in conversational AI and machine learning.",
+    "sourceUrls": [
+      "https://www.seedtable.com/best-voice-assistant-startups"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI assistant developer for call centres.",
+    "category": "Conversational AI / Voice Assistant for Customer Service",
+    "sourceUrls": [
+      "https://www.seedtable.com/best-voice-assistant-startups"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "No information on product being an AI-native agent vs copilot; unclear if it takes end-to-end actions.",
+      "severity": "medium"
+    },
+    {
+      "text": "No evidence of self-serve onboarding for SMBs; call center solutions often require heavy sales and implementation.",
+      "severity": "medium"
+    },
+    {
+      "text": "No market size, competitive landscape, or why-now driver provided; market assessment is incomplete.",
+      "severity": "high"
+    },
+    {
+      "text": "Traction signal is limited to funding amount; no paying customers, active usage, or recent launch activity mentioned.",
+      "severity": "medium"
+    }
+  ],
+  "score": 49,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit with deep technical expertise in conversational AI and prior exit experience (VocalIQ). However, no explicit mention of domain operating experience in call centers beyond technical background."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No information on proprietary data, workflow lock-in, switching costs, or network effects. Cannot assess defensibility beyond general conversational AI expertise."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is clear but does not specify if it's an AI-native agent (end-to-end) or a copilot. No evidence of self-serve onboarding for SMBs."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No market size hint, competitive landscape, or why-now driver provided. Cannot assess market opportunity."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only funding amount ($240.4M) is reported; no paying customers, active usage, or recent launch activity. Signal is not fresh (source is a list, not recent news)."
+    }
+  ],
+  "scoreRationale": "The team is the strongest criterion with deep technical expertise and prior exit experience. However, the product, defensibility, market, and traction are poorly evidenced, leading to a low overall score. The lack of market and traction data significantly weakens the investment case."
+}

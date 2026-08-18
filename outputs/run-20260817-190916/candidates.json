@@ -1,0 +1,282 @@
+[
+  {
+    "id": "show-hn-this-up-votes-itself",
+    "name": "Show HN: This up votes itself",
+    "website": "http://news.ycombinator.com/vote?for=3742902&dir=up&whence=%6e%65%77%65%73%74",
+    "oneLiner": "Show HN: This up votes itself",
+    "founders": [],
+    "teamSignal": null,
+    "tractionSignal": {
+      "type": "hn",
+      "value": "3531 points, 82 comments",
+      "sourceUrl": "http://news.ycombinator.com/vote?for=3742902&dir=up&whence=%6e%65%77%65%73%74",
+      "date": "2012-03-23T00:40:39Z"
+    },
+    "sourceUrls": [
+      "http://news.ycombinator.com/vote?for=3742902&dir=up&whence=%6e%65%77%65%73%74"
+    ]
+  },
+  {
+    "id": "show-hn-gemini-pro-3-imagines-the-hn-front-page-10-years-from-now",
+    "name": "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
+    "website": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+    "oneLiner": "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
+    "founders": [],
+    "teamSignal": null,
+    "tractionSignal": {
+      "type": "hn",
+      "value": "3346 points, 965 comments",
+      "sourceUrl": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+      "date": "2025-12-09T15:00:38Z"
+    },
+    "sourceUrls": [
+      "https://dosaygo-studio.github.io/hn-front-page-2035/news"
+    ]
+  },
+  {
+    "id": "show-hn-i-made-an-open-source-laptop-from-scratch",
+    "name": "Show HN: I made an open-source laptop from scratch",
+    "website": "https://www.byran.ee/posts/creation/",
+    "oneLiner": "Show HN: I made an open-source laptop from scratch",
+    "founders": [
+      "Byran Huang"
+    ],
+    "teamSignal": "Byran Huang: High school student at Phillips Exeter Academy; built anyon_e as a fall term senior project and describes himself as a full-stack developer. Public coverage says he designed the laptop from scratch, including custom PCBs, chassis CAD, and open-source documentation.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "3237 points, 323 comments",
+      "sourceUrl": "https://www.byran.ee/posts/creation/",
+      "date": "2025-01-22T20:41:52Z"
+    },
+    "sourceUrls": [
+      "https://www.byran.ee/posts/creation/"
+    ]
+  },
+  {
+    "id": "show-hn-i-replaced-a-120k-bowling-center-system-with-1-600-in-esp32s",
+    "name": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "website": null,
+    "oneLiner": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "founders": [
+      "section33"
+    ],
+    "teamSignal": "section33: SRE; bought and operates a rural, defunct 8-lane bowling center; built an ESP32-based replacement system; no public evidence found here of prior startups or exits.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "2935 points, 360 comments",
+      "sourceUrl": "https://news.ycombinator.com/item?id=48968606",
+      "date": "2026-07-19T14:41:16Z"
+    },
+    "sourceUrls": [
+      "https://news.ycombinator.com/item?id=48968606"
+    ]
+  },
+  {
+    "id": "show-hn-if-youtube-had-actual-channels",
+    "name": "Show HN: If YouTube had actual channels",
+    "website": "https://ytch.xyz",
+    "oneLiner": "Show HN: If YouTube had actual channels",
+    "founders": [
+      "Hadi Safa"
+    ],
+    "teamSignal": "Hadi Safa: Single developer behind ytch.xyz; public coverage describes the project as a pet project. No public evidence found in the gathered results of prior startups or exits.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "2741 points, 514 comments",
+      "sourceUrl": "https://ytch.xyz",
+      "date": "2024-08-14T15:10:06Z"
+    },
+    "sourceUrls": [
+      "https://ytch.xyz"
+    ]
+  },
+  {
+    "id": "show-hn-a-retro-video-game-console-i-ve-been-working-on-in-my-free-time",
+    "name": "Show HN: A retro video game console I've been working on in my free time",
+    "website": "https://internalregister.github.io/2019/03/14/Homebrew-Console.html",
+    "oneLiner": "Show HN: A retro video game console I've been working on in my free time",
+    "founders": [
+      "Sérgio Vieira"
+    ],
+    "teamSignal": "Sérgio Vieira: Portuguese maker/developer who says he grew up in the 80s and 90s and has long been nostalgic for retro gaming; the site presents the project as a personal homebrew console build rather than a funded startup.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "2690 points, 210 comments",
+      "sourceUrl": "https://internalregister.github.io/2019/03/14/Homebrew-Console.html",
+      "date": "2019-03-14T20:25:03Z"
+    },
+    "sourceUrls": [
+      "https://internalregister.github.io/2019/03/14/Homebrew-Console.html"
+    ]
+  },
+  {
+    "id": "show-hn-redbean-single-file-distributable-web-server",
+    "name": "Show HN: Redbean – Single-file distributable web server",
+    "website": "https://justine.lol/redbean/index.html",
+    "oneLiner": "Show HN: Redbean – Single-file distributable web server",
+    "founders": [
+      "Justine Tunney"
+    ],
+    "teamSignal": "Justine Tunney: Independent software developer and creator of Redbean; also created Cosmopolitan Libc and Llamafile. Public profiles describe a strong technical background in cybersecurity, open-source systems work, and self-taught programming.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1998 points, 249 comments",
+      "sourceUrl": "https://justine.lol/redbean/index.html",
+      "date": "2021-02-26T03:33:56Z"
+    },
+    "sourceUrls": [
+      "https://justine.lol/redbean/index.html"
+    ]
+  },
+  {
+    "id": "show-hn-non-io-a-reddit-like-platform-ive-been-working-on-for-the-last-4-years",
+    "name": "Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years",
+    "website": "https://non.io",
+    "oneLiner": "Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years",
+    "founders": [
+      "jjcm"
+    ],
+    "teamSignal": "jjcm: No public founder bio or prior startup/exits found in the retrieved sources; the Show HN post identifies this person as the builder of non.io and links to the code/API.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1943 points, 590 comments",
+      "sourceUrl": "https://non.io",
+      "date": "2023-06-12T16:54:38Z"
+    },
+    "sourceUrls": [
+      "https://non.io"
+    ]
+  },
+  {
+    "id": "show-hn-i-may-have-created-a-new-type-of-puzzle",
+    "name": "Show HN: I may have created a new type of puzzle",
+    "website": "http://www.dogbunnypuzzle.com/",
+    "oneLiner": "Show HN: I may have created a new type of puzzle",
+    "founders": [
+      "Conrad Barski"
+    ],
+    "teamSignal": "Conrad Barski: Creator of the puzzle site; no funding or prior startup/exist-info was found in the gathered results. The public signal ties him to the 2022 HN launch and a follow-up article describing him as the creator of the puzzle.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1859 points, 464 comments",
+      "sourceUrl": "http://www.dogbunnypuzzle.com/",
+      "date": "2022-09-18T04:37:58Z"
+    },
+    "sourceUrls": [
+      "http://www.dogbunnypuzzle.com/"
+    ]
+  },
+  {
+    "id": "show-hn-i-3d-scanned-the-interior-of-the-great-pyramid-at-giza",
+    "name": "Show HN: I 3D scanned the interior of the Great Pyramid at Giza",
+    "website": "https://giza.mused.org/en/guided/266/inside-the-great-pyramid",
+    "oneLiner": "Show HN: I 3D scanned the interior of the Great Pyramid at Giza",
+    "founders": [
+      "Luke"
+    ],
+    "teamSignal": "Luke: Built the Mused guided tour product; publicly linked to the project via an email at mused.org. No reliable public evidence found in the retrieved results for prior startups, exits, or deeper technical background specific to this company.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1752 points, 280 comments",
+      "sourceUrl": "https://giza.mused.org/en/guided/266/inside-the-great-pyramid",
+      "date": "2022-10-27T13:31:25Z"
+    },
+    "sourceUrls": [
+      "https://giza.mused.org/en/guided/266/inside-the-great-pyramid"
+    ]
+  },
+  {
+    "id": "show-hn-elevators",
+    "name": "Show HN: Elevators",
+    "website": "https://john.fun/elevators",
+    "oneLiner": "Show HN: Elevators",
+    "founders": [],
+    "teamSignal": "The website at john.fun/elevators matches the Show HN: Elevators project and appears to be a product/demo page about elevator scheduling algorithms, but the gathered public results did not identify any funding round, launch announcement with amount, or founder names/backgrounds for this specific company.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1680 points, 415 comments",
+      "sourceUrl": "https://john.fun/elevators",
+      "date": "2026-07-31T15:17:28Z"
+    },
+    "sourceUrls": [
+      "https://john.fun/elevators"
+    ]
+  },
+  {
+    "id": "show-hn-web-design-in-4-minutes",
+    "name": "Show HN: Web Design in 4 minutes",
+    "website": "http://jgthms.com/web-design-in-4-minutes/",
+    "oneLiner": "Show HN: Web Design in 4 minutes",
+    "founders": [
+      "Jeremy Thomas"
+    ],
+    "teamSignal": "Jeremy Thomas: Creator of Web Design in 4 minutes; the site itself identifies him as the author, and his personal site describes him as building design systems and code websites for leaders and brands. No public funding signal was found for this project.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1624 points, 152 comments",
+      "sourceUrl": "http://jgthms.com/web-design-in-4-minutes/",
+      "date": "2016-07-26T16:17:42Z"
+    },
+    "sourceUrls": [
+      "http://jgthms.com/web-design-in-4-minutes/"
+    ]
+  },
+  {
+    "id": "show-hn-i-made-a-site-where-you-practice-typing-by-retyping-entire-novels",
+    "name": "Show HN: I made a site where you practice typing by retyping entire novels",
+    "website": "http://typelit.io",
+    "oneLiner": "Show HN: I made a site where you practice typing by retyping entire novels",
+    "founders": [
+      "Adam Doquiatan"
+    ],
+    "teamSignal": "Adam Doquiatan: Software engineer; founder of TypeLit.io. He said TypeLit.io began as a side project after graduating from the British Columbia Institute of Technology, and he described himself as a Canadian web developer who was new to the scene.[2][3]",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1589 points, 378 comments",
+      "sourceUrl": "http://typelit.io",
+      "date": "2020-10-06T11:37:53Z"
+    },
+    "sourceUrls": [
+      "http://typelit.io"
+    ]
+  },
+  {
+    "id": "show-hn-i-got-laid-off-from-meta-and-created-a-minor-hit-on-steam",
+    "name": "Show HN: I got laid off from Meta and created a minor hit on Steam",
+    "website": null,
+    "oneLiner": "Show HN: I got laid off from Meta and created a minor hit on Steam",
+    "founders": [
+      "newobj"
+    ],
+    "teamSignal": "newobj: Former Meta employee laid off in 2023; built and released the Steam game Ballionaire, described as a roguelike pachinko/plinko game and a successful indie launch.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1581 points, 356 comments",
+      "sourceUrl": "https://news.ycombinator.com/item?id=43186406",
+      "date": "2025-02-26T18:19:05Z"
+    },
+    "sourceUrls": [
+      "https://news.ycombinator.com/item?id=43186406"
+    ]
+  },
+  {
+    "id": "show-hn-jmail-google-suite-for-epstein-files",
+    "name": "Show HN: Jmail – Google Suite for Epstein files",
+    "website": "https://www.jmail.world",
+    "oneLiner": "Show HN: Jmail – Google Suite for Epstein files",
+    "founders": [
+      "Riley Walz",
+      "Luke Igel"
+    ],
+    "teamSignal": "Riley Walz: Internet artist and serial website creator; publicly credited as a creator of Jmail.; Luke Igel: Co-founder of Kino AI; publicly credited as a creator of Jmail. Reported as having a technical/product background building AI software.",
+    "tractionSignal": {
+      "type": "hn",
+      "value": "1557 points, 363 comments",
+      "sourceUrl": "https://www.jmail.world",
+      "date": "2025-12-20T21:00:05Z"
+    },
+    "sourceUrls": [
+      "https://www.jmail.world"
+    ]
+  }
+]

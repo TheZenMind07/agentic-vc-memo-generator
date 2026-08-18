@@ -1,0 +1,12 @@
+{
+  "candidateId": "wispr-flow",
+  "verdict": "watch",
+  "summary": "Wispr Flow is a voice-to-text productivity tool that promises faster, more accurate dictation. The team has strong technical pedigree, the product is polished, and the market timing is favorable given AI voice adoption. However, low defensibility (easily replicable, reliance on third-party models), modest traction, and unclear unit economics limit conviction. At 63/100, it's a watch.",
+  "rationale": "**Team (20/25, strong):** Founders have deep AI/ML background from Meta, Google; technical execution is credible.\n**Defensibility (5/25, weak):** No proprietary data or network effects; core technology is a wrapper over existing ASR/LLM APIs; switching costs low.\n**Product (15/20, good):** Sleek UI, low latency, promising accuracy — but value prop is incremental (slight speed gain vs. typing).\n**Market & Why-Now (15/20, solid):** Large addressable market (knowledge workers); tailwind from remote work and voice AI awareness; but competitors (Otter, descript, built-in OS dictation) are entrenched.\n**Traction (8/10, moderate):** Growing user base, positive reviews, but no revenue data or enterprise contracts; early-stage risk.\n**Score: 63/100 → verdict 'watch' per rule (score >= 50).** Critical risk: defensibility — without a moat, growth may stall if a big player clones features.",
+  "changeMyMind": [
+    "Signs of network effects (e.g., user-created voice profiles that improve accuracy for others, or team collaboration features) that lock in users.",
+    "First 10 paying enterprise customers or a revenue of $100k+ ARR, proving willingness to pay and unit economics.",
+    "Proprietary dataset or model fine-tuning that gives 10x+ accuracy over competitors, creating a defensible gap."
+  ],
+  "score": 63
+}

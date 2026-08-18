@@ -1,0 +1,95 @@
+{
+  "candidateId": "vantel",
+  "team": {
+    "summary": "Founders Love Redin and Ulme Wennberg lead a 5-person team accepted into YC W25. [inferred] Founders likely possess combined technical and commercial insurance domain expertise given the vertical focus.",
+    "founders": [
+      {
+        "name": "Love Redin",
+        "background": "[inferred] Likely technical or insurance operations background; co-founder of Vantel.",
+        "priorExits": null
+      },
+      {
+        "name": "Ulme Wennberg",
+        "background": "[inferred] Likely technical or insurance domain background; co-founder of Vantel.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Strong technical depth implied by AI-native platform architecture and YC selection for a vertical AI application.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI platform that automates end-to-end workflows for commercial insurance brokerages — such as quote generation, policy comparison, and client servicing — replacing manual processes with AI agents.",
+    "category": "Vertical AI / Insurtech",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Commercial insurance brokerage market is large (multi-billion dollar TAM) with thousands of independent brokerages in the US alone, representing a significant vertical SaaS opportunity.",
+    "competitiveLandscape": "[inferred] Competes with legacy agency management systems (e.g., Applied Systems, Vertafore) and emerging AI-driven insurtech tools; wedge is AI-native automation for broker-specific workflows.",
+    "whyNow": "[inferred] LLM cost collapse enables affordable unstructured document processing; carrier APIs and data standards (e.g., ACORD) are maturing; brokerages face margin pressure and talent shortages driving digitization urgency.",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Customer concentration risk if early revenue depends on a small number of large brokerages.",
+      "severity": "medium"
+    },
+    {
+      "text": "Regulatory and compliance complexity in insurance across jurisdictions may slow product iteration.",
+      "severity": "medium"
+    },
+    {
+      "text": "Horizontal AI platforms (e.g., generic document AI) could encroach on vertical workflow automation.",
+      "severity": "low"
+    }
+  ],
+  "score": 57,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "YC W25 acceptance signals baseline founder quality; team of 5 suggests early execution capacity. [inferred] Founder-market fit and technical depth appear plausible but unverified; no public evidence of prior exits or deep insurance domain operating experience."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Vertical workflow lock-in potential is high if product embeds deeply into broker operations, but at pre-launch/early stage there is no evidence of proprietary data accumulation, network effects, or switching costs yet. Differentiation currently rests on vertical focus rather than proven moat."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner clearly articulates value proposition. AI-native agent approach (end-to-end automation) aligns with thesis. Self-serve onboarding for SMB brokerages is plausible but unconfirmed; no product demo or user feedback available."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (commercial insurance brokerages) with credible large TAM. Why-now drivers (LLM cost collapse, carrier API maturity, labor pressure) are strong. Competitive landscape identified but wedge execution unproven."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch (Winter 2025) is a very recent, high-signal milestone indicating investor validation and early momentum. Team size of 5 suggests active development. No public metrics on paying customers or usage yet, but freshness is maximal."
+    }
+  ],
+  "scoreRationale": "Vantel scores moderately across criteria with strongest signal on traction freshness (YC W25) and market timing. Team and product show promise but lack public verification. Defensibility is earliest stage. Overall profile fits a high-potential early vertical AI investment pending validation of founder-market fit, product execution, and early customer adoption."
+}

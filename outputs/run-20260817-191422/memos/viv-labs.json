@@ -1,0 +1,12 @@
+{
+  "candidateId": "viv-labs",
+  "verdict": "watch",
+  "summary": "Viv Labs is a promising AI assistant startup with a strong team, innovative product, and large market opportunity. Scoring 80/100, it meets the threshold for a meeting, with no critical risks identified.",
+  "rationale": "The investment thesis scores well across all criteria: Team (strong technical founders with prior success), Defensibility (proprietary AI architecture and natural language understanding), Product (differentiated, context-aware assistant), Market & Why-Now (exploding demand for AI assistants, timing aligns with device proliferation), and Traction/Freshness (early but promising pilot engagements and media buzz). The 80/100 score reflects solid execution with minor areas for improvement (e.g., limited revenue, competitive landscape). No critical risk—such as regulatory threat, key person dependency, or technology failure—is present at this stage. Therefore, a meeting is warranted to explore deeper.",
+  "changeMyMind": [
+    "If a major competitor (e.g., Google, Apple) launches a directly competing product with superior capabilities, eroding Viv Labs' differentiation.",
+    "If the founding team loses a key technical leader or fails to attract a seasoned business development executive within the next quarter.",
+    "If early pilot customers report significant integration issues or low user engagement, indicating product-market fit problems."
+  ],
+  "score": 80
+}

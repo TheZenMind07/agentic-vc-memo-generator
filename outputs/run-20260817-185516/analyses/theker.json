@@ -1,0 +1,95 @@
+{
+  "candidateId": "theker",
+  "team": {
+    "summary": "Two co-founders with robotics and AI engineering backgrounds; no public record of prior startup exits.",
+    "founders": [
+      {
+        "name": "Carla Gómez Cano",
+        "background": "[inferred] Robotics and AI engineer, co-leads THEKER",
+        "priorExits": false
+      },
+      {
+        "name": "Jiaqiang Ye Zhu",
+        "background": "[inferred] Engineer/roboticist, co-leads THEKER with Carla Gómez Cano",
+        "priorExits": false
+      }
+    ],
+    "technicalDepth": "[inferred] Strong robotics and AI engineering expertise; likely capable of owning core model/integration layer in-house",
+    "sourceUrls": []
+  },
+  "product": {
+    "plainLanguage": "Building AI-native robotics systems.",
+    "category": "Robotics / AI hardware",
+    "sourceUrls": [
+      "https://www.fundedstartupsdaily.com/raises/robotics-hardware/"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": null,
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "High capital intensity and hardware execution risk typical of robotics startups",
+      "severity": "high"
+    },
+    {
+      "text": "No disclosed proprietary data, workflow lock-in, or network effects to defend against competitors",
+      "severity": "medium"
+    },
+    {
+      "text": "Unclear go-to-market motion; robotics hardware unlikely to support self-serve SMB onboarding",
+      "severity": "medium"
+    },
+    {
+      "text": "No public information on market size, vertical focus, or why-now drivers",
+      "severity": "high"
+    }
+  ],
+  "score": 47,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have direct robotics/AI engineering experience (founder-market fit) and likely technical depth to own core stack, but no public evidence of prior startup exits or domain operating experience at scale."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No public information on proprietary data, workflow lock-in, switching costs, or network effects; hardware+AI integration may create some defensibility but unverified."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Described as 'AI-native robotics company' suggesting end-to-end action (agent-like), but hardware focus likely precludes self-serve SMB onboarding; one-sentence description is clear."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical, size hint, why-now driver, or competitive landscape disclosed in available sources."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Raised $85M Series A (per fundedstartupsdaily.com), indicating strong investor confidence and capital for execution; signal is recent (fresh). No data on paying customers or active usage."
+    }
+  ],
+  "scoreRationale": "THEKER shows a strong founding team with relevant technical depth and a large fresh funding round, but lacks public evidence across defensibility, product specifics (self-serve SMB motion unlikely for hardware), market definition, and why-now drivers. The investment case hinges on execution of a capital-intensive robotics roadmap with unproven moats."
+}

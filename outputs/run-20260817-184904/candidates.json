@@ -1,0 +1,105 @@
+[
+  {
+    "id": "red-barn-robotics",
+    "name": "Red Barn Robotics",
+    "website": "https://www.redbarnrobotics.com",
+    "oneLiner": "A Roomba for weeds on a farm. ",
+    "founders": [
+      "Adam Iseman",
+      "Ilya Kelner",
+      "Alex Neff"
+    ],
+    "teamSignal": "Team size: 5",
+    "tractionSignal": {
+      "type": "launch",
+      "value": "YC W25 batch",
+      "sourceUrl": "https://www.ycombinator.com/companies/red-barn-robotics",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/red-barn-robotics"
+    ]
+  },
+  {
+    "id": "mentra",
+    "name": "Mentra",
+    "website": "https://mentra.glass",
+    "oneLiner": "Building the open source smart glasses operating system.",
+    "founders": [
+      "Cayden Pierce",
+      "Alexander Israelov"
+    ],
+    "teamSignal": "Team size: 12",
+    "tractionSignal": {
+      "type": "launch",
+      "value": "YC W25 batch",
+      "sourceUrl": "https://www.ycombinator.com/companies/mentra",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/mentra"
+    ]
+  },
+  {
+    "id": "blindpay",
+    "name": "BlindPay",
+    "website": "https://blindpay.com/",
+    "oneLiner": "Stablecoin API for global payments",
+    "founders": [
+      "Bernardo Simonassi",
+      "João Borges",
+      "Gabriel Lyra",
+      "Gustavo Marinho"
+    ],
+    "teamSignal": "Team size: 9",
+    "tractionSignal": {
+      "type": "launch",
+      "value": "YC W25 batch",
+      "sourceUrl": "https://www.ycombinator.com/companies/blindpay",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/blindpay"
+    ]
+  },
+  {
+    "id": "vantel",
+    "name": "Vantel",
+    "website": "https://vantel.com/",
+    "oneLiner": "AI Platform for Commercial Insurance Brokerages",
+    "founders": [
+      "Love Redin",
+      "Ulme Wennberg"
+    ],
+    "teamSignal": "Team size: 5",
+    "tractionSignal": {
+      "type": "launch",
+      "value": "YC W25 batch",
+      "sourceUrl": "https://www.ycombinator.com/companies/vantel",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/vantel"
+    ]
+  },
+  {
+    "id": "fira",
+    "name": "Fira",
+    "website": "https://firaresearch.com/",
+    "oneLiner": "Financial research platform for investment firms",
+    "founders": [
+      "Alex Tkachenko",
+      "Alexey Taktarov"
+    ],
+    "teamSignal": "Team size: 4",
+    "tractionSignal": {
+      "type": "launch",
+      "value": "YC W25 batch",
+      "sourceUrl": "https://www.ycombinator.com/companies/fira",
+      "date": null
+    },
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/fira"
+    ]
+  }
+]

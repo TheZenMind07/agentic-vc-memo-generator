@@ -1,0 +1,100 @@
+{
+  "candidateId": "acumino",
+  "team": {
+    "summary": "Three founders: Patrick Jarvis (CEO), Tom White (COO), Dr. Minas Liarokapis (CTO). Dr. Liarokapis has a robotics/AI technical background; no prior startup exits found for any founder in available sources.",
+    "founders": [
+      {
+        "name": "Patrick Jarvis",
+        "background": "Founder / CEO at Acumino; no prior startup or exit details found in gathered sources.",
+        "priorExits": null
+      },
+      {
+        "name": "Tom White",
+        "background": "Founder / COO at Acumino; no prior startup or exit details found in gathered sources.",
+        "priorExits": null
+      },
+      {
+        "name": "Dr. Minas Liarokapis",
+        "background": "Founder / CTO at Acumino; identified as a robotics/AI technical founder on company page.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "CTO Dr. Minas Liarokapis is identified as a robotics/AI technical founder, suggesting depth to own the core model/integration layer in-house.",
+    "sourceUrls": [
+      "https://growthlist.co/robotics-startups/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] AI-powered robotics automation for manufacturing, likely enabling robots to perform complex tasks via AI.",
+    "category": "AI robotics / manufacturing automation",
+    "sourceUrls": []
+  },
+  "market": {
+    "sizeHint": "[inferred] Global industrial robotics market ~$50B+; manufacturing automation growing.",
+    "competitiveLandscape": "[inferred] Competitors include Covariant, Osaro, Vicarious, plus traditional automation vendors.",
+    "whyNow": "[inferred] Advances in sim-to-real transfer, cheaper compute, and labor shortages drive adoption.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "High technical risk in sim-to-real transfer and robotic manipulation reliability",
+      "severity": "high"
+    },
+    {
+      "text": "Dependence on robotics hardware partners for deployment",
+      "severity": "medium"
+    },
+    {
+      "text": "Early stage with no reported customer traction or revenue",
+      "severity": "high"
+    },
+    {
+      "text": "Competition from well-funded incumbents and other AI robotics startups",
+      "severity": "medium"
+    }
+  ],
+  "score": 33,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "CTO has robotics/AI expertise, but no founder has documented prior startup exit; founder-market fit plausible but not strongly evidenced."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No public info on proprietary data moat or switching costs; may rely on technical differentiation which is not yet proven."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Only a generic one-liner available; no product details to assess if it's an AI-native agent or self-serve."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Manufacturing robotics is a large market with clear why-now trends, but Acumino's specific wedge and competitive positioning are unclear."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Raised $11.7M seed per GrowthList; however, no public metrics on paying customers, active usage, or launch; funding signal is positive but alone insufficient for higher rating."
+    }
+  ],
+  "scoreRationale": "Acumino shows promise with a technical founding team and significant seed funding, but lacks public evidence across product clarity, defensibility, and customer traction. The market opportunity is large and timely, but the startup's specific wedge and moat remain undefined. Overall, early-stage with high technical and market execution risk."
+}

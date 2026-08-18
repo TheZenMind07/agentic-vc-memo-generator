@@ -1,0 +1,23 @@
+[
+  {
+    "id": "motion",
+    "name": "Motion",
+    "website": "https://motion.com",
+    "oneLiner": "An AI agent platform for small and mid-sized businesses.",
+    "founders": [
+      "Harry Qi",
+      "Omid Rooholfada",
+      "Ethan Yu"
+    ],
+    "teamSignal": "Harry Qi: Co-founder and CEO. Dartmouth math + CS; worked as a quant trader for more than 2 years before founding Motion. Early narrative says he co-launched Motion in 2019 after leaving finance; later coverage says he built Motion with childhood friend Omid Rooholfada and college friend Ethan Yu. Strong technical/product background from quantitative trading and startup-building.; Omid Rooholfada: Co-founder. Yale math + CS; worked in engineering at Facebook and Optimizely before founding Motion. Described as a technical founder with startup/productivity-tool interest.; Ethan Yu: Co-founder. Dartmouth CS; worked as a quant trader for 3 years and as a software engineer at WhatsApp and Facebook before founding Motion. Strong technical and engineering background.",
+    "tractionSignal": {
+      "type": "funding",
+      "value": "$38M Series C to accelerate its SMB-focused AI agent platform",
+      "sourceUrl": "https://www.techbuzz.ai/articles/motion-raises-38m-to-build-ai-agent-microsoft-office-for-smbs",
+      "date": "2025-09-08"
+    },
+    "sourceUrls": [
+      "https://www.techbuzz.ai/articles/motion-raises-38m-to-build-ai-agent-microsoft-office-for-smbs"
+    ]
+  }
+]

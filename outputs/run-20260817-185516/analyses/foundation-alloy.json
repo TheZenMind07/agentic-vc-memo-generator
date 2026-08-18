@@ -1,0 +1,102 @@
+{
+  "candidateId": "foundation-alloy",
+  "team": {
+    "summary": "[inferred] Strong founding team with deep materials science expertise and manufacturing scale-up experience. CEO Jake Guglin brings operations leadership from SpaceX, Blue Origin, and Lightmatter. Scientific co-founders Chris Schuh (MIT) and Tim Rupert (Johns Hopkins) are recognized authorities in nanostructured metals for extreme environments.",
+    "founders": [
+      {
+        "name": "Jake Guglin",
+        "background": "[inferred] CEO/co-founder; previously strategy and operations roles at Lightmatter, Blue Origin, and SpaceX focused on manufacturing scale-up, procurement, and business operations; MBA from MIT, BA from Colgate University.",
+        "priorExits": null
+      },
+      {
+        "name": "Chris Schuh",
+        "background": "[inferred] Scientific advisor/co-founder; MIT-connected materials scientist who developed core technology underlying the company.",
+        "priorExits": null
+      },
+      {
+        "name": "Tim Rupert",
+        "background": "[inferred] Scientific advisor/co-founder; Director of the Hopkins Extreme Materials Institute at Johns Hopkins University; PhD in Materials Science and Engineering from MIT; research focuses on nanostructured metals and materials for extreme environments.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] Exceptional — core IP originates from academic leaders in nanostructured metals (MIT, Johns Hopkins) with direct relevance to robotics and extreme-environment applications.",
+    "sourceUrls": [
+      "https://foundationalloy.com"
+    ]
+  },
+  "product": {
+    "plainLanguage": "[inferred] Foundation Alloy develops advanced nanostructured metal alloys and manufacturing processes for robotics and extreme-environment applications, likely supplying material solutions rather than a software product.",
+    "category": "Advanced materials / deep-tech manufacturing",
+    "sourceUrls": [
+      "https://foundationalloy.com"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": "[inferred] Growing demand for high-performance materials in robotics, aerospace, and defense; potential tailwinds from increased domestic manufacturing focus and advances in materials informatics.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Technology risk: translating academic materials breakthroughs into reliable, scalable production.",
+      "severity": "high"
+    },
+    {
+      "text": "Capital intensity: deep-tech materials manufacturing requires significant CapEx and long qualification cycles.",
+      "severity": "high"
+    },
+    {
+      "text": "Market adoption risk: robotics OEMs may be slow to qualify new material suppliers.",
+      "severity": "medium"
+    },
+    {
+      "text": "Competition from established specialty metals producers and other advanced-materials startups.",
+      "severity": "medium"
+    }
+  ],
+  "score": 60,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founder-market fit is strong: CEO has direct manufacturing scale-up experience at SpaceX/Blue Origin; scientific co-founders are top-tier academics in the exact domain. Technical depth is exceptional. Prior startup operating experience present (Jake), though no prior exits evident. [inferred] based on provided bios and website."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary materials IP developed at MIT/JHU likely creates high switching costs once qualified in robotics/defense supply chains. Not dependent on a horizontal platform. Early stage but core technology appears fundamental. [inferred] from founder backgrounds and deep-tech nature."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Not an AI-native agent; it's a materials manufacturing company. No self-serve onboarding for SMBs (enterprise/defense sales cycle). One-liner is vague ('Materials and deep-tech company with robotics relevance'). Does not meet the rubric's product criteria for AI/software. [inferred] from one-liner and deep-tech categorization."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Vertical (advanced materials for robotics/extreme environments) is specific but size hint not provided. Why-now drivers (LLM cost collapse, vertical data availability) not directly applicable; possible tailwinds from robotics growth and supply-chain resilience. Competitors and wedge not identified. [inferred] from limited public info."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Live signal: $22M Series A raise (source: fundedstartupsdaily.com). No public data on paying customers, active usage, or product launch. Signal is recent (freshness) but limited to funding. [source: https://www.fundedstartupsdaily.com/raises/robotics-hardware/]"
+    }
+  ],
+  "scoreRationale": "Foundation Alloy presents a world-class team and deep technical moat in a hard-tech vertical, but it falls outside the thesis's core focus on AI-native, self-serve software products. The product criterion scores very low because the company is a materials manufacturer, not an AI agent. Market and traction signals are early. Overall, the investment thesis (AI-native vertical software) does not align with this deep-tech materials play."
+}

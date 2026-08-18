@@ -1,0 +1,104 @@
+{
+  "candidateId": "synthflow-ai",
+  "team": {
+    "summary": "Founders show some consulting and venture-building experience but limited direct startup exit history or deep technical domain expertise in voice AI. Technical depth is unclear.",
+    "founders": [
+      {
+        "name": "Hakob Astabatsyan",
+        "background": "Strategy consulting at BCG and venture building at Rocket Internet",
+        "priorExits": null
+      },
+      {
+        "name": "Albert Astabatsyan",
+        "background": "CFA, co-founder, no clear prior startup or exit history found",
+        "priorExits": null
+      },
+      {
+        "name": "Sassun Mirzakhan-Saky",
+        "background": "CTO, no clear prior startup or exit history found",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "[inferred] No evidence of deep technical background in AI/voice models; CTO background unknown",
+    "sourceUrls": [
+      "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes"
+    ]
+  },
+  "product": {
+    "plainLanguage": "No-code AI voice assistant platform for small businesses to handle customer interactions.",
+    "category": "AI voice agent for SMBs",
+    "sourceUrls": [
+      "https://synthflow.ai"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] Competitors likely include other AI voice assistant platforms for SMBs (e.g., Retell AI, Vapi, Bland AI), but no specific names or wedge stated",
+    "whyNow": "[inferred] LLM cost collapse and improved voice AI APIs enable affordable voice assistants for SMBs",
+    "sourceUrls": [
+      "https://synthflow.ai"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Thin LLM wrapper risk: no clear proprietary data or workflow lock-in; competitors can replicate easily",
+      "severity": "high"
+    },
+    {
+      "text": "Team lacks deep technical AI/voice expertise and prior startup exits",
+      "severity": "medium"
+    },
+    {
+      "text": "No clear market size or competitive wedge articulated",
+      "severity": "medium"
+    },
+    {
+      "text": "Traction signal limited to seed funding; no paying customers or active usage data",
+      "severity": "medium"
+    }
+  ],
+  "score": 39,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have consulting/venture-building experience but no clear founder-market fit in voice AI, limited technical depth, and no prior exits."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No evidence of proprietary data, workflow lock-in, or network effects; appears to be a thin LLM wrapper with low switching costs."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent (takes action end-to-end) and self-serve for SMBs, but one-liner is somewhat generic and not sharply differentiated."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "SMB voice assistant is a plausible vertical but no size hint, why-now is inferred, and no specific competitors or wedge stated."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Seed funding is a signal but no paying customers, active usage, or recent community activity; freshness is moderate."
+    }
+  ],
+  "scoreRationale": "Overall, Synthflow AI shows a reasonable product concept for SMB voice assistants but lacks defensibility, strong team credentials, and clear market positioning. The seed funding provides some traction, but the absence of proprietary technology or customer evidence limits conviction."
+}

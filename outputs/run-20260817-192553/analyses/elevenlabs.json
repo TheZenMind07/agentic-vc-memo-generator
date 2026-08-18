@@ -1,0 +1,96 @@
+{
+  "candidateId": "elevenlabs",
+  "team": {
+    "summary": "Founders have strong technical and operational backgrounds: Mati Staniszewski (Palantir, mathematics) and Piotr Dąbkowski (ex-Google ML engineer, Oxford/Cambridge). Both co-founded ElevenLabs in 2022, showing domain focus in AI voice. No prior startup exits mentioned.",
+    "founders": [
+      {
+        "name": "Mati Staniszewski",
+        "background": "Studied mathematics in London; previously worked at Palantir; co-founded ElevenLabs in 2022; CEO.",
+        "priorExits": null
+      },
+      {
+        "name": "Piotr Dąbkowski",
+        "background": "Ex-Google machine learning engineer; studied at Oxford and Cambridge; deep ML research background; co-founded ElevenLabs in 2022.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Strong: Piotr Dąbkowski has deep ML research and engineering background from Google; team builds foundational models in-house (TTS, transcription, music, dubbing, conversational).",
+    "sourceUrls": [
+      "https://www.business-standard.com/companies/start-ups/elevenlabs-raises-500-million-series-d-valuation-11-bn-126020401896_1.html",
+      "https://neuronfeed.com/category/ai-voice"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Voice AI company building foundational models for text-to-speech, transcription, music, dubbing, and conversational agents.",
+    "category": "AI voice / generative audio",
+    "sourceUrls": [
+      "https://elevenlabs.io"
+    ]
+  },
+  "market": {
+    "sizeHint": "[inferred] Large and growing market for AI voice applications across content creation, entertainment, accessibility, and enterprise communication; specific vertical size not provided.",
+    "competitiveLandscape": "[inferred] Competitors include other AI voice startups (e.g., Respeecher, Descript, Sonantic) and big tech (Google, Amazon, Microsoft) with TTS offerings; ElevenLabs differentiates via high-quality voice cloning and multilingual support.",
+    "whyNow": "[inferred] Advances in deep learning and LLM cost collapse enable high-fidelity voice synthesis; growing demand for personalized audio content and dubbing in media.",
+    "sourceUrls": [
+      "https://www.business-standard.com/companies/start-ups/elevenlabs-raises-500-million-series-d-valuation-11-bn-126020401896_1.html"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Dependence on a single horizontal platform (e.g., cloud providers) for model training and inference; potential for commoditization as LLM costs drop.",
+      "severity": "medium"
+    },
+    {
+      "text": "Regulatory and ethical risks around voice cloning, deepfakes, and misuse; could lead to legal challenges or platform restrictions.",
+      "severity": "high"
+    },
+    {
+      "text": "High valuation ($11B) implies significant growth expectations; any slowdown in traction could lead to down rounds.",
+      "severity": "medium"
+    }
+  ],
+  "score": 74,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong founder-market fit in AI voice; deep technical depth (ex-Google ML engineer, Palantir background); no prior startup exits mentioned, but strong domain operating experience."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Proprietary voice models and workflow lock-in for dubbing/content creation; some switching costs via API integration; but not fully independent of horizontal platforms (cloud compute)."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent (generates audio end-to-end); self-serve API and web interface for SMBs; clear one-liner: 'Voice AI company building foundational models.'"
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Specific vertical (AI voice) with large addressable market; why-now driven by LLM cost collapse and demand for synthetic media; identifiable competitors but wedge is high-quality voice cloning."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 5,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Exceptional traction: $500M Series D at $11B valuation (2024); strong market signal; freshness is high (recent round)."
+    }
+  ],
+  "scoreRationale": "ElevenLabs scores highly on Team (strong technical founders) and Traction (massive recent funding). Product is AI-native and self-serve. Defensibility is moderate due to potential commoditization and platform dependence. Market is large but competitive. Overall, a strong fit for the thesis, with traction being the standout criterion."
+}

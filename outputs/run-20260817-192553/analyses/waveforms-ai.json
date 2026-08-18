@@ -1,0 +1,99 @@
+{
+  "candidateId": "waveforms-ai",
+  "team": {
+    "summary": "Founders have strong technical depth in audio AI and business operations, but lack clear prior startup exit experience.",
+    "founders": [
+      {
+        "name": "Alexis Conneau",
+        "background": "Co-founder and CEO; former OpenAI researcher/voice lead, previously at Meta; technical depth in audio AI and speech/voice models.",
+        "priorExits": null
+      },
+      {
+        "name": "Coralie Lemaitre",
+        "background": "Co-founder and COO; background cited as Google/ads strategy; public sources also describe her as a business/product operator.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "Alexis Conneau has deep technical expertise in audio AI and voice models, likely sufficient to own the core model/integration layer in-house.",
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2024-12-09/ai-voice-startup-from-ex-openai-researcher-valued-at-200-million"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI audio software that enables better spoken conversations with computers by understanding emotional cues.",
+    "category": "AI audio / voice agent",
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2024-12-09/ai-voice-startup-from-ex-openai-researcher-valued-at-200-million"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "[inferred] Competitors likely include other AI voice startups (e.g., ElevenLabs, Hume AI) and big tech voice assistants; wedge is emotional understanding in spoken conversations.",
+    "whyNow": "[inferred] LLM cost collapse and advances in speech/emotion AI models enable new voice interaction paradigms.",
+    "sourceUrls": [
+      "https://www.bloomberg.com/news/articles/2024-12-09/ai-voice-startup-from-ex-openai-researcher-valued-at-200-million"
+    ]
+  },
+  "risks": [
+    {
+      "text": "No clear prior startup exit experience among founders, which may affect scaling and business execution.",
+      "severity": "medium"
+    },
+    {
+      "text": "Product category is competitive with many well-funded AI voice startups; differentiation on emotional cues may be hard to sustain.",
+      "severity": "high"
+    },
+    {
+      "text": "Market size and vertical specificity are not clearly articulated; risk of being too broad or niche.",
+      "severity": "medium"
+    },
+    {
+      "text": "Traction signal is limited to funding round; no evidence of paying customers or active usage yet.",
+      "severity": "high"
+    }
+  ],
+  "score": 50,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Strong technical depth in audio AI from CEO, but no clear prior startup exit; COO has business ops background but limited domain operating experience in voice AI."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Potential proprietary data from emotional cues, but unclear switching costs or network effects; risk of being a thin wrapper on LLM/voice APIs."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent for spoken conversations, but not clearly end-to-end action-taking; self-serve onboarding unknown; one-liner is clear."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "No specific vertical or size hint; why-now is plausible but not articulated; competitors identified only by inference."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Fresh $40M funding from a16z at $200M valuation is strong signal, but no evidence of paying customers or active usage; freshness is high."
+    }
+  ],
+  "scoreRationale": "The startup shows strong technical team and fresh funding, but lacks clear defensibility, market specificity, and product-market traction. Overall moderate potential with significant execution risk."
+}

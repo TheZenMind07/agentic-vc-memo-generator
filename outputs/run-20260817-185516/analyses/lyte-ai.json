@@ -1,0 +1,104 @@
+{
+  "candidateId": "lyte-ai",
+  "team": {
+    "summary": "Three co-founders, all former Apple engineers who built core depth-sensing and perception technology for Face ID. Strong founder-market fit for robotics perception; deep technical expertise in computer vision and sensor fusion. No prior startup exits or operating experience disclosed.",
+    "founders": [
+      {
+        "name": "Alexander Shpunt",
+        "background": "Ex-Apple engineer; contributed to Face ID depth-sensing and perception technology.",
+        "priorExits": null
+      },
+      {
+        "name": "Arman Hajati",
+        "background": "Ex-Apple engineer; contributed to Face ID depth-sensing and perception technology.",
+        "priorExits": null
+      },
+      {
+        "name": "Yuval Gerson",
+        "background": "Ex-Apple engineer; contributed to Face ID depth-sensing and perception technology.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "strong",
+    "sourceUrls": [
+      "https://siliconangle.com/2026/01/05/former-apple-face-id-engineers-launch-robotics-startup-lyte-107m-funding/"
+    ]
+  },
+  "product": {
+    "plainLanguage": "Robotics perception and environment understanding stack — software and algorithms that let robots see, interpret, and navigate the physical world.",
+    "category": "Robotics perception / Computer vision for robotics",
+    "sourceUrls": [
+      "https://siliconangle.com/2026/01/05/former-apple-face-id-engineers-launch-robotics-startup-lyte-107m-funding/"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "Competes with established sensor/perception platforms (e.g., NVIDIA Isaac, Intel RealSense, specialized startups like Slamcore, Zivid) and in-house robotics stacks.",
+    "whyNow": "Convergence of cheaper depth sensors, matured deep learning for 3D vision, and surging demand for autonomous mobile robots in logistics/manufacturing; founders bring proprietary Face ID‑grade perception IP.",
+    "sourceUrls": [
+      "https://siliconangle.com/2026/01/05/former-apple-face-id-engineers-launch-robotics-startup-lyte-107m-funding/"
+    ]
+  },
+  "risks": [
+    {
+      "text": "No prior startup founding or exit experience among the team; execution risk in transitioning from big‑tech R&D to a standalone product company.",
+      "severity": "medium"
+    },
+    {
+      "text": "Defensibility unclear: no disclosed proprietary data moat, workflow lock‑in, or network effects; differentiation may rely solely on algorithmic superiority which can be eroded.",
+      "severity": "high"
+    },
+    {
+      "text": "Product is a perception component, not an end‑to‑end AI agent; go‑to‑market likely requires deep integration with robot OEMs, not self‑serve SMB onboarding.",
+      "severity": "medium"
+    },
+    {
+      "text": "Market size and traction unproven: $107M funding at launch signals investor confidence but no paying customers, active usage, or product launch disclosed yet.",
+      "severity": "medium"
+    }
+  ],
+  "score": 64,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Exceptional founder-market fit and technical depth (Apple Face ID perception leads); however, zero prior startup/exit experience tempers the score."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Strong proprietary algorithmic IP from Face ID work, but no evidence of data moat, workflow lock-in, or network effects; differentiation currently rests on technical lead which may not be durable."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "Clear one-sentence description, but it is a perception library/component — not an AI-native agent that acts end-to-end, and not self-serve for SMBs (targets robot OEMs with heavy integration)."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Credible vertical (robotics perception) with plausible why-now (sensor cost drops, AI maturity, autonomy demand), but no size hint or articulated wedge beyond founder pedigree."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Very fresh, high-signal event: $107M raise at launch (Jan 2026). No paying customers or usage data yet, so signal is purely financial and recent."
+    }
+  ],
+  "scoreRationale": "Lyte AI scores highly on team and fresh funding traction, but product and defensibility are early-stage risks. The perception stack is a component play in a crowded, capital-intensive market; without demonstrated workflow lock-in or a self-serve wedge, the investment thesis hinges on the team converting Apple-grade IP into a defensible, scalable robotics platform."
+}

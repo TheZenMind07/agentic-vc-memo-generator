@@ -1,0 +1,93 @@
+{
+  "candidateId": "fira",
+  "team": {
+    "summary": "Two founders (Alex Tkachenko, Alexey Taktarov) with a team of 4, accepted into YC W25 batch. No public details on founder backgrounds, prior exits, or technical depth specific to financial research AI.",
+    "founders": [
+      {
+        "name": "Alex Tkachenko",
+        "background": null,
+        "priorExits": null
+      },
+      {
+        "name": "Alexey Taktarov",
+        "background": null,
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": null,
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/fira"
+    ]
+  },
+  "product": {
+    "plainLanguage": "A financial research platform designed for investment firms, likely leveraging AI to automate or augment research workflows.",
+    "category": "FinTech / Financial Research Software",
+    "sourceUrls": [
+      "https://www.ycombinator.com/companies/fira"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": null,
+    "whyNow": "[inferred] Potential why-now drivers include LLM cost collapse enabling affordable AI-driven financial analysis, and increasing availability of structured financial data via APIs.",
+    "sourceUrls": []
+  },
+  "risks": [
+    {
+      "text": "Limited public information on product differentiation, proprietary data moats, or switching costs.",
+      "severity": "medium"
+    },
+    {
+      "text": "Early-stage (YC W25) with no disclosed paying customers, revenue, or usage metrics.",
+      "severity": "high"
+    },
+    {
+      "text": "Potential dependence on third-party financial data providers, limiting defensibility.",
+      "severity": "medium"
+    }
+  ],
+  "score": 35,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "YC W25 acceptance provides a positive signal, but no evidence of founder-market fit in financial research, technical depth owning core models, or prior startup/exit experience."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 1,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "No information on proprietary data, workflow lock-in, network effects, or independence from horizontal platforms. Financial research platforms often rely on commoditized data feeds."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "One-liner is clear, but unclear if product is an AI-native agent (vs copilot), self-serve for SMBs (target is investment firms, not SMBs), or has demonstrated end-to-end action capability."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "Vertical (financial research for investment firms) is specific but no credible size hint provided. Why-now drivers inferred (LLM cost collapse, data APIs) but not articulated. Competitors and wedge unknown."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "YC W25 batch is a fresh signal (2025), but no live signals of paying customers, active usage, funding amount, or public launch activity beyond YC acceptance."
+    }
+  ],
+  "scoreRationale": "Overall, Fira shows early promise via YC acceptance but lacks public evidence across all rubric dimensions. Team and traction have minimal positive signals; defensibility, product depth, and market articulation are largely unknown. The company is too early to score highly on any criterion."
+}

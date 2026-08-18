@@ -1,0 +1,105 @@
+{
+  "candidateId": "synthflow-ai",
+  "team": {
+    "summary": "Founders have some relevant experience (consulting, venture building, telephony engineering) but lack deep domain expertise in voice AI or prior exits. Technical depth is plausible but not proven.",
+    "founders": [
+      {
+        "name": "Hakob Astabatsyan",
+        "background": "Co-founder and CEO; previously strategy consulting at BCG and venture building at Rocket Internet; also co-founder of Stack3 (2022-2023).",
+        "priorExits": null
+      },
+      {
+        "name": "Albert Astabatsyan",
+        "background": "Co-founder and CPO; limited public background beyond company materials.",
+        "priorExits": null
+      },
+      {
+        "name": "Sassun Mirzakhan-Saky",
+        "background": "Co-founder and CTO; leads engineering and technology strategy with focus on telephony, testing, and orchestration infrastructure for enterprise voice AI.",
+        "priorExits": null
+      }
+    ],
+    "technicalDepth": "CTO has telephony and orchestration focus; inferred they can own the integration layer but likely rely on external LLMs for core AI.",
+    "sourceUrls": [
+      "https://synthflow.ai",
+      "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes"
+    ]
+  },
+  "product": {
+    "plainLanguage": "AI voice assistants for SMEs.",
+    "category": "AI voice agent for customer service/sales",
+    "sourceUrls": [
+      "https://synthflow.ai"
+    ]
+  },
+  "market": {
+    "sizeHint": null,
+    "competitiveLandscape": "Competitors include Retell AI, Vapi, and other voice agent platforms; wedge not clearly articulated.",
+    "whyNow": "LLM cost collapse and improved voice APIs enable affordable AI voice assistants for SMEs.",
+    "sourceUrls": [
+      "https://synthflow.ai/blog/synthflow-raises-7-4m-in-seed-funding-for-its-ai-voice-assistants-for-smes"
+    ]
+  },
+  "risks": [
+    {
+      "text": "Low defensibility: likely a thin wrapper on LLM/TTS with limited proprietary data or workflow lock-in.",
+      "severity": "medium"
+    },
+    {
+      "text": "Team lacks deep domain expertise in voice AI or prior startup exits.",
+      "severity": "medium"
+    },
+    {
+      "text": "No customer traction or usage metrics disclosed; only seed funding signal.",
+      "severity": "medium"
+    },
+    {
+      "text": "Potential dependence on single horizontal LLM platform for differentiation.",
+      "severity": "medium"
+    }
+  ],
+  "score": 59,
+  "subScores": [
+    {
+      "key": "team",
+      "label": "Team",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.3,
+      "rationale": "Founders have some relevant experience (consulting, venture building, telephony) but lack deep domain fit or prior exits. Technical depth is plausible but unproven."
+    },
+    {
+      "key": "moat",
+      "label": "Defensibility",
+      "rating": 2,
+      "scale": 5,
+      "weight": 0.25,
+      "rationale": "Likely a thin wrapper on LLM/TTS with limited proprietary data or workflow lock-in; switching costs are low and no clear network effects."
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "rating": 4,
+      "scale": 5,
+      "weight": 0.2,
+      "rationale": "AI-native agent that takes end-to-end actions; self-serve onboarding likely for SMBs; clear one-liner."
+    },
+    {
+      "key": "market",
+      "label": "Market & Why-Now",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.15,
+      "rationale": "SME voice assistants is a specific vertical with large addressable market, but no size hint given. Why-now driver (LLM cost collapse) is valid. Competitors exist but wedge not clearly stated."
+    },
+    {
+      "key": "traction",
+      "label": "Traction / Freshness",
+      "rating": 3,
+      "scale": 5,
+      "weight": 0.1,
+      "rationale": "Only seed funding ($7.4M) as signal; no paying customers or active usage disclosed. Signal is recent."
+    }
+  ],
+  "scoreRationale": "The startup shows a solid product concept and timely market, but lacks defensibility and strong team credentials. Traction is limited to funding. Weighted score would be approximately 59/100, indicating a moderate investment fit."
+}

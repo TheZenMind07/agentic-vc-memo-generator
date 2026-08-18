@@ -1,0 +1,12 @@
+{
+  "candidateId": "snips",
+  "verdict": "pass",
+  "summary": "Snips scores 41/100, significantly below the threshold for consideration, indicating fundamental weaknesses across multiple evaluation criteria.",
+  "rationale": "The low score reflects critical issues: Team lacks relevant domain expertise or track record; no clear defensibility (no proprietary tech or network effects); product is early-stage with limited differentiation; market is crowded or unproven; traction is near-zero (no users or revenue); and no recent momentum. These collectively fail to meet the investment thesis.",
+  "changeMyMind": [
+    "Demonstrate a breakthrough in proprietary technology with a published benchmark or patent filing.",
+    "Sign 3+ pilot customers in a target vertical with letters of intent or paid commitments.",
+    "Hire a seasoned CEO or CTO with a successful exit in a related domain."
+  ],
+  "score": 41
+}
