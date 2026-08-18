@@ -1,0 +1,18 @@
+# env
+.env
+.env.*
+!.env.example
+
+# deps
+node_modules/
+
+# build / tooling
+dist/
+*.tsbuildinfo
+
+# run cache (raw fetch/LLM responses) — not committed
+outputs/*/.cache/
+
+# OS / editor
+.DS_Store
+*.log
