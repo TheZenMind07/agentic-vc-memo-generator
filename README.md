@@ -46,7 +46,7 @@ npm run pipeline -- --source feed  --input yc --batch W25     # single batch
 ## Models & cost
 
 - **Discovery/enrichment:** `perplexity/sonar` (real web search, ~$1/M tokens).
-- **Analysis/memos:** `deepseek/deepseek-v4-flash` (configurable via `--model`).
+- **Analysis/memos:** `nvidia/nemotron-3-ultra-550b-a55b:free` (configurable via `--model`).
 - Models, base URL, and key are configured under `llm` in `pipeline.config.json`.
 - A full 15-candidate run costs roughly $1–2.
 

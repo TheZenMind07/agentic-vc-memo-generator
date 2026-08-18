@@ -65,7 +65,7 @@ export const DEFAULT_RUBRIC: Rubric = {
 };
 
 export function defaultConfig(): RunConfig {
-  const model = "deepseek/deepseek-v4-flash";
+  const model = "nvidia/nemotron-3-ultra-550b-a55b:free";
   return {
     source: { type: "feed", feed: "yc" },
     thesis: { source: "default" },
